@@ -50,6 +50,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hyodae-seo
+ - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-4352-5080
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,5 +70,6 @@ highlight_name: false
 user_groups:
   - Professor
   - Principal Investigator
+---
 
 Dr. Hyodae Seo is an Associate Professor in the Department of Oceanography and an Associate Director of the Uehiro Center for the Advancement of Oceanography. He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. He combines high-resolution coupled modeling with theories of geophysical fluid dynamics and analyses of in situ and satellite observations to better understand the ocean-atmosphere coupled boundary layer processes, improve their representation in numerical models, and evaluate their influence on ocean, weather, and climate. Dr. Seo actively contributes to developing sustaining and sustainable ocean observing strategies and strives to engage the public around the issues related to ocean, extreme weather, climate, and ocean-based renewable energy research.
