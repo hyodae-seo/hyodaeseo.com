@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Seo Lab
       image:
         filename: images/hyodae.jpeg
       text: |
