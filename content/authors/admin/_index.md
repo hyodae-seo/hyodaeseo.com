@@ -50,7 +50,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hyodae-seo
- -  icon: orcid
+  -  icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-4352-5080
 # Link to a PDF of your resume/CV from the About widget.
