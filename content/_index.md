@@ -11,11 +11,11 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: images/liam.jpeg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to Seo lab at University of Hawaii, Manoa.
   
   - block: collection
     content:
