@@ -25,6 +25,6 @@ main:
   - name: Butterfly
     url: https://hseo.whoi.edu/butterfly-a-new-satellite-mission-concept/
     weight: 70
-     - name: UCAO
+  - name: UCAO
     url: https://www.soest.hawaii.edu/oceanography/uc-ao/
     weight: 80
