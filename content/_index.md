@@ -15,8 +15,11 @@ sections:
       text: |
         <br>
         
-        Welcome to Seo lab at University of Hawaii, Manoa.
-  
+        Associate Professor, Department of Oceanography
+        University of Hawaiʻi at Mānoa
+        1000 Pope Road, Honolulu, HI 96822, USA
+        Associate Director, Uehiro Center for the Advancement of Oceanography (UC•OA)
+         
   - block: collection
     content:
       title: Latest News
