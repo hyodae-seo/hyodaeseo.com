@@ -3,7 +3,7 @@
 title: Hyodae Seo
 
 # Full Name (for SEO)
-first_name: Hyodae Jun
+first_name: Hyodae
 last_name: Seo
 
 # Is this the primary user of the site?
@@ -26,15 +26,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Oceanography
+      institution: Scripps Institution of Oceanography, UC San Diego
+      year: 2007
+    - course: BSc in Atmospheric Sciences
+      institution: Yonsei University, Seoul, South Korea
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,6 +66,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Professor
----
+  - Principal Investigator
+  ---
 
 Dr. Hyodae Seo is an Associate Professor in the Department of Oceanography and an Associate Director of the Uehiro Center for the Advancement of Oceanography. He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. He combines high-resolution coupled modeling with theories of geophysical fluid dynamics and analyses of in situ and satellite observations to better understand the ocean-atmosphere coupled boundary layer processes, improve their representation in numerical models, and evaluate their influence on ocean, weather, and climate. Dr. Seo actively contributes to developing sustaining and sustainable ocean observing strategies and strives to engage the public around the issues related to ocean, extreme weather, climate, and ocean-based renewable energy research.
