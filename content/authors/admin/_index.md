@@ -18,7 +18,7 @@ organizations:
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
+bio: Physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
 interests:
   - Air-Sea Interaction
   - Surface Waves
@@ -29,7 +29,7 @@ education:
     - course: PhD in Oceanography
       institution: Scripps Institution of Oceanography, UC San Diego
       year: 2007
-    - course: BSc in Atmospheric Sciences
+    - course: BS in Atmospheric Sciences
       institution: Yonsei University, Seoul, South Korea
       year: 2002
 
@@ -67,6 +67,5 @@ highlight_name: false
 user_groups:
   - Professor
   - Principal Investigator
-  ---
 
 Dr. Hyodae Seo is an Associate Professor in the Department of Oceanography and an Associate Director of the Uehiro Center for the Advancement of Oceanography. He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. He combines high-resolution coupled modeling with theories of geophysical fluid dynamics and analyses of in situ and satellite observations to better understand the ocean-atmosphere coupled boundary layer processes, improve their representation in numerical models, and evaluate their influence on ocean, weather, and climate. Dr. Seo actively contributes to developing sustaining and sustainable ocean observing strategies and strives to engage the public around the issues related to ocean, extreme weather, climate, and ocean-based renewable energy research.
