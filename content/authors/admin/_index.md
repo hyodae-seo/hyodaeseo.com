@@ -3,7 +3,7 @@
 title: Hyodae Seo
 
 # Full Name (for SEO)
-first_name: Hyodae
+first_name: Hyodae Jun
 last_name: Seo
 
 # Is this the primary user of the site?
@@ -63,7 +63,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
