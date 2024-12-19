@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Hyodae Seo
+url: /
 
 # Full Name (for SEO)
 first_name: Hyodae
