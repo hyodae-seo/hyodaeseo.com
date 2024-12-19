@@ -32,7 +32,7 @@ sections:
 #          size: cover
 #          position: center
 #          parallax: false
-   - block: hero
+   - block: people
      content:
        title: Hyodae Seo
        subtitle: 
