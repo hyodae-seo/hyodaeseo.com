@@ -5,7 +5,7 @@
 
 main:
   - name: People
-    url: people
+    url: people @ UH/WHOI
     weight: 30
   - name: Publications
     url: publication

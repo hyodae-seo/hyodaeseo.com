@@ -5,8 +5,8 @@ title: Hyodae Seo
 #type: landing
 
 # Full Name (for SEO)
-first_name: Hyodae
-last_name: Seo
+first_name: Hyodae, 효대
+last_name: Seo, 서
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ organizations:
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
+bio: Dr. Hyodae Seo is an Associate Professor in the Department of Oceanography and an Associate Director of the Uehiro Center for the Advancement of Oceanography. He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. He combines high-resolution coupled modeling with theories of geophysical fluid dynamics and analyses of in situ and satellite observations to better understand the ocean-atmosphere coupled boundary layer processes, improve their representation in numerical models, and evaluate their influence on ocean, weather, and climate. Dr. Seo actively contributes to developing sustaining and sustainable ocean observing strategies and strives to engage the public around the issues related to ocean, extreme weather, climate, and ocean-based renewable energy research.
 interests:
   - Air-Sea Interaction
   - Surface Waves
