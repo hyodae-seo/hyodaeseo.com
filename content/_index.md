@@ -7,13 +7,11 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Seo Lab
+      title: Seo Lab
+      subtitle: University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
       image:
         filename: images/hyodae.jpeg
-      text: University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
-        <br>
-        <br>
+      text: 
         Associate Professor, Department of Oceanography
         University of Hawaiʻi at Mānoa
         1000 Pope Road, Honolulu, HI 96822, USA
