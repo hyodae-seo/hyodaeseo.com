@@ -9,22 +9,22 @@ main:
     weight: 30
   - name: Publications
     url: publication
-    weight: 50
+    weight: 40
   - name: SCOAR
     url: https://hseo.whoi.edu/scoar-model/
-    weight: 30
+    weight: 50
   - name: Projects
     url: https://hseo.whoi.edu/current-projects/
-    weight: 40
+    weight: 60
   - name: Publications
     url: publication
-    weight: 50
+    weight: 70
   - name: Teaching
     url: https://hseo.whoi.edu/teaching/
-    weight: 60
+    weight: 80
   - name: Butterfly
     url: https://hseo.whoi.edu/butterfly-a-new-satellite-mission-concept/
-    weight: 70
+    weight: 90
   - name: UCAO
     url: https://www.soest.hawaii.edu/oceanography/uc-ao/
-    weight: 80
+    weight: 90
