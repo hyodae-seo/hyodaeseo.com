@@ -32,7 +32,7 @@ education:
     - course: MSc Physics of the Earth and Atmosphere
       institution: University of Bonn, Germany
       year: 2013
-- course: BS in Meteorology
+    - course: BS in Meteorology
       institution: Freie Universität Berlin, Germany
       year: 2011
 
