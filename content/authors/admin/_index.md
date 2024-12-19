@@ -2,7 +2,7 @@
 # Display name
 title: Hyodae Seo
 
-type: landing
+#type: landing
 
 # Full Name (for SEO)
 first_name: Hyodae
