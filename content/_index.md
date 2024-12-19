@@ -5,12 +5,10 @@ date: 2024-12-18
 type: landing
 
 sections:
-  - block: hero
+  - block: resume-biography-3
     content:
-      title: Hyodae Seo
-      subtitle: 
-      image:
-        filename: hyodae.jpeg
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: hyodae-seo
       text: 
         University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
         Associate Professor, Department of Oceanography
@@ -18,6 +16,36 @@ sections:
         1000 Pope Road, Honolulu, HI 96822, USA
         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
         Senior Scientist, Woods Hole Oceanographic Institution (on leave)
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: media/cv.pdf
+    design:
+      css_class:
+      background:
+        color:
+        image:
+          # Add your image background to `assets/media/`.
+          filename:
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+
+ # - block: hero
+ #   content:
+ #     title: Hyodae Seo
+ #     subtitle: 
+ #     image:
+ #       filename: hyodae.jpeg
+ #     text: 
+ #       University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
+ #       Associate Professor, Department of Oceanography
+ #       University of Hawaiʻi at Mānoa
+ #       1000 Pope Road, Honolulu, HI 96822, USA
+ #       Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
+ #       Senior Scientist, Woods Hole Oceanographic Institution (on leave)
   - block: collection
     content:
       title: Latest News

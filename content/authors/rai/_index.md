@@ -70,8 +70,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#  - Postdoc
+user_groups:
+  - Postdoc
 ---
 
 I am a fluid dynamics enthusiast researching climate science, focusing on air-sea interaction. I conduct my research by running numerical simulations of the ocean and atmosphere on supercomputers.
