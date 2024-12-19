@@ -11,14 +11,14 @@ sections:
         Seo Lab
       image:
         filename: images/hyodae.jpeg
-      text: at University of Hawaiʻi at Mānoa & Woods Hole Oceanographic Institution
+      text: @ University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
         <br>
-        
+        <br>
         Associate Professor, Department of Oceanography
         University of Hawaiʻi at Mānoa
         1000 Pope Road, Honolulu, HI 96822, USA
         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
-        Senior Scientist, Physical Oceanography Department, Woods Hole Oceanographic Institution (on leave)
+        Senior Scientist, Woods Hole Oceanographic Institution (on leave)
   - block: collection
     content:
       title: Latest News
