@@ -26,7 +26,7 @@ sections:
         color:
         image:
           # Add your image background to `assets/media/`.
-          filename:
+          filename: image/hyodae.jpeg
           filters:
             brightness: 1.0
           size: cover
