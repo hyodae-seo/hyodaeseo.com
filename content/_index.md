@@ -32,13 +32,13 @@ type: landing
 #          size: cover
 #          position: center
 #          parallax: false
-   - block: hero
-     content:
-       title: Hyodae Seo
-       subtitle: 
-       image:
+  - block: hero
+    content:
+      title: Hyodae Seo
+      subtitle: 
+      image:
          filename: hyodae.jpeg
-       text: 
+      text: 
          University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
          Associate Professor, Department of Oceanography
          University of Hawaiʻi at Mānoa
