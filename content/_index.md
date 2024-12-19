@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Seo Lab
+      title: Hyodae Seo
       subtitle: 
       image:
         filename: hyodae.jpeg
