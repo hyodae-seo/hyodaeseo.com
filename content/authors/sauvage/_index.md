@@ -18,7 +18,7 @@ organizations:
     url: 'https://cesarsauvage.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
+bio: Dr. César Sauvage is an Oceanographer Researcher at the University of Hawaii at Manoa, working with Dr. Hyodae Seo. My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. To address these complex issues, I utilize coupled Earth system models, such as the SCOAR Regional Coupled Mode, which simulate interactions between the atmosphere, ocean, and surface waves. In addition to numerical simulations, I extensively analyze observational datasets of the marine boundary layer to evaluate current modeling capabilities and identify areas for improvement. Improving the representation of air-sea interactions in these models is crucial, not only for enhancing weather forecasts but also for optimizing offshore wind energy assessments..
 interests:
   - Air-Sea Interaction
   - Coupled Modeling

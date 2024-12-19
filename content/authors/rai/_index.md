@@ -18,7 +18,7 @@ organizations:
     url: 'https://github.com/raickhr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
+bio: I am a fluid dynamics enthusiast researching climate science, focusing on air-sea interaction. I conduct my research by running numerical simulations of the ocean and atmosphere on supercomputers.
 interests:
   - Air-Sea Interaction
   - Geophysical Fluid Dynamics
@@ -32,7 +32,7 @@ education:
     - course: MS in Mechanical Engineering
       institution: University of Rochester
       year: 2019
-- course: BS in Mechanical Engineering
+    - course: BS in Mechanical Engineering
       institution: Tribhuvan University, Nepal
       year: 2015
 

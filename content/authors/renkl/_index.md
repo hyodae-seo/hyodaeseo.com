@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
+bio: I am a climate scientist with background in atmospheric science and physical oceanography. My research focuses on interactions of the atmosphere, ocean, and cryosphere within climate as an integrated system. The overarching goal of my research is to better understand the role of air-sea-ice interactions and their teleconnections in weather and climate variability across a range of spatial and temporal scales. I am particularly interested in combining coupled numerical models and observations using a variety of statistical tools to improve our understanding of the climate system, including questions of predictability, longterm trends, and extreme events.
 interests:
   - Air-Sea Interaction
   - Climate Variability and Predictability
