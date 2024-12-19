@@ -46,7 +46,7 @@ social:
     link: 'mailto:christoph.renkl@whoi.edu'
   - icon: twitter
     icon_pack: fab
-    #link: https://x.com/hyodae
+    link: https://x.com/christophrenkl
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com//citations?user=HV4MRcIAAAAJ
