@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Seo Lab
+        Seo Lab at University of Hawaiʻi at Mānoa & Woods Hole Oceanographic Institution
       image:
         filename: images/hyodae.jpeg
       text: |
@@ -18,7 +18,7 @@ sections:
         University of Hawaiʻi at Mānoa
         1000 Pope Road, Honolulu, HI 96822, USA
         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
-
+        Senior Scientist, Woods Hole Oceanographic Institution (on leave)
   - block: collection
     content:
       title: Latest News
