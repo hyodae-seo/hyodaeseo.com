@@ -7,7 +7,7 @@ first_name: Christoph
 last_name: Renkl
 
 # Is this the primary user of the site?
-superuser: true
+superuser: no
 
 # Role/position
 role: Postdoctoral Investigator

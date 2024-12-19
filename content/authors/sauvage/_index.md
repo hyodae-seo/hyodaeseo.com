@@ -7,7 +7,7 @@ first_name: César
 last_name: Sauvage
 
 # Is this the primary user of the site?
-superuser: true
+superuser: no
 
 # Role/position
 role: Oceanographic Researcher

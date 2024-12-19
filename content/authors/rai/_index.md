@@ -7,7 +7,7 @@ first_name: Shikhar
 last_name: Rai
 
 # Is this the primary user of the site?
-superuser: true
+superuser: no
 
 # Role/position
 role: Postdoctoral Investigator
