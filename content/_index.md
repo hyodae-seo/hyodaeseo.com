@@ -45,8 +45,7 @@ sections:
          1000 Pope Road, Honolulu, HI 96822, USA
          Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
          Senior Scientist, Woods Hole Oceanographic Institution (on leave)
-
-  - block: collection
+#  - block: collection
 #    content:
 #      title: Latest News
 #      subtitle:
