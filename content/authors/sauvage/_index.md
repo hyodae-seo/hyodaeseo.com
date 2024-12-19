@@ -15,7 +15,7 @@ role: Oceanographic Researcher
 # Organizations/Affiliations
 organizations:
   - name: University of Hawaii at Manoa
-    url: 'https://cesarsauvage.github.io/'
+    url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. César Sauvage is an Oceanographer Researcher at the University of Hawaii at Manoa, working with Dr. Hyodae Seo. My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. To address these complex issues, I utilize coupled Earth system models, such as the SCOAR Regional Coupled Mode, which simulate interactions between the atmosphere, ocean, and surface waves. In addition to numerical simulations, I extensively analyze observational datasets of the marine boundary layer to evaluate current modeling capabilities and identify areas for improvement. Improving the representation of air-sea interactions in these models is crucial, not only for enhancing weather forecasts but also for optimizing offshore wind energy assessments..
@@ -41,9 +41,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:csauvage@hawaii.edu'
-  - icon: twitter
-    icon_pack: fab
-    #link: https://x.com/hyodae
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://x.com/hyodae
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=blLcOHQAAAAJ&hl=fr

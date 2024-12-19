@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-12-18
 type: landing
 
 sections:
@@ -17,7 +17,7 @@ sections:
         Associate Professor, Department of Oceanography
         University of Hawaiʻi at Mānoa
         1000 Pope Road, Honolulu, HI 96822, USA
-        Associate Director, Uehiro Center for the Advancement of Oceanography (UC•OA)
+        Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
 
   - block: collection
     content:
