@@ -1,36 +1,39 @@
 ---
 # Display name
-title: César Sauvage
+title: Shikhar Rai
 
 # Full Name (for SEO)
-first_name: César
-last_name: Sauvage
+first_name: Shikhar 
+last_name: Rai
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Oceanographic Researcher
+role: Postdoctoral Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Hawaii at Manoa
-    url: 'https://cesarsauvage.github.io/'
+  - name: Woods Hole Oceanogrphaic Institution
+    url: 'https://github.com/raickhr'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Physical oceanographer, climate scientist,and numerical modeler, with a broad range of research and teaching interests in oceanic and atmospheric processes and their interactions relating to climate and offshore wind energy.
 interests:
   - Air-Sea Interaction
-  - Coupled Modeling
-  - Extreme Events
+  - Geophysical Fluid Dynamics
+  - Turbulence
 
 education:
   courses:
-    - course: PhD in Oceanography
-      institution: CNRM, Toulouse, France
+    - course: PhD in Mechanical Engineering
+      institution: University of Rochester
+      year: 2023
+    - course: MS in Mechanical Engineering
+      institution: University of Rochester
       year: 2019
-    - course: BS in Hydrology
-      institution: Polytech’Nice-Sophia Antipolis, France
+- course: BS in Mechanical Engineering
+      institution: Tribhuvan University, Nepal
       year: 2015
 
 # Social/Academic Networking
@@ -40,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:csauvage@hawaii.edu'
+    link: 'mailto:shikhar.rai@whoi.edu'
   - icon: twitter
     icon_pack: fab
     #link: https://x.com/hyodae
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=blLcOHQAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=54YLcfMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/cesarsauvage
+    link: https://github.com/raickhr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher
+  - Postdoc
 ---
 
-Dr. César Sauvage is an Oceanographer Researcher at the University of Hawaii at Manoa, working with Dr. Hyodae Seo. My research focuses on advancing our understanding of air-sea interactions and exploring how the ocean influences both regional weather and climate. To address these complex issues, I utilize coupled Earth system models, such as the SCOAR Regional Coupled Mode, which simulate interactions between the atmosphere, ocean, and surface waves. In addition to numerical simulations, I extensively analyze observational datasets of the marine boundary layer to evaluate current modeling capabilities and identify areas for improvement. Improving the representation of air-sea interactions in these models is crucial, not only for enhancing weather forecasts but also for optimizing offshore wind energy assessments.
+I am a fluid dynamics enthusiast researching climate science, focusing on air-sea interaction. I conduct my research by running numerical simulations of the ocean and atmosphere on supercomputers.
