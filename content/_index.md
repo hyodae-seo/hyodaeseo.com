@@ -5,7 +5,7 @@ date: 2024-12-18
 type: landing
 
 sections:
-  - block: resume-biography-3
+   - block: resume-biography-3
    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: seo
