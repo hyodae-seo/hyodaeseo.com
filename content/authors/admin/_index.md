@@ -7,7 +7,7 @@ first_name: Hyodae
 last_name: Seo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: yes
 
 # Role/position
 role: Associate Professor
