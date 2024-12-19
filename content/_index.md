@@ -11,7 +11,7 @@ sections:
         Seo Lab
       image:
         filename: images/hyodae.jpeg
-      text: @ University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
+      text: University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
         <br>
         <br>
         Associate Professor, Department of Oceanography
