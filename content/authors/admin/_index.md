@@ -5,8 +5,8 @@ title: Hyodae Seo
 #type: landing
 
 # Full Name (for SEO)
-first_name: Hyodae, 효대
-last_name: Seo, 서
+first_name: Hyodae
+last_name: Seo
 
 # Is this the primary user of the site?
 superuser: true
