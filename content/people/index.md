@@ -1,5 +1,5 @@
 ---
-title: People
+title: 
 date: 2024-12-18
 
 type: landing
@@ -12,6 +12,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Professor
+          - People
           - Researcher
           - Postdoc
           - Graduate Student
