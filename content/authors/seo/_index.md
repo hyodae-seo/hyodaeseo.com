@@ -24,7 +24,7 @@ interests:
   - Air-Sea Interaction
   - Climate Dynamics
   - Synoptic Meteorology
-  - Ocean Dynamics
+  - Ocean Mesoscale Processes
   - Surface Waves
   - Offshore Wind Energy
 
