@@ -1,5 +1,5 @@
 ---
-title: DOE Wind Forecast Improvement Project (WFIP-3)
+title: DOE Wind Forecast Improvement Project III (WFIP-3) (co-PI Seo)
 date: 2024-12-19
 ---
 
