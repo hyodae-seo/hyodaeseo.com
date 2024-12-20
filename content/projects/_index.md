@@ -1,5 +1,5 @@
 ---
-title: Current Projects
+title: 
 
 # Listing view
 view: compact
