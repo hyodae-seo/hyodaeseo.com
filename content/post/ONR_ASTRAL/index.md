@@ -1,6 +1,6 @@
 ---
-title: ONR ASTraL DRI (2022-2027): Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea
-date: 2020-12-01
+title: ONR ASTraL DRI (2022-2027) Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea
+date: 2024-12-19
 ---
 
 ASTraL will improve in situ characterization of air-sea exchanges of heat, mass, and momentum, including amplitudes and space-time variability, and provide useful and practical observational constraints for prediction models across scales. 
