@@ -1,6 +1,7 @@
 ---
 title: NSF Physical Oceanography/Climate and Large-scale Dynamics (PI Seo)
 date: 2024-12-19
+image: Q2_Feb1988SST_AR_ERAI.gif
 ---
 
 Collaborative Research: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate: Current Conditions and Future Projections
