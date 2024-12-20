@@ -1,5 +1,5 @@
 ---
-title: 
+title: pubs
 
 # Listing view
 view: citation
