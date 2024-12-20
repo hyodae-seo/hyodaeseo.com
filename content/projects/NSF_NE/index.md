@@ -1,5 +1,5 @@
 ---
-title: NSF Physical Oceanography
+title: NSF Physical Oceanography (PI Seo)
 date: 2024-12-19
 ---
 

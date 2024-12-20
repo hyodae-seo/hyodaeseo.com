@@ -1,5 +1,5 @@
 ---
-title: NSF Physical Oceanography/Climate and Large-scale Dynamics
+title: NSF Physical Oceanography/Climate and Large-scale Dynamics (PI Seo)
 date: 2024-12-19
 ---
 
