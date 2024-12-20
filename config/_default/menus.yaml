@@ -11,7 +11,7 @@ main:
     url: publication
     weight: 40
   - name: Projects
-    url: https://hseo.whoi.edu/current-projects/
+    url: projects
     weight: 50
   - name: Teaching
     url: https://hseo.whoi.edu/teaching/
