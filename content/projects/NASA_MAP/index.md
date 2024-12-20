@@ -1,7 +1,7 @@
 ---
 title: NASA Modeling, Analysis, and Prediction Program (PI Seo)
 date: 2024-12-19
-image: superbomb.gif
+image: media/superbomb.gif
   focal_point: 'top'
 ---
 
