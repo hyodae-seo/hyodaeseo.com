@@ -12,8 +12,8 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator
-          - UH Members
-          - WHOI Members
+          - Seo Lab @ UH 
+          - Seo Lab @ WHOI
       #    - Researcher
       #    - Postdoc
       #    - Graduate Student
