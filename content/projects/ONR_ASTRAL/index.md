@@ -3,7 +3,7 @@ tite: Improving the model simulation of surface wave impacts on air-sea fluxes, 
 date: 2024-12-19
 ---
 
-ONR The Arabian Sea Transition Layer (ASTRAL), Exchange Across the Air-Sea Interface DRI, PI: H. Seo (UH)
+Office of Naval Research (ONR) The Arabian Sea Transition Layer (ASTRAL), Exchange Across the Air-Sea Interface DRI, PI: H. Seo (UH)
 <!--more-->
 
 ASTraL will improve in situ characterization of air-sea exchanges of heat, mass, and momentum, including amplitudes and space-time variability, and provide useful and practical observational constraints for prediction models across scales. Since air-sea fluxes and their interactions with turbulent boundary layers in the ocean and atmosphere are entirely parameterized in prediction models, accurate representation of these coupled interactions is critical for improved predictive capabilities in Earth System modeling. We propose a model-data synthesis project that will validate, refine, and re-engineer (if necessary) the parameterizations for air-sea fluxes mediated by surface waves and their interaction with turbulent boundary layer processes in the Arabian Sea. The focus is on the spring-to-summer transition season, where the Arabian Sea exhibits peculiar sea states dominated by swell and mixed seas, whose effects on air-sea fluxes remain poorly captured even in the most advanced bulk flux algorithms. Subsequent impacts on the formation and collapse of the mini-warm pool and the onset of the summer monsoons in simulation and forecast models must be quantified.
