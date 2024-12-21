@@ -3,7 +3,7 @@ title: NASA Modeling, Analysis, and Prediction Program (PI Seo)
 date: 2024-12-19
 ---
 
-Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US
+Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US PI: H. Seo (WHOI/UH) and C.-A. Clayson (WHOI)
 <!--more-->
 
 This project will develop a better understanding of the physical processes governing the structure and evolution of the marine atmospheric boundary layer (MABL) in the Northeastern US and the New England shelf regions.
@@ -15,7 +15,3 @@ The project will undertake comprehensive modeling and validation efforts of the 
 The project’s most significant outcome is to solidify the dynamical framework for enhancing our scientific understanding of air-sea coupling and PBL dynamics in high-resolution numerical models by demonstrating how a better understanding and representation of the MABL processes improves the fidelity and accuracy of weather and climate prediction models. The project will also provide new and improved NU-WRF hindcast/forecast capabilities over the ocean, with differing levels of representation of the ocean and waves coupling options. The improved COARE bulk flux algorithm will be coupled with a variety of available surface flux and PBL schemes within WRF, immediately benefiting the broad WRF modeling community.
 
 This project is well-aligned with the long-standing goal of the NASA MAP Program to “understanding of the Earth as a complete, dynamic system.” It is also relevant to the specific research theme included in the 2020 MAP solicitation on “Coupling in the Earth System” as the project will advance our understanding and increase our capacity to represent the coupling across the air-sea boundary layer in weather and climate model by using a unique set of in situ MABL measurements. Further, our investigation of air-sea interaction and model skills in the NU-WRF under high-impact weather events is relevant to the research theme on “Extremes in the Earth System”. The work is highly relevant to science related to incubation observing-system priorities in the 2017 NASA Decadal Survey related to the PBL.
-
-PI: Hyodae Seo
-
-co-Is: Jim Edson, Carol Anne Clayson

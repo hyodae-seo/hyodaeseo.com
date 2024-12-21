@@ -1,9 +1,9 @@
 ---
-title: ONR The Arabian Sea Transition Layer (ASTRAL), Exchange Across the Air-Sea Interface (PI Seo)
+title: ONR The Arabian Sea Transition Layer (ASTRAL), Exchange Across the Air-Sea Interface DRI
 date: 2024-12-19
 ---
 
-Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea. 
+Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea. PI: H. Seo (UH)
 
 <!--more-->
 

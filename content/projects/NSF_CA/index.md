@@ -1,9 +1,9 @@
 ---
-title: NSF Physical Oceanography/Climate and Large-scale Dynamics (PI Seo)
+title: NSF Physical Oceanography/Climate and Large-scale Dynamics
 date: 2024-12-19
 ---
 
-Collaborative Research: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate: Current Conditions and Future Projections
+Collaborative Research: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate: Current Conditions and Future Projections. PI: Hyodae Seo (WHOI/UH), A. Miller (Scripps)
 <!--more-->
 
 The coastal climate of California is profoundly affected by the ocean, which moderates its hot summers and provides moisture for much-needed winter rains. While the importance and impact of the mean state of the ocean are well appreciated, the impact of the anomalous state of the ocean on coastal climate is far less well understood. 
@@ -12,4 +12,3 @@ Sea surface temperature (SST) and ocean surface current anomalies, ranging from 
 
 Clarifying the processes that control observed and future changes in coastal climate supports the intensive community research effort directed towards improved understanding of climate change at the regional-to-local scale. Our extensive physical diagnostics of model simulations and observational comparisons will also elucidate the coupled physical processes accounting for long-term changes in coastal upwelling that are affected by mesoscale ocean-atmosphere feedbacks and projected changes in large-scale drivers. Determining the dynamic and thermodynamic controls of the multiple forcing drivers can also help to improve the basic state of global coarse-resolution climate simulations, which typically suffer from strong biases in eastern boundary upwelling systems. The results may also lead to improved short-term climate predictions by better resolving the influence of anomalous ocean states and ocean-atmosphere interactions in dynamical forecasting frameworks. In summary, we address a vital range of scales and processes that are not adequately resolved by current climate datasets and global climate models in order to improve our overall understanding of regional coastal climate variability, sensitivity, and predictability.
 
-PIs: Hyodae Seo (Woods Hole Oceanographic Institution) and Arthur Miller (Scripps Institution of Oceanography)

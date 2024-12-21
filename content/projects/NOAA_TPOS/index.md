@@ -3,7 +3,7 @@ title: NOAA CVP Tropical Pacific Observing System (TPOS) Pre-field Modeling (Seo
 date: 2024-12-19
 ---
 
-Exploiting coupled ocean-atmosphere-wave model simulations to identify observational requirements for air-sea interaction studies across the tropical Pacific.  
+Exploiting coupled ocean-atmosphere-wave model simulations to identify observational requirements for air-sea interaction studies across the tropical Pacific. PIs: H. Seo (WHOI/UH) and S. Wijffels (WHOI)
 
 <!--more-->
 
@@ -17,4 +17,3 @@ Our combined model simulations and data analyses aim to provide specific and hel
 
 The project directly contributes to the most relevant priority areas of TPOS Process Studies and TPOS2020, and the NOAA's broad mission of improved environmental prediction by enhancing the predictability of the evolution of the Pacific climate system on seasonal to interannual time-scales. First, the project will examine the roles of surface waves, stratification and mixing, and eddies and fronts, the primary observational foci of the TPOS process studies. The refined model and improved process understanding will guide the design of a distributed array of in situ observations to improve space-time sampling. Secondly, it is of primary interest to TPOS to determine whether and how the improved representation of air-sea interaction improves the simulations of the critical large-scale variability such as MJO and ENSO. The enhanced mechanistic understanding of the upscaling effect will aid the improved extended-range and seasonal to multi-year predictions.
 
-PIs: Hyodae Seo and Susan Wijffels

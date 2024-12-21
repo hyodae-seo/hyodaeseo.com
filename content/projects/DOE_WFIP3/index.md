@@ -3,7 +3,7 @@ title: DOE Wind Forecast Improvement Project III (WFIP-3) (co-PI Seo)
 date: 2024-12-19
 ---
 
-Improving High-Resolution Offshore Wind Resource Assessment and Forecasts Using Observations in the MA/RI Lease Areas.
+Improving High-Resolution Offshore Wind Resource Assessment and Forecasts Using Observations in the MA/RI Lease Areas. (co-PI, H. Seo)
 <!--more-->
 
 This is a comprehensive observational and modeling study of the coupled atmospheric and oceanic boundary layers that will dramatically improve offshore windresource measurement and modeling science. Focusing on physical processes relevant to all U.S. offshore wind energy areas via observations of the Northeast U.S. outer continental shelf, this effort will increase our understanding of the coupled atmosphere-ocean system in wind energy areas as well as improve our ability to reliably predict boundary layer winds and properties critical for industry-specific resource assessment, load analyses, and design criteria. The Northeast shelf is home to five major offshore wind energy lease areas, including areas likely to be active and in construction during the field campaign, in addition to numerous ongoing scientific monitoring efforts. This study will combine the observational efforts of a diverse, experienced group of research and industry partners with an expert modeling team to improve wind resource forecasting abilities in an area with challenging offshore meteorological and oceanic conditions.
@@ -16,4 +16,4 @@ Detailed observations of the MABL’s vertical structure at key sites will be us
 
 Working directly with industry partners, we will develop applications that transition the model improvements into enhanced forecasting tools and uncertainty quantification in collaboration with grid and developer partners. Applications including improved lower order models, and improved understanding of how to use them, will be released publicly for the benefit of the industry, along with uncertainty quantification, validation, and design enhancement studies. Experimentation with the coupled model will enable us to develop ocean models, parameterizations, or data products of lesser complexity suited to industry applications. By incorporating our modeling developments into industry workflows, we will quantify the improvements to wind energy yield and design load calculations. These activities will be guided by a User Advisory Board composed of our partners, grid operators and wind plant developers with specific knowledge of industry concerns. All project data, model output, and model improvements will be widely disseminated via direct industry involvement, publications, and public data repositories.
 
-Seo is a WHOI co-PI and a part of a large team of academic institutions, national labs, and industries.
+Seo is a WHOI/UH co-PI and a part of a large team of academic institutions, national labs, and industries.
