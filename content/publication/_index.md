@@ -1,5 +1,5 @@
 ---
-title: pub 
+title:  
 
 
 # Listing view
