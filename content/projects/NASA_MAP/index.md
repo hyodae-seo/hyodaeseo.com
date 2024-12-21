@@ -1,5 +1,5 @@
 ---
-title: Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US.
+title: Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US
 date: 2024-12-19
 ---
 NASA Modeling, Analysis, and Prediction Program PI: H. Seo (WHOI/UH) and C.-A. Clayson (WHOI)

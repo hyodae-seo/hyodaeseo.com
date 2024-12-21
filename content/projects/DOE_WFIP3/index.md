@@ -1,5 +1,5 @@
 ---
-title: Improving High-Resolution Offshore Wind Resource Assessment and Forecasts Using Observations in the MA/RI Lease Areas. 
+title: Improving High-Resolution Offshore Wind Resource Assessment and Forecasts Using Observations in the MA/RI Lease Areas 
 date: 2024-12-19
 ---
 
