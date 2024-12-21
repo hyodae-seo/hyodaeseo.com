@@ -3,7 +3,7 @@ title: Exploiting coupled ocean-atmosphere-wave model simulations to identify ob
 date: 2024-12-19
 ---
 
-NOAA CVP Tropical Pacific Observing System (TPOS) Pre-field Modeling (Seo, PI)
+National Oceanic and Atmospheric Administration (NOAA) CVP Tropical Pacific Observing System (TPOS) Pre-field Modeling (Seo, PI)
 <!--more-->
 
 The goal of the TPOS2020 project is to design an efficient and effective backbone observing system to better understand the processes in the tropical Pacific that are instrumental to the El Niño-Southern Oscillation (ENSO) and provide useful observational constraints for predictions. The process studies being planned in the western and eastern equatorial Pacific are intended to shed light on physical processes and guide the design and development of the TPOS.

@@ -1,5 +1,5 @@
 ---
-tite: Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea
+title: Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea
 date: 2024-12-19
 ---
 
