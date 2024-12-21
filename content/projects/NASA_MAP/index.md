@@ -1,9 +1,8 @@
 ---
-title: NASA Modeling, Analysis, and Prediction Program
+title: Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US.
 date: 2024-12-19
 ---
-
-Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US PI: H. Seo (WHOI/UH) and C.-A. Clayson (WHOI)
+NASA Modeling, Analysis, and Prediction Program PI: H. Seo (WHOI/UH) and C.-A. Clayson (WHOI)
 <!--more-->
 
 This project will develop a better understanding of the physical processes governing the structure and evolution of the marine atmospheric boundary layer (MABL) in the Northeastern US and the New England shelf regions.

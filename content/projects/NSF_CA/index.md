@@ -1,9 +1,9 @@
 ---
-title: NSF Physical Oceanography/Climate and Large-scale Dynamics
+title: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate; Current Conditions and Future Projections
 date: 2024-12-19
 ---
 
-Collaborative Research: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate: Current Conditions and Future Projections. PI: Hyodae Seo (WHOI/UH), A. Miller (Scripps)
+NSF Physical Oceanography/Climate and Large-scale Dynamics, PI: Hyodae Seo (WHOI/UH), A. Miller (Scripps)
 <!--more-->
 
 The coastal climate of California is profoundly affected by the ocean, which moderates its hot summers and provides moisture for much-needed winter rains. While the importance and impact of the mean state of the ocean are well appreciated, the impact of the anomalous state of the ocean on coastal climate is far less well understood. 

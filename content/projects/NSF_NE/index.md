@@ -1,9 +1,9 @@
 ---
-title: NSF Physical Oceanography Program
+title: Improving Understanding of Coupled Impacts of Oceans and Waves on Air-Sea Fluxes in the US Northeast
 date: 2024-12-19
 ---
 
-Improving Understanding of Coupled Impacts of Oceans and Waves on Air-Sea Fluxes in the US Northeast Coast PI: Seo (WHOI/UH)
+NSF Physical Oceanography, PI: Seo (WHOI/UH)
 <!--more-->
 
 The project will improve our understanding of the ocean and surface wave processes controlling the air-sea fluxes and the structure and evolution of the marine atmospheric boundary layer in the US Northeast Coast. A crucial element of the project is detailed validations of high-resolution fully-coupled ocean-atmosphere-wave model simulations against in situ and remotely sensed observations of coupled boundary layer variables and directly measured air-sea fluxes uniquely available in the region. The project will refine and correctly incorporate the latest Coupled Ocean-Atmosphere Response Experiment (COARE) bulk flux algorithm in the Weather Research and Forecast (WRF) atmospheric model. The research team will then undertake comprehensive modeling and validation efforts of the planetary boundary layer and surface-layer processes under various atmosphere conditions, including extreme extratropical cyclones and stable boundary layers. Through extensive sensitivity experiments and climate-scale simulations to quantify the impacts of the Gulf Stream current, sea surface temperature fronts and eddies, surface waves, and tides, the project will determine the critical roles of the oceans, surface waves, and air-sea interaction in shaping regional weather and climate.
