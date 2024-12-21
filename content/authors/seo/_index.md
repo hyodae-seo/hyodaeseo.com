@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Hyodae Seo
-#url: /
+url: /https://hyodae-seo.github.io/author/hyodae-seo/
 
 # Full Name (for SEO)
 first_name: Hyodae
