@@ -1,5 +1,5 @@
 ---
-title: NASA Modeling, Analysis, and Prediction Program (PI Seo)
+title: NASA Modeling, Analysis, and Prediction Program
 date: 2024-12-19
 ---
 
