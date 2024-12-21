@@ -35,7 +35,8 @@ sections:
   - block: hero
     content:
       title: Hyodae Seo
-      subtitle: 
+      subtitle: University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
+
       image:
          filename: hyodae.jpeg
       text: 
