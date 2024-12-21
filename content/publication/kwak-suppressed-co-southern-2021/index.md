@@ -1,5 +1,5 @@
 ---
-title: Suppressed textitp CO $_textrm2$ in the Southern Ocean Due to the Interaction
+title: Suppressed textitp CO2 in the Southern Ocean Due to the Interaction
   Between Current and Wind
 authors:
 - Kyungmin Kwak
