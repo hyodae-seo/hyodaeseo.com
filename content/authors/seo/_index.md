@@ -29,7 +29,7 @@ interests:
   - Offshore Wind Energy
 
 positions:
-  - course: Senior Scientist
+  - instituion: Senior Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2024
 
