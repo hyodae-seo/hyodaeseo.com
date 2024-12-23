@@ -40,9 +40,9 @@ sections:
       image:
          filename: hyodae.jpeg
       text: 
-         Associate Professor, Department of Oceanography
-         University of Hawaiʻi at Mānoa
-         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)
+         Associate Professor, Department of Oceanography\
+         University of Hawaiʻi at Mānoa\
+         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)\
          Senior Scientist, Woods Hole Oceanographic Institution (on leave)
     
 #  - block: collection
