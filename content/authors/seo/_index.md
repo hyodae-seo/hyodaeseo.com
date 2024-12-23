@@ -28,6 +28,12 @@ interests:
   - Surface Waves
   - Offshore Wind Energy
 
+
+positions
+    - course: Senior Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2024
+
 education:
   courses:
     - course: Senior Scientist
@@ -42,6 +48,9 @@ education:
     - course: Assistant Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2010
+    - course: NOAA C&GC postdoc scholar
+      institution: UCLA and University of Hawaii at Manoa
+      year: 2008-2010
     - course: PhD in Oceanography
       institution: Scripps Institution of Oceanography, UC San Diego
       year: 2007
