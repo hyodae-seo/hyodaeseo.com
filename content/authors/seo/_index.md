@@ -49,7 +49,7 @@ education:
       year: 2010
     - course: NOAA C&GC postdoc scholar
       institution: UCLA and University of Hawaii at Manoa
-      year: 2008-2010
+      year: 2008
     - course: PhD in Oceanography
       institution: Scripps Institution of Oceanography, UC San Diego
       year: 2007
