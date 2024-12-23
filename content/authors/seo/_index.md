@@ -27,26 +27,12 @@ interests:
   - Ocean Mesoscale Processes
   - Surface Waves
   - Offshore Wind Energy
-
-positions:
-  - instituion: Senior Scientist
-      institution: Woods Hole Oceanographic Institution
-      year: 2024
-
+    
 education:
   courses:
-    - course: Senior Scientist
+    - course: Assistant through Senior Scientist
       institution: Woods Hole Oceanographic Institution
-      year: 2024
-    - course: Assocaite Scientist with Tenure
-      institution: Woods Hole Oceanographic Institution
-      year: 2018
-    - course: Assocaite Scientist
-      institution: Woods Hole Oceanographic Institution
-      year: 2014
-    - course: Assistant Scientist
-      institution: Woods Hole Oceanographic Institution
-      year: 2010
+      year: 2010-2024
     - course: NOAA C&GC postdoc scholar
       institution: UCLA and University of Hawaii at Manoa
       year: 2008
