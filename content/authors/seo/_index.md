@@ -30,13 +30,16 @@ interests:
 
 education:
   courses:
+    - course: Assistant, Associate, Associate with Tenure, and Senior Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2010-2024
     - course: PhD in Oceanography
       institution: Scripps Institution of Oceanography, UC San Diego
       year: 2007
     - course: BS in Atmospheric Sciences
       institution: Yonsei University, Seoul, South Korea
       year: 2002
-
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
