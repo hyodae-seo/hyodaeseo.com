@@ -15,7 +15,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Hawaii at Manoa
+  - name: University of Hawaiʻi at Mānoa
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,15 +30,15 @@ interests:
     
 education:
   courses:
-    - course: Assistant through Senior Scientist
+    - course: Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2010-2024
-    - course: NOAA C&GC postdoc scholar
-      institution: UCLA and University of Hawaii at Manoa
-      year: 2008
+    - course: NOAA C&GC postdoc
+      institution: University of Hawaiʻi at Mānoa and UCLA
+      year: 2008-2010
     - course: PhD in Oceanography
       institution: Scripps Institution of Oceanography, UC San Diego
-      year: 2007
+      year: 2002-2007
     - course: BS in Atmospheric Sciences
       institution: Yonsei University, Seoul, South Korea
       year: 2002
