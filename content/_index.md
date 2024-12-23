@@ -43,7 +43,9 @@ sections:
          University of Hawaiʻi at Mānoa<br>
          Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
          Senior Scientist, Woods Hole Oceanographic Institution (on leave)
-    
+         image:
+         filename: hyodae.jpeg
+
     
 #  - block: collection
 #    content:
