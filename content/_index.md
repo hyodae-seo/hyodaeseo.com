@@ -36,15 +36,12 @@ sections:
     content:
       title: Hyodae Seo
       subtitle: University of Hawaiʻi at Mānoa &  Woods Hole Oceanographic Institution
-
       image:
          filename: hyodae.jpeg
       text: 
          Associate Professor, Department of Oceanography<br>
-    #    University of Hawaiʻi at Mānoa<br>
-         <font size="5">University of Hawaiʻi at Mānoa</font>><br>
-
-        Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
+         University of Hawaiʻi at Mānoa<br>
+         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
          Senior Scientist, Woods Hole Oceanographic Institution (on leave)
     
     
