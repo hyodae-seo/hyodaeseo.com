@@ -39,7 +39,7 @@ education:
     - course: Assocaite Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2014
- - course: Assistant Scientist
+    - course: Assistant Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2010
     - course: PhD in Oceanography
