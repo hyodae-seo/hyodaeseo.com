@@ -28,11 +28,20 @@ interests:
   - Surface Waves
   - Offshore Wind Energy
 
-career:
+education:
   courses:
-    - course: Assistant through Senior Scientist
+    - course: Senior Scientist
       institution: Woods Hole Oceanographic Institution
-      year: 2010-2024
+      year: 2024
+    - course: Assocaite Scientist with Tenure
+      institution: Woods Hole Oceanographic Institution
+      year: 2018
+    - course: Assocaite Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2014
+ - course: Assistant Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2010
     - course: PhD in Oceanography
       institution: Scripps Institution of Oceanography, UC San Diego
       year: 2007
