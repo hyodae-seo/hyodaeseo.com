@@ -28,9 +28,8 @@ interests:
   - Surface Waves
   - Offshore Wind Energy
 
-
 positions
-    - course: Senior Scientist
+  - course: Senior Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2024
 
