@@ -28,9 +28,9 @@ interests:
   - Surface Waves
   - Offshore Wind Energy
 
-education:
+career:
   courses:
-    - course: Assistant, Associate, Associate with Tenure, and Senior Scientist
+    - course: Assistant through Senior Scientist
       institution: Woods Hole Oceanographic Institution
       year: 2010-2024
     - course: PhD in Oceanography
