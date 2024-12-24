@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: 
 
 # Listing view
 view: compact
