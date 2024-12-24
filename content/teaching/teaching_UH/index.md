@@ -1,5 +1,5 @@
 ---
-title: Teaching at UH
+title:  Univ. Hawaii, Manoa (2025- )
 date: 2024-12-24
 ---
 

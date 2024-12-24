@@ -1,5 +1,5 @@
 ---
-title: Teaching at MIT/WHOI Joint Program, 2016-2023
+title: MIT/WHOI Joint Program (2016-2023)
 date: 2020-12-01
 ---
 
