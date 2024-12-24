@@ -1,15 +1,15 @@
 ---
-title: University of Hawaii Teachong
+title: Teaching at UH
 date: 2020-12-01
 ---
 
-Spring 2025
-OCN760: Topics in Physical Ocean (Air-Sea Interaction and Offshore Wind)
-Instructors: Hyodae Seo 
+Spring 2025 <br>
+OCN760: Topics in Physical Ocean (Air-Sea Interaction and Offshore Wind)<br>
+Instructors: Hyodae Seo  <br>
 
-Spring 2025
-OCN780: Seminar
-Instructors: Hyodae Seo 
+Spring 2025 <br>
+OCN780: Seminar <br>
+Instructors: Hyodae Seo <br> 
 
 <!--more-->
 
