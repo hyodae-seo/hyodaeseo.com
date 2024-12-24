@@ -20,7 +20,7 @@ main:
     url: scoar
     weight: 70
   - name: Butterfly
-    url: https://hseo.whoi.edu/butterfly-a-new-satellite-mission-concept/
+    url: butterfly
     weight: 80
   - name: UC•AO
     url: https://www.soest.hawaii.edu/oceanography/uc-ao/
