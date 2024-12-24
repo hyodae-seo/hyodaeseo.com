@@ -14,7 +14,7 @@ main:
     url: projects
     weight: 50
   - name: Teaching
-    url: https://hseo.whoi.edu/teaching/
+    url: teaching/
     weight: 60
   - name: SCOAR
     url: https://hseo.whoi.edu/scoar-model/
