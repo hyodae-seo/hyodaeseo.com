@@ -1,5 +1,5 @@
 ---
-title:  Univ. Hawaii, Manoa (2025- )
+title:  Univ. Hawaii, Manoa (since Fall 2024)
 date: 2024-12-24
 ---
 
