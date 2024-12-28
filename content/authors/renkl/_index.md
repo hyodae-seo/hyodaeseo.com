@@ -58,7 +58,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1261-4099
-  - icon: globe
+  - icon: earth-americas
     icon_pack: fas
     link: https://www.christophrenkl.org/
 # Link to a PDF of your resume/CV from the About widget.
