@@ -15,7 +15,8 @@ role: Postdoctoral Investigator
 # Organizations/Affiliations
 organizations:
   - name: Woods Hole Oceanographic Institution
-    url: 'https://www.christophrenkl.org/'
+    url: 'https://www.whoi.edu/'
+  #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a climate scientist with background in atmospheric science and physical oceanography. My research focuses on interactions of the atmosphere, ocean, and cryosphere within climate as an integrated system. The overarching goal of my research is to better understand the role of air-sea-ice interactions and their teleconnections in weather and climate variability across a range of spatial and temporal scales. I am particularly interested in combining coupled numerical models and observations using a variety of statistical tools to improve our understanding of the climate system, including questions of predictability, longterm trends, and extreme events.
@@ -57,6 +58,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-1261-4099
+  - icon: globe
+    icon_pack: fas
+    link: https://www.christophrenkl.org/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
