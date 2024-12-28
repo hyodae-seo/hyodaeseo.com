@@ -15,7 +15,7 @@ role: Postdoctoral Investigator
 # Organizations/Affiliations
 organizations:
   - name: Woods Hole Oceanogrphaic Institution
-    url: 'https://github.com/raickhr'
+    url: 'https://www.whoi.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a fluid dynamics enthusiast researching climate science, focusing on air-sea interaction. I conduct my research by running numerical simulations of the ocean and atmosphere on supercomputers.
