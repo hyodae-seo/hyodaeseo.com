@@ -14,7 +14,7 @@ role: Postdoctoral Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Woods Hole Oceanogrphaic Institution
+  - name: Woods Hole Oceanographic Institution
     url: 'https://www.whoi.edu/'
 
 # Short bio (displayed in user profile at end of posts)
