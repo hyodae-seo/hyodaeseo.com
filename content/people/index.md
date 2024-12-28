@@ -20,7 +20,7 @@ sections:
       #    - Administration
       #    - Visitor
       #    - Alumni
-      sort_by: #Params.first_name
+      sort_by: Params.organizations #Params.first_name
       sort_ascending: true
     design:
       show_interests: false
