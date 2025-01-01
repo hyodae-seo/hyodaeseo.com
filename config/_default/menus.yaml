@@ -4,24 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Home
+    url: https://hyodae-seo.github.io
+    weight: 30
   - name: People
     url: people
-    weight: 30
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50
   - name: Projects
     url: projects
-    weight: 50
+    weight: 60
   - name: Teaching
     url: teaching
-    weight: 60
+    weight: 70
   - name: SCOAR
     url: scoar
-    weight: 70
+    weight: 80
   - name: Butterfly
     url: butterfly
-    weight: 80
+    weight: 90
   - name: UC•AO
     url: https://www.soest.hawaii.edu/oceanography/uc-ao/
-    weight: 90
+    weight: 100
