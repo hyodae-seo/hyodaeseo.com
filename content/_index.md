@@ -63,26 +63,26 @@ sections:
 #      view: card
 #      columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: liam.jpeg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
+# - block: markdown
+#    content:
+#      title:
+#      subtitle: ''
+#      text:
+#    design:
+#      columns: '1'
+#      background:
+#        image: 
+#          filename: liam.jpeg
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center
 #          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-
-      css_class: fullscreen
+#          text_color_light: true
+#      spacing:
+#        padding: ['20px', '0', '20px', '0']
+#
+#     css_class: fullscreen
 
 # - block: collection
 #   content:
@@ -97,12 +97,14 @@ sections:
 #      view: citation
 #      columns: '1'
 
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle:
-#      text: |
-#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-#    design:
-#      columns: '1'
+  - block: markdown
+    content:
+      title: Meet the team
+      subtitle:
+        image: 
+          filename: liam.jpeg
+    text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
