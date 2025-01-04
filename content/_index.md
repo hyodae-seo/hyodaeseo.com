@@ -43,9 +43,9 @@ sections:
 #         University of Hawaiʻi at Mānoa<br>
 #         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
 #         Senior Scientist, Woods Hole Oceanographic Institution (on leave)
-          The Seo Lab at the University of Hawaiʻi at Mānoa and Woods Hole Oceanographic Institution studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy research. <br>  <br>
+          The Seo Lab at the University of Hawaiʻi at Mānoa and Woods Hole Oceanographic Institution studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy. <br>  <br>
           Using high-resolution modeling, geophysical fluid dynamics, and satellite and in situ observations, the lab examines boundary layer processes, improves models, and evaluates impacts on ocean and climate systems.          <br>  <br> 
-          Dedicated to sustainable ocean observing, the lab also engages the public on issues like extreme weather, climate, and renewable energy, supporting UN Sustainable Development Goals.
+          The lab also engages the public on issues like extreme weather, climate, and renewable energy, supporting UN Sustainable Development Goals.
 
 #  - block: collection
 #    content:
