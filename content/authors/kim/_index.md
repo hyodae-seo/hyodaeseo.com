@@ -15,7 +15,7 @@ role: Guest Student
 # Organizations/Affiliations
 organizations:
   - name: University of Tokyo
-    url: 'https://www.whoi.edu/'
+  #  url: 'https://www.whoi.edu/'
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
