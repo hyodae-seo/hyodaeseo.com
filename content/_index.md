@@ -101,8 +101,6 @@ sections:
     content:
       title: Meet the team
       subtitle:
-      image: 
-        filename: media/liam.jpeg
     text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
