@@ -37,7 +37,7 @@ sections:
       title: Hyodae Seo
       subtitle: Associate Professor (UHM) and Senior Scientist (WHOI)
       image:
-         filename: liam.jpeg
+         filename: hyodae_group.jpg
       text: 
 #         Associate Professor, Department of Oceanography<br>
 #         University of Hawaiʻi at Mānoa<br>
