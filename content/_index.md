@@ -102,7 +102,7 @@ sections:
       title: Meet the team
       subtitle:
         image: 
-          filename: liam.jpeg
+          filename: images/liam.jpeg
     text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
