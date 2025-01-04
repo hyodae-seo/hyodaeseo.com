@@ -35,7 +35,7 @@ sections:
   - block: hero
     content:
       title: Hyodae Seo
-      subtitle: 
+      subtitle: Associate Professor (UHM) and Senior Scientist (WHOI)
       image:
          filename: liam.jpeg
       text: 
