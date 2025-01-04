@@ -12,8 +12,8 @@ main:
     url: people
     weight: 40
   - name: Publications
-    #url: publication
-    baseURL: 'https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en&authuser=1'    
+    url: publication
+  #  baseURL: 'https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en&authuser=1'    
     weight: 50
   - name: Projects
     url: projects
