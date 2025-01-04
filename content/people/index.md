@@ -19,7 +19,7 @@ sections:
       #    - Graduate Student
       #    - Administration
       #    - Visitor
-      #    - Alumni
+           - Alumni
       sort_by: Params.first_name
       sort_ascending: true
     design:
