@@ -39,7 +39,7 @@ sections:
       image:
          filename: hyodae_group.jpg
       text: 
-          <p style="line-height: 100%;">
+          <p style="line-height: 2;">
           Hyodae Seo <br>
           Associate Professor, Department of Oceanography<br>
           University of Hawaiʻi at Mānoa<br>
