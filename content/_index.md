@@ -40,10 +40,9 @@ sections:
          filename: hyodae_group.jpg
       text: 
     #  <p style="line-height: 2;">
-          <span style="font-size:1em;">
+          <span style="font-size:0.5em;">
           Hyodae Seo <br>
-          Associate Professor, Department of Oceanography<br>
-          University of Hawaiʻi at Mānoa<br>
+          Associate Professor, Department of Oceanography, University of Hawaiʻi at Mānoa<br>
           Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
           Senior Scientist, Woods Hole Oceanographic Institution (on leave) <br>
          The Seo Lab at the University of Hawaiʻi at Mānoa and Woods Hole Oceanographic Institution studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy. <br>  <br>
