@@ -40,7 +40,7 @@ sections:
          filename: hyodae_group.jpg
       text: 
     #  <p style="line-height: 2;">
-          <span style="font-size:0.5em;">
+          <span style="font-size:0.75em;">
           Hyodae Seo <br>
           Associate Professor, Department of Oceanography, University of Hawaiʻi at Mānoa<br>
           Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
