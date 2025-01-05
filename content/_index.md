@@ -40,7 +40,9 @@ sections:
          filename: hyodae_group.jpg
       text: 
           <span style="font-size:1em;">
-          # **Hyodae Seo** </span><br>
+          
+         # **Hyodae Seo** </span><br>
+
           <span style="font-size:0.75em;">
          ## Associate Professor, [Department of Oceanography](https://www.soest.hawaii.edu/oceanography), [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu)<br>
          ## Associate Director, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)<br>
