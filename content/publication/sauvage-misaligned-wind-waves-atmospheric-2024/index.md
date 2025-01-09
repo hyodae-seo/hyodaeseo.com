@@ -2,7 +2,7 @@
 title: Misaligned Wind-Waves Behind Atmospheric Cold Fronts
 authors:
 - Sauvage, C. 
-- H. Seo
+- **H. Seo**
 - B. W. Barr
 - J. B. Edson
 - C.-A. Clayson
