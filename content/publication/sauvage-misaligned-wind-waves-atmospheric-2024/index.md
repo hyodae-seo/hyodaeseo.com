@@ -42,6 +42,6 @@ tags:
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JC021162
- - name: PDF
-   file: Sauvage et al_2024_Journal of Geophysical Research Oceans_Misaligned Wind‐Waves Behind Atmospheric Cold Fronts.pdf
+- name: PDF
+  file: Sauvage et al_2024_Journal of Geophysical Research Oceans_Misaligned Wind‐Waves Behind Atmospheric Cold Fronts.pdf
 ---
