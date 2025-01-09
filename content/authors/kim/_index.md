@@ -1,42 +1,35 @@
 ---
 # Display name
-title: Christoph Renkl
+title: Yoo-Jun Kim
 
 # Full Name (for SEO)
-first_name: Christoph
-last_name: Renkl
+first_name: Yoo-Jun
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser:   
 
 # Role/position
-role: Postdoctoral Investigator
+role: Guest Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Woods Hole Oceanographic Institution
-    url: 'https://www.whoi.edu/'
+  - name: University of Tokyo
+  #  url: 'https://www.whoi.edu/'
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a climate scientist with background in atmospheric science and physical oceanography. My research focuses on interactions of the atmosphere, ocean, and cryosphere within climate as an integrated system. The overarching goal of my research is to better understand the role of air-sea-ice interactions and their teleconnections in weather and climate variability across a range of spatial and temporal scales. I am particularly interested in combining coupled numerical models and observations using a variety of statistical tools to improve our understanding of the climate system, including questions of predictability, longterm trends, and extreme events.
+bio: Yoo-Jun visitied Seo Lab at WHOI in 2023-2024 to study regional ocean circulation around Japan. He ran WRF-les to generated ultra-high-resolution wind forcing to drive the esutrary circulation models.
+
 interests:
-  - Air-Sea-Ice Interaction
-  - Climate Variability and Predictability
-  - Regional Coupled Modeling
+  - Ocean Modeling
   - Coastal and Shelf Dynamics
 
 education:
   courses:
     - course: PhD in Oceanography
-      institution: Dalhousie University, Canada
-      year: 2019
-    - course: MSc Physics of the Earth and Atmosphere
-      institution: University of Bonn, Germany
-      year: 2013
-    - course: BS in Meteorology
-      institution: Freie Universität Berlin, Germany
-      year: 2011
+      institution: University of Tokyo
+      year: ongoing
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Seo Lab @ WHOI
+  - Alumni
 ---
 
 I am a climate scientist with background in atmospheric science and physical oceanography. My research focuses on interactions of the atmosphere, ocean, and cryosphere within climate as an integrated system. The overarching goal of my research is to better understand the role of air-sea-ice interactions and their teleconnections in weather and climate variability across a range of spatial and temporal scales. I am particularly interested in combining coupled numerical models and observations using a variety of statistical tools to improve our understanding of the climate system, including questions of predictability, longterm trends, and extreme events

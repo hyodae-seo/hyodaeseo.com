@@ -14,12 +14,12 @@ sections:
       #   - Principal Investigator
           - Seo Lab @ UH 
           - Seo Lab @ WHOI
+          - Alumni
       #    - Researcher
       #    - Postdoc
       #    - Graduate Student
       #    - Administration
-      #    - Visitor
-      #    - Alumni
+      #    - Visitor           
       sort_by: Params.first_name
       sort_ascending: true
     design:

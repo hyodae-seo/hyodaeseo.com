@@ -1,11 +1,11 @@
 ---
 title: Misaligned Wind-Waves Behind Atmospheric Cold Fronts
 authors:
-- César Sauvage
-- Hyodae Seo
-- Benjamin W. Barr
-- James B. Edson
-- Carol Anne Clayson
+- Sauvage, C. 
+- H. Seo
+- B. W. Barr
+- J. B. Edson
+- C.-A. Clayson
 date: '2024-01-01'
 publishDate: '2024-12-18T08:56:11.642188Z'
 publication_types:
@@ -42,4 +42,6 @@ tags:
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JC021162
+- name: PDF
+  file: ./Sauvage et al_2024_Journal of Geophysical Research Oceans_Misaligned Wind‐Waves Behind Atmospheric Cold Fronts.pdf
 ---
