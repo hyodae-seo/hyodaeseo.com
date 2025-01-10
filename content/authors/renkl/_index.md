@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Oceanography
       institution: Dalhousie University, Canada
-      year: 2019
+      year: 2020
     - course: MSc Physics of the Earth and Atmosphere
       institution: University of Bonn, Germany
       year: 2013
