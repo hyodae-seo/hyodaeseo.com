@@ -34,18 +34,21 @@ sections:
 #          parallax: false
   - block: hero
     content:
-      title: Hyodae Seo
-      subtitle: Associate Professor (UHM) and Senior Scientist (WHOI)
+      title: 
+      subtitle:
       image:
          filename: hyodae_group.jpg
       text: 
-#         Associate Professor, Department of Oceanography<br>
-#         University of Hawaiʻi at Mānoa<br>
-#         Associate Director, Uehiro Center for the Advancement of Oceanography (UC•AO)<br>
-#         Senior Scientist, Woods Hole Oceanographic Institution (on leave)
-          The Seo Lab at the University of Hawaiʻi at Mānoa and Woods Hole Oceanographic Institution studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy research. <br>  <br>
-          Using high-resolution modeling, geophysical fluid dynamics, and satellite and in situ observations, the lab examines boundary layer processes, improves models, and evaluates impacts on ocean and climate systems.          <br>  <br> 
-          Dedicated to sustainable ocean observing, the lab also engages the public on issues like extreme weather, climate, and renewable energy, supporting UN Sustainable Development Goals.
+          <span style="font-size:1em;">
+          **Hyodae Seo, Ph.D.** </span><br>
+          <span style="font-size:0.75em;">
+           Associate Professor, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu)<br>
+           Associate Director, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)<br>
+           Senior Scientist, [Physical Oceanography Department](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/), [Woods Hole Oceanographic Institution](https://www.whoi.edu) (on leave) <br> <br> 
+    
+         The Seo Lab at [UH](https://www.hyodaeseo.com) and [WHOI](https://hseo.whoi.edu) studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy, using [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and satellite and in situ observations.      <br> <br>
+         Our Lab also engages the public on issues like extreme weather, climate, and renewable energy, supporting UN Sustainable Development Goals.<br>
+        </span>
 
 #  - block: collection
 #    content:
