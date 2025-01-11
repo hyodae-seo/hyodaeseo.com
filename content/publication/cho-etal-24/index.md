@@ -1,47 +1,31 @@
 ---
 title: Misaligned Wind-Waves Behind Atmospheric Cold Fronts
 authors:
-- Sauvage, C. 
+- Cho, A.
+- H. Song
 - H. Seo
-- B. W. Barr
-- J. B. Edson
-- C.-A. Clayson
-date: '2024-01-01'
+- R. Sun
+- M. R. Mazloff
+- A. C. Subramanian
+- B. D. Cornuelle
+- A. J. Miller
+date: '2025-01-01'
 publishDate: '2024-12-18T08:56:11.642188Z'
 publication_types:
 - article-journal
-publication: '*Journal of Geophysical Research: Oceans*'
-doi: 10.1029/2024JC021162
-abstract: Atmospheric fronts embedded in extratropical cyclones are high-impact weather
-  phenomena, contributing significantly to mid-latitude winter precipitation. The
-  three vital characteristics of the atmospheric fronts, high wind speeds, abrupt
-  change in wind direction, and rapid translation, force the induced surface waves
-  to be misaligned with winds exclusively behind the cold fronts. The effects of the
-  misaligned waves under atmospheric cold fronts on air-sea fluxes remain undocumented.
-  Using the multi-year in situ near-surface observations and direct covariance flux
-  measurements from the Pioneer Array off the coast of New England, we find that the
-  majority of the passing cold fronts generate misaligned waves behind the cold front.
-  Once generated, the waves remain misaligned, on average, for about 8 hr. The parameterized
-  effect of misaligned waves in a fully coupled model significantly increases the
-  roughness length (185%), drag coefficient (19%), and air-sea momentum flux (11%).
-  The increased surface drag reduces the wind speeds in the surface layer. The upward
-  turbulent heat flux is weakly decreased by the misaligned waves because of the decrease
-  in temperature and humidity scaling parameters being greater than the increase in
-  friction velocity. The misaligned wave effect is not accurately represented in a
-  commonly used wave-based bulk flux algorithm. Yet, considering this effect in the
-  current formulation improves the overall accuracy of parameterized momentum flux
-  estimates. The results imply that better representing a directional wind-wave coupling
-  in the bulk formula of the numerical models may help improve the air-sea interaction
-  simulations under the passing atmospheric fronts in the mid-latitudes.
+publication: '*Oean Modelling*'
+doi: https://doi.org/10.1016/j.ocemod.2024.102496
+abstract: 
+ Relative wind (RW; wind relative to surface currents) has been shown to play a crucial role in air-sea interactions, influencing both atmospheric and oceanic dynamics. While the RW effects through momentum flux are well-documented, those through turbulent heat fluxes remain unknown. In this study, we investigate two distinct surface current feedbacks – those associated with the momentum flux and turbulent heat fluxes – by modifying respective bulk formulations in the regional ocean-atmosphere coupled system, and analyze both immediate and seasonal changes in the boundary layers. Our results show that strong ocean currents in the Kuroshio Current and Extension significantly impact surface coupling, with responses generally contingent on the wind-current angle: an increase (decrease) in air-sea momentum and turbulent heat fluxes occurs when the low-level wind and surface currents are aligned (opposed). The instantaneous responses to surface currents include changes in low-level wind, surface current speed, and humidity, which are consistent with anticipated changes for a given wind-current angle based on the bulk formulations. While the wind-current angle is still an important factor, it does not adequately capture the seasonal responses. On the seasonal timescale, both surface current feedbacks can alter the path of the Kuroshio Extension and mesoscale activities, resulting in different background states that affect air-sea momentum and turbulent heat exchanges. Our results suggest that the energetic current system, such as the Kuroshio Current and Extension, can be significantly influenced by surface current coupling through both momentum and turbulent heat fluxes.
+ 
 tags:
-- coupled modeling
-- momentum flux
-- atmospheric cold fronts
-- drag coefficient
-- wave misalignment
+- 
+- 
+- 
+- 
+- 
 links:
 - name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JC021162
-- name: PDF
-  file: ./Sauvage et al_2024_Journal of Geophysical Research Oceans_Misaligned Wind‐Waves Behind Atmospheric Cold Fronts.pdf
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1463500324001823
+
 ---
