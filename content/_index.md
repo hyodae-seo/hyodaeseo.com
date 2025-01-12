@@ -39,7 +39,7 @@ sections:
       image:
          filename: hyodae_group.jpg
       text:  |
-          **Hyodae Seo, Ph.D.**
+          **Hyodae Seo, Ph.D.** <br>
            <small>_Associate Professor_, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) </small><br>
            <small>_Associate Director_, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
            <small>_Senior Scientist_, [Physical Oceanography Department](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/), [Woods Hole Oceanographic Institution](https://www.whoi.edu) (on leave)  </small><br>
