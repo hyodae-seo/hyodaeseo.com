@@ -36,7 +36,7 @@ interests:
     
 education:
   courses:
-    - course: Associate Professor
+    - course: Associate Professor (Tenured)
       institution: University of Hawaiʻi at Mānoa
       year: 2024-
     - course: Senior Scientist
