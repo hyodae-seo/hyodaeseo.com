@@ -32,7 +32,7 @@
 **An evaluation of eight global ocean reanalyses for the Northeast U.S. continental shelf.** Prog. Oceanogr, 219, 103126.
 ---
 
-59. Clayson, C. A., C. A. DeMott, S. P. de Szoeke, P. Chang, G. R. Foltz, R. Krishnamurthy, T. Lee, A. Molod, D. G. Ortiz-Suslow, J. Pullen, D. H. Richter, H. Seo, P. C. Taylor, E. Thompson, B. V. Bôas, C. J. Zappa, and P. Zuidema.
+59. Clayson, C. A., C. A. DeMott, S. P. de Szoeke, P. Chang, G. R. Foltz, R. Krishnamurthy, T. Lee, A. Molod, D. G. Ortiz-Suslow, J. Pullen, D. H. Richter, **H. Seo**, P. C. Taylor, E. Thompson, B. V. Bôas, C. J. Zappa, and P. Zuidema.
 **A New Paradigm for Observing and Modeling of Air-Sea Interactions to Advance Earth System Prediction.** *A US CLIVAR Report*, US CLIVAR Project Office, 86 pp. [DOI:10.5065/24j7-w583](https://doi.org/10.5065/24j7-w583)
 ---
 
@@ -135,7 +135,7 @@
 
 ---
 37. Weller, R. A., J. T. Farrar, **H. Seo**, **C. J. Prend**, D. Sengupta, J. Sree Lekha, M. Ravichandran, and R. Venkatesen, 2020:
-**Moored observations of the surface meteorology and air-sea fluxes in the northern Bay of Bengal in 2015.**  
+**Moored observations of the surface meteorology and air-sea fluxes in the northern Bay of Bengal in 2015.** 
 *J. Climate*, 32, 549–573. [PDF Available]  
 
 ---
