@@ -48,21 +48,9 @@ sections:
 
             <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with the United Nations Sustainable Development Goals and the UC•AO activities.   </small>
 
-          | [![UC•AO](UCAO2.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly.png)](/butterfly) | [![SCOAR](scoar.png)](/scoar) |
+          | [![UC•AO](UCAO2.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly.png)](/butterfly) | [![SCOAR](scoar2.png)](/scoar) |
           |:--------------------------:|:--------------------------:|:------------------:|
-   #      x| <img src="hyodae-seo.github.io/assets/media/UCAO.png" alt="UC•AO" style="width:150px;"> | <img src="../assets/media/butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="../assets/media/scoar.png" alt="SCOAR" style="width:150px;"> |
-
-
-
-         #| <img src="../assets/media/UCAO.png" alt="UC•AO" style="width:150px;"> | <img src="../assets/media/butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="../assets/media/scoar.png" alt="SCOAR" style="width:150px;"> |
-         #|:--------------------------:|:--------------------------:|:------------------:|
-         #| [UC•AO](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [Butterfly](/butterfly) | [SCOAR](/scoar) |
-
-# | <img src="UCAO.png" alt="UC•AO" style="width:100px;"> | <img src="butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="scoar.jpg" alt="SCOAR" style="width:150px;"> |
-         #| ![UC•AO](UCAO.png) | ![Butterfly](butterfly.png) | ![SCOAR](scoar.png) |
-
-        # | ![UC•AO](UCAO.png) | ![Butterfly](butterfly.png) | ![SCOAR](scoar.png) |
-         #![UC•AO](UCAO.png)
+         
 #  - block: collection
 #    content:
 #      title: Latest News
