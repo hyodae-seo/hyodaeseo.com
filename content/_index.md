@@ -48,7 +48,7 @@ sections:
 
             <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with the United Nations Sustainable Development Goals and the UC•AO activities.   </small>
 
-          | <img src="assets/media/UCAO.png" alt="UC•AO" style="width:150px;"> | <img src="assets/media/butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="assets/media/scoar.png" alt="SCOAR" style="width:150px;"> |
+          | <img src="UCAO.png" alt="UC•AO" style="width:150px;"> | <img src="butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="scoar.png" alt="SCOAR" style="width:150px;"> |
           |:--------------------------:|:--------------------------:|:------------------:|
           | [UC•AO](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [Butterfly](/butterfly) | [SCOAR](/scoar) |
 
