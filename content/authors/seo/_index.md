@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Hyodae Seo
-url: /author/hyodae-seo/
+url: /author/seo/
 
 # Full Name (for SEO)
 first_name: Hyodae
@@ -24,16 +24,37 @@ interests:
   - Air-Sea Interaction
   - Climate Dynamics
   - Synoptic Meteorology
+  - Tropical Meteorology
+  - Micrometeorology
+  - Ocean Dynamics
   - Ocean Mesoscale Processes
   - Surface Waves
+  - Air-Sea Fluxes
+  - Regional Coupled Modeling
+  - Numerical Methods
   - Offshore Wind Energy
     
 education:
   courses:
-    - course: Scientist
+    - course: Associate Professor
+      institution: University of Hawaiʻi at Mānoa
+      year: 2024-
+    - course: Senior Scientist
       institution: Woods Hole Oceanographic Institution
-      year: 2010-2024
-    - course: NOAA C&GC postdoc
+      year: 2024-
+    - course: Tenured Associate Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2018-2024
+    - course: Associate Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2014-2018
+    - course: MIT/WHOI Joint Program Faculty
+      institution: MIT/WHOI
+      year: 2010-
+    - course: Tenure-Track Assistant Scientist
+      institution: Woods Hole Oceanographic Institution
+      year: 2010-2014
+    - course: NOAA C&GC Postdoctoral Fellowship
       institution: University of Hawaiʻi at Mānoa and UCLA
       year: 2008-2010
     - course: PhD in Oceanography
