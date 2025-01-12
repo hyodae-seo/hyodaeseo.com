@@ -1,5 +1,5 @@
 ---
-title: SCOAR
+title:
 
 # Listing view
 view: compact
