@@ -37,85 +37,91 @@ sections:
       title: 
       subtitle:
       image:
-         filename: hyodae_group.jpg
-      text:  |
-          **Hyodae Seo, Ph.D.**
+          filename: hyodae_group.jpg
+      text: | 
+          **Hyodae Seo, Ph.D.**   
            <small>_Associate Professor_, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) </small><br>
            <small>_Associate Director_, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
            <small>_Senior Scientist_, [Physical Oceanography Department](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/), [Woods Hole Oceanographic Institution](https://www.whoi.edu) (on leave)  </small><br>
 
            <small>The Seo Lab at [UH](https://www.hyodaeseo.com) and [WHOI](https://hseo.whoi.edu) studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy. The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and satellite and in situ observations.    </small>
-
+            
             <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with the United Nations Sustainable Development Goals and the UC•AO activities.   </small>
 
-          | <img src="assets/media/UCAO.png" alt="UC•AO" style="width:150px;"> | <img src="assets/media/butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="assets/media/scoar.png" alt="SCOAR" style="width:150px;"> |
-          |:--------------------------:|:--------------------------:|:------------------:|
-          | [UC•AO](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [Butterfly](/butterfly) | [SCOAR](/scoar) |
+  		![UC•AO](UCAO.png) 
+  #| ![UC•AO](UCAO.png) | ![Butterfly](butterfly.png) | ![SCOAR](scoar.png) |
+  #| ![UC•AO](UCAO.png) | ![Butterfly](butterfly.png) | ![SCOAR](scoar.png) |
+    	   # |:--------------------------:|:--------------------------:|:------------------:|
+	   # | [UC•AO](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [Butterfly](/butterfly) | [SCOAR](/scoar) |
 
-# | <img src="UCAO.png" alt="UC•AO" style="width:100px;"> | <img src="butterfly.png" alt="Butterfly" style="width:150px;"> | <img src="scoar.jpg" alt="SCOAR" style="width:150px;"> |
-         #| ![UC•AO](UCAO.png) | ![Butterfly](butterfly.png) | ![SCOAR](scoar.png) |
+  #          <div style="display: flex; justify-content: space-around;">
+  #           <a href="https://www.soest.hawaii.edu/oceanography/uc-ao/" target="_blank">
+  #           <img src="UCAO.png" alt="UC•AO" style="width:30%;">  
+  #           <a href="/butterfly" target="_blank">
+  #            <img src="butterfly.png" alt="Butterfly" style="width:30%;">  
+  #           <a href="/scoar" target="_blank">
+  #            <img src="scoar.png" alt="SCOAR" style="width:30%;">  
+  #           </div>  
 
-        # | ![UC•AO](UCAO.png) | ![Butterfly](butterfly.png) | ![SCOAR](scoar.png) |
-         #![UC•AO](UCAO.png)
-#  - block: collection
-#    content:
-#      title: Latest News
-#      subtitle:
-#      text:
-#      count: 5
-#      filters:
-#        author: ''
-#        category: ''
-#        exclude_featured: false
-#        publication_type: ''
-#        tag: ''
-#      offset: 0
-#      order: desc
-#      page_type: post
-#      design:
-#      view: card
-#      columns: '1'
-  
-# - block: markdown
-#    content:
-#      title:
-#      subtitle: ''
-#      text:
-#    design:
-#      columns: '1'
-#      background:
-#        image: 
-#          filename: liam.jpeg
-#          filters:
-#            brightness: 1
-#          parallax: false
-#          position: center
-#          size: cover
-#          text_color_light: true
-#      spacing:
-#        padding: ['20px', '0', '20px', '0']
-#
-#     css_class: fullscreen
+ck: collection
+tent:
+itle: Latest News
+ubtitle:
+ext:
+ount: 5
+ilters:
+ author: ''
+ category: ''
+ exclude_featured: false
+ publication_type: ''
+ tag: ''
+ffset: 0
+rder: desc
+age_type: post
+esign:
+iew: card
+olumns: '1'
 
-# - block: collection
-#   content:
-#      title: Latest Preprints
-#      text: ""
-#      count: 5
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: 'article'
-#    design:
-#      view: citation
-#      columns: '1'
+k: markdown
+tent:
+itle:
+ubtitle: ''
+ext:
+ign:
+olumns: '1'
+ackground:
+ image: 
+   filename: liam.jpeg
+   filters:
+     brightness: 1
+   parallax: false
+   position: center
+   size: cover
+   text_color_light: true
+pacing:
+ padding: ['20px', '0', '20px', '0']
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+s_class: fullscreen
+
+k: collection
+ent:
+itle: Latest Preprints
+ext: ""
+ount: 5
+ilters:
+ folders:
+   - publication
+ publication_type: 'article'
+ign:
+iew: citation
+olumns: '1'
+
+k: markdown
+ent:
+tle:
+btitle:
+xt: |
+{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+gn:
+lumns: '1'
 ---
