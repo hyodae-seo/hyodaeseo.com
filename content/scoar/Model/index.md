@@ -1,5 +1,5 @@
 ---
-title: SCOAR WRF-ROMS-WW3 Regional Coupled Modeling System
+title: #SCOAR WRF-ROMS-WW3 Regional Coupled Modeling System
 date: 2024-12-19
 ---
 
@@ -11,13 +11,15 @@ The **Scripps Coupled Ocean-Atmosphere Regional (SCOAR)** modeling system integr
 - **ROMS**: [https://github.com/kshedstrom/roms](https://github.com/kshedstrom/roms)
 - **WW3**: [https://github.com/NOAA-EMC/WW3](https://github.com/NOAA-EMC/WW3)
 
+![SCOAR](SCOAR_coupling.png)
+
 ### SCOAR Model Coupler
 
 The **SCOAR model coupler** is a versatile and efficient tool for managing input-output files, offering the following features:
 
--. A 2-D online smoothing mechanism for interactive eddy filtering.
--. Multiple options for atmosphere-wave and wave-ocean coupling strategies.
--. Experimental implementations of the latest COARE bulk flux algorithms, designed to account for sea-state impacts on air-sea fluxes under different regimes.
+- A 2-D online smoothing mechanism for interactive eddy filtering.<br>
+- Multiple options for atmosphere-wave and wave-ocean coupling strategies.<br>
+- Revised versions of the latest COARE wave-based bulk flux algorithms, designed to account for sea-state impacts on air-sea fluxes under different regimes.<br>
 
 The SCOAR source code is publicly available on GitHub: [SCOAR Repository](https://github.com/hyodae-seo/SCOAR).
 
@@ -28,3 +30,7 @@ The SCOAR system has been extensively used to study the physics and impacts of a
 - **[Publications](/publication/)**
 - **[Current Projects](/projects/)**
 <!--more-->
+
+     #           ![SCOAR](SCOAR_scheme_draft_v6.1-2048x1721.png)
+    #                #  <img src="Model/SCOAR_scheme_draft_v6.1-2048x1721.png" alt="SCOAR" width="1500" height="1500">
+           
