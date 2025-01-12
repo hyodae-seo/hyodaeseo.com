@@ -31,6 +31,3 @@ The SCOAR system has been extensively used to study the physics and impacts of a
 - **[Current Projects](/projects/)**
 <!--more-->
 
-     #           ![SCOAR](SCOAR_scheme_draft_v6.1-2048x1721.png)
-    #                #  <img src="Model/SCOAR_scheme_draft_v6.1-2048x1721.png" alt="SCOAR" width="1500" height="1500">
-           

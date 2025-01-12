@@ -6,6 +6,7 @@ National Aeronautics and Space Administration (NASA) Modeling, Analysis, and Pre
 <!--more-->
 
 This project will develop a better understanding of the physical processes governing the structure and evolution of the marine atmospheric boundary layer (MABL) in the Northeastern US and the New England shelf regions.
+![NASA](storm_nasa.gif)
 
 Capitalizing on the detailed in situ and remotely sensed observations of coupled boundary layer variables and air-sea fluxes uniquely available in the region, this project will validate and improve the MABL processes in the NASA’s Unified WRF (NU-WRF) modeling system to better represent and forecast extreme coastal storms. By including the full coupling of the regional ocean modeling system (ROMS) and the WaveWatchIII (WW3) to the NU-WRF to exploit the critical wave-ocean coupling effect on the atmosphere, the project will also enable, for the first time, NU-WRF-based coupled hindcast and forecast capabilities of extreme weather events with reduced uncertainty.
 

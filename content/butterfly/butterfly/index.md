@@ -10,6 +10,8 @@ To quantify the impact of small-scale ocean features on weather and climate, But
 
 The passive microwave observations at 7–37 GHz enable retrieval of ocean-surface wind speed and sea surface temperature, 109–117 GHz enable retrieval of air temperature, and 150–175 GHz enable retrieval of specific humidity. These are the geophysical observables needed to estimate the air–sea heat and moisture fluxes required for Butterfly’s science objectives. The mission design flows from the measurement accuracy and resolution requirements. The spacecraft is sized to fit an Evolved Expendable Launch Vehicle (EELV) Secondary Payload Adapter (ESPA Grande) and uses Alternative Access to Space as a secondary payload on a Space-X launch vehicle. Butterfly is placed in a high inclination orbit at an altitude of 425 ±25 km for a two-year baseline mission. Butterfly resolves air–sea heat and moisture fluxes at <25-km horizontal resolution and reduces existing measurement errors by almost 40%. Observing air–sea fluxes advances Earth system science and improves models, leading to better weather and climate forecasts. <br>
 
+![Butterfly](butterfly_map.png)
+
 Butterfly Github repository: https://nasa-butterfly.github.io/ <br>
 Butterfly proposal : https://zenodo.org/record/5120586 <br>
 Butterfly paper: https://hyodae-seo.github.io/publication/ <br>
