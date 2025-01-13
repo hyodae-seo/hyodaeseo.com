@@ -50,26 +50,25 @@ sections:
 
           | [![UC•AO](UCAO2.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly.png)](/butterfly) | [![SCOAR](scoar2.png)](/scoar) |
           |:--------------------------:|:--------------------------:|:------------------:|
-         
-#  - block: collection
-#    content:
-#      title: Latest News
-#      subtitle:
-#      text:
-#      count: 5
-#      filters:
-#        author: ''
-#        category: ''
-#        exclude_featured: false
-#        publication_type: ''
-#        tag: ''
-#      offset: 0
-#      order: desc
-#      page_type: post
-#      design:
-#      view: card
-#      columns: '1'
-  
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+
 # - block: markdown
 #    content:
 #      title:
@@ -91,22 +90,22 @@ sections:
 #
 #     css_class: fullscreen
 
-# - block: collection
+#  - block: collection
 #   content:
-#      title: Latest Preprints
-#      text: ""
-#      count: 5
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: 'article'
-#    design:
-#      view: citation
-#      columns: '1'
+#     title: Latest Preprints
+#     text: ""
+#     count: 5
+#     filters:
+#       folders:
+#         - publication
+#       publication_type: 'article'
+#   design:
+#     view: citation
+#     columns: '1'
 
   - block: markdown
     content:
-      title:
+      title: 
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the Team →" %}}
@@ -114,11 +113,10 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title:
+      title: 
       subtitle:
       text: |
-        {{% cta cta_link="./Projects/" cta_text="Check our Projects →" %}}
+        {{% cta cta_link="./projects/" cta_text="Check our Projects →" %}}
     design:
       columns: '1'
-
 ---
