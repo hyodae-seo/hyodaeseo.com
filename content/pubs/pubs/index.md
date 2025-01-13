@@ -13,11 +13,14 @@ Authors in **bold** indicate members of the Seo Lab.
 
 ---
 #### 2025
-64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2024: **Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System**. *Ocean Modell.*, 194, 102496, https://doi.org/10.1016/j.ocemod.2024.10249
+64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2024:
+**Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System**.
+*Ocean Modell.*, 194, 102496, https://doi.org/10.1016/j.ocemod.2024.10249
 ---
 
 #### 2024
-63. **Sauvage, C.**, **H. Seo**, **B. W. Barr**, J. B. Edison, and C. A. Clayson. **Misaligned Wind-Waves Behind Atmospheric Cold Fronts.** 
+63. **Sauvage, C.**, **H. Seo**, **B. W. Barr**, J. B. Edison, and C. A. Clayson.
+**Misaligned Wind-Waves Behind Atmospheric Cold Fronts.**
 *J. Geophys. Res. Oceans*, 129, e2024JC021162. https://doi.org/10.1029/2024JC021162, [pdf](https://cesarsauvage.github.io/publications/2023_jgr_mixed_seas/2023_JGR_mixed_seas.pdf)
 ---
 
@@ -27,7 +30,9 @@ Authors in **bold** indicate members of the Seo Lab.
 
 #### 2023
 
-61. **Steffen, J. D.**, **H. Seo**, C. A. Clayson, S. Pei, and T. Shionda, 2023: **Impacts of Tidal Mixing on Diurnal to Intraseasonal Air-Sea Interactions in the Maritime Continent.** *Deep-Sea Res. II*, 212, 105343. https://doi.org/10.1016/j.dsr2.2023.105343, pdf 
+61. **Steffen, J. D.**, **H. Seo**, C. A. Clayson, S. Pei, and T. Shionda, 2023:
+**Impacts of Tidal Mixing on Diurnal to Intraseasonal Air-Sea Interactions in the Maritime Continent.**
+*Deep-Sea Res. II*, 212, 105343. https://doi.org/10.1016/j.dsr2.2023.105343, pdf 
 ---
 
 60. Castillo-Trujillo A. C., Y.-O. Kwon, P. Fratantoni, K. Chen, **H. Seo**, M. A. Alexander, and V. S. Saba., 2023: 
@@ -48,7 +53,8 @@ Authors in **bold** indicate members of the Seo Lab.
 **Improving wave-based air-sea momentum flux parameterization in mixed seas.**
 *J. Geophys. Res. Oceans*, 128, e2022JC019277. https://doi.org/10.1029/2022JC019277 pdf
 ---
-56. **Seo, H.**, L. W. O’Neill, M. A. Bourassa, A. Czaja, K. Drushka, J. B. Edson, B. Fox-Kemper, I. Frenger, S. T. Gille, B. P. Kirtman, S. Minobe, A. G. Pendergrass, L. Renault, M. J. Roberts, N. Schneider, R. J. Small, A. Stoffelen, and Q. Wang., 2023: **Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A Review.** 
+56. **Seo, H.**, L. W. O’Neill, M. A. Bourassa, A. Czaja, K. Drushka, J. B. Edson, B. Fox-Kemper, I. Frenger, S. T. Gille, B. P. Kirtman, S. Minobe, A. G. Pendergrass, L. Renault, M. J. Roberts, N. Schneider, R. J. Small, A. Stoffelen, and Q. Wang., 2023:
+**Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A Review.** 
 *J. Climate*, 36, 1981–2013. https://doi.org/10.1175/JCLI-D-21-0982.1 pdf
 ---
 #### 2021
@@ -68,7 +74,8 @@ Authors in **bold** indicate members of the Seo Lab.
 *J. Climate*, 34, 9093–9113. https://doi.org/10.1175/JCLI-D-21-0142.1 pdf
 
 ---
-52. Pei, S., T. Shinoda, **J. Steffen**, and **H. Seo.**, 2021: **Substantial Sea Surface Temperature cooling in the Banda Sea associated with the Madden-Julian Oscillation in the boreal winter of 2015.**, 
+52. Pei, S., T. Shinoda, **J. Steffen**, and **H. Seo.**, 2021:
+**Substantial Sea Surface Temperature cooling in the Banda Sea associated with the Madden-Julian Oscillation in the boreal winter of 2015.**, 
 *J. Geophys. Res. Oceans*, 126, e2021JC017226. https://doi.org/10.1029/2021JC017226 pdf
 
 ---
