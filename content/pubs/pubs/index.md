@@ -55,7 +55,7 @@ Authors in **bold** indicate members of the Seo Lab.
 ---
 56. **Seo, H.**, L. W. O’Neill, M. A. Bourassa, A. Czaja, K. Drushka, J. B. Edson, B. Fox-Kemper, I. Frenger, S. T. Gille, B. P. Kirtman, S. Minobe, A. G. Pendergrass, L. Renault, M. J. Roberts, N. Schneider, R. J. Small, A. Stoffelen, and Q. Wang., 2023:
 **Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A Review.** 
-*J. Climate*, 36, 1981–2013. https://doi.org/10.1175/JCLI-D-21-0982.1 [**PDF**](papes/seo.etal.23.pdf)
+*J. Climate*, 36, 1981–2013. https://doi.org/10.1175/JCLI-D-21-0982.1 [**PDF**](papers/seo.etal.23.pdf)
 ---
 #### 2021
 
@@ -250,7 +250,7 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 
 20. **Oltmanns, M.**, F. Straneo, **H. Seo**, G. W. K. Moore, 2015: 
 **The role of wave dynamics and small-scale topography for downslope wind events in southeast Greenland.**
-*J. Atmos. Sci.*, 72, 2786-2805. https://doi.org/10.1175/JAS-D-14-0257.1 [**PDF**](papes/oltmanns.etal_.15.jas_.downslope_wind.pdf)
+*J. Atmos. Sci.*, 72, 2786-2805. https://doi.org/10.1175/JAS-D-14-0257.1 [**PDF**](papers/oltmanns.etal_.15.jas_.downslope_wind.pdf)
 
 ---
 19. Cavanaugh, N., T. Allen, A. Subramanian, B. Mapes, **H. Seo**, and A. J. Miller, 2015:
