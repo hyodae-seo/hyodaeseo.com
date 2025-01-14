@@ -37,7 +37,7 @@ Authors in **bold** indicate members of the Seo Lab.
 
 60. **Castillo-Trujillo A. C.**, Y.-O. Kwon, P. Fratantoni, K. Chen, **H. Seo**, M. A. Alexander, and V. S. Saba, 2023: 
 **An evaluation of eight global ocean reanalyses for the Northeast U.S. continental shelf.**
-*Prog. Oceanogr*, 219, 103126. https://doi.org/10.1016/j.pocean.2023.103126, [**PDF**](papers/carolina castillo-trujillo.etal.23.pdf)
+*Prog. Oceanogr*, 219, 103126. https://doi.org/10.1016/j.pocean.2023.103126, [**PDF**](papers/carolinacastillo-trujillo.etal.23.pdf)
 ---
 
 59. Clayson, C. A., C. A. DeMott, S. P. de Szoeke, P. Chang, G. R. Foltz, R. Krishnamurthy, T. Lee, A. Molod, D. G. Ortiz-Suslow, J. Pullen, D. H. Richter, **H. Seo**, P. C. Taylor, E. Thompson, B. V. Bôas, C. J. Zappa, and P. Zuidema, 2023:
@@ -64,8 +64,8 @@ Authors in **bold** indicate members of the Seo Lab.
 *J. Geophys. Res. Oceans*, 126, e2021JC017884. https://doi.org/10.1029/2021JC017884 [**PDF**](papers/kwak.etal_.21.jgro_.pdf)
 ---
 
-54. Shinoda, T., S. Pei, W. Wang, J. X. Fu, R.-C. Lien, **H. Seo**, A. Soloviev., 2021: 
-**Climate Process Team: Improvement of ocean component of NOAA Climate Forecast System relevant to Madden-Julian Oscillation simulations.**,
+54. Shinoda, T., S. Pei, W. Wang, J. X. Fu, R.-C. Lien, **H. Seo**, A. Soloviev., 2021:
+**Climate Process Team: Improvement of ocean component of NOAA Climate Forecast System relevant to Madden-Julian Oscillation simulations.**
 *J. of Adv. Model. Earth Syst.*, 13, e2021MS002658. https://doi.org/10.1029/2021MS002658 [**PDF**](papers/shinoda.etal_.21.james_.pdf)
 ---
 
