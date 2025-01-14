@@ -3,7 +3,7 @@ title: # New! Postdoctoral Researcher (Air-Sea Modeling) at Seo Lab @ UH. #
 date: 2025-01-12
 ---
 
-### **We are recruiting a highly motivated and independent scientist for a postdoctoral researcher position!** ###
+### **We are hiring a highly motivated and independent scientist for a postdoctoral researcher position!** ###
 <!--more-->
 
 We are seeking a highly motivated and independent scientist for a postdoctoral researcher position in the Department of Oceanography at the University of Hawai‘i at Mānoa. The successful candidate will work under the supervision of Dr. Hyodae Seo and Dr. César Sauvage on projects focused on coupled boundary layer processes, surface waves, and offshore wind energy over the Mid-Atlantic Bight. The candidate should have strong background in numerical modeling and quantitative analysis skills. Prior experience in surface wave modeling and coupled ocean-atmosphere modeling is preferred. Experience with observational analyses of the upper ocean physics, air-sea fluxes, and/or atmospheric boundary layer processes is also desirable. 
