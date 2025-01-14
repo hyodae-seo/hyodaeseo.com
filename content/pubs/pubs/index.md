@@ -1,4 +1,4 @@
-#### [**Google Scholar Citations**](https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en)  
+#### [**Google Scholar Citations**](https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en) 
 Authors in **bold** indicate members of the Seo Lab.
 
 ---
@@ -9,7 +9,7 @@ Authors in **bold** indicate members of the Seo Lab.
 *In prep*
 - Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim.
 **Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
-*Environmental Research Letters*, *Under Review*  
+*Environmental Research Letters*, *Under Review* 
 
 ---
 #### 2025
@@ -61,7 +61,7 @@ Authors in **bold** indicate members of the Seo Lab.
 
 55. Kwak, K., H. Song, J. Marshall, **H. Seo**, and D. McGillicuddy, Jr., 2021:
 **Suppressed pCO2 in the Southern Ocean due to the interaction between current and wind.**,
-*J. Geophys. Res. Oceans*, 126, e2021JC017884.  https://doi.org/10.1029/2021JC017884 [**PDF**](papers/kwak.etal_.21.jgro_.pdf)
+*J. Geophys. Res. Oceans*, 126, e2021JC017884. https://doi.org/10.1029/2021JC017884 [**PDF**](papers/kwak.etal_.21.jgro_.pdf)
 ---
 
 54. Shinoda, T., S. Pei, W. Wang, J. X. Fu, R.-C. Lien, **H. Seo**, A. Soloviev., 2021: 
@@ -87,7 +87,7 @@ Authors in **bold** indicate members of the Seo Lab.
 50. **Bartusek, S. T.**, **H. Seo**, C. C. Ummenhofer, and **J. D. Steffen**, 2021:
 **The role of nearshore air-sea interactions for landfalling atmospheric rivers on the U.S. West Coast.**
 *Geophs. Res. Lett.*, 48, e2020GL091388. https://doi.org/10.1029/2020GL091388 [**PDF**](papers/bartusek.etal_.21.grl_.ar_coastal.pdf) 
-See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensify-atmospheric-rivers-researchers-find/?_gl=1*7zghfx*_gcl_au*MjAyMTAwMjc0MS4xNzI4OTgxODMx*_ga*MTA4MTA4MjU5Mi4xNzI4OTgxODMx*_ga_HLKFZX9JZK*MTczNjY4MTE5Mi4zOC4wLjE3MzY2ODExOTIuMC4wLjA.)*  
+See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensify-atmospheric-rivers-researchers-find/?_gl=1*7zghfx*_gcl_au*MjAyMTAwMjc0MS4xNzI4OTgxODMx*_ga*MTA4MTA4MjU5Mi4xNzI4OTgxODMx*_ga_HLKFZX9JZK*MTczNjY4MTE5Mi4zOC4wLjE3MzY2ODExOTIuMC4wLjA.)* 
 
 ---
 49. Sun, R., A. C. Subramanian, B. D. Cornuelle, M. R. Mazloff, A. J. Miller, F. M. Ralph, **H. Seo**, and I. Hoteit, 2021: 
@@ -98,12 +98,12 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 #### 2020
 
 48. Liang, Y.-C., M.-H. Lo, C.-W. Lan, **H. Seo**, C. C. Ummenhofer, S. Yeager, R.-J. Wu, and J. D. Steffen, 2020:
-**Amplified Seasonal Cycle in Hydroclimate over the Amazon River Basin and its Plume Region.**  
+**Amplified Seasonal Cycle in Hydroclimate over the Amazon River Basin and its Plume Region.** 
 *Nature Comms.*, 11, 4390. https://doi.org/10.1038/s41467-020-18187-0 [**PDF**](papers/liang.etal_.20_ncomm_amazon-1.pdf)
 
 ---
 47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su,
-**Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.**  
+**Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.** 
 *Env. Res. Lett.*, 15, 084047. https://doi.org/10.1088/1748-9326/ab9f7f [**PDF**](papers/yuan.etal_.20.ERL_.pdf)
 
 ---
@@ -133,7 +133,7 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 
 ---
 41. Kwon, Y.-O., **H. Seo**, C. C. Ummenhofer, and T. M. Joyce, 2020:
-**Impact of Multidecadal Variability in Atlantic SST on Winter Atmospheric Blocking.**  
+**Impact of Multidecadal Variability in Atlantic SST on Winter Atmospheric Blocking.** 
 *J. Climate*, 33, 867–892. https://doi.org/10.1175/JCLI-D-19-0324.1 [**PDF**](papers/knwon.etal_.20.jcli_.pdf)
 
 
@@ -162,7 +162,7 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 #### 2018
 
 36. **Parfitt, R.** and **H. Seo**, 2018: 
-**A New Framework for Near-Surface Wind Convergence over the Kuroshio Extension and Gulf Stream in Wintertime: The Role of Atmospheric Fronts.**  
+**A New Framework for Near-Surface Wind Convergence over the Kuroshio Extension and Gulf Stream in Wintertime: The Role of Atmospheric Fronts.** 
 *Geophys. Res. Lett.*, 45, 9909–9918. https://doi.org/10.1175/JCLI-D-18-0413.1 [**PDF**](papers/parfittandseo_GRL.pdf)
 See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights/new-perspectives-regarding-gulf-stream-and-kuroshio-extension-influence).
 
@@ -226,7 +226,7 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 ---
 24. **Jongaramrungruang, S.**, **H. Seo**, and C. C. Ummenhofer, 2017:
 **Intraseasonal rainfall variability in the Bay of Bengal during the Summer Monsoon: Coupling with the ocean and modulation by the Indian Ocean Dipole**.
-*Atmos. Sci. Lett.*, 18, 88–95.  https://doi.org/10.1002/asl.729 [**PDF**](papers/jongaramrungruang_et.al_.asl_.17.ism_iso_iod.pdf)
+*Atmos. Sci. Lett.*, 18, 88–95. https://doi.org/10.1002/asl.729 [**PDF**](papers/jongaramrungruang_et.al_.asl_.17.ism_iso_iod.pdf)
 
 ---
 #### 2016
@@ -267,12 +267,12 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 ---
 17. Park, J.-Y., J.-S. Kug, **H. Seo**, and J. Bader, 2014:
 **Impact of bio-physical feedbacks on the tropical climate in coupled and uncoupled GCMs.**
-*Clim. Dyn.*, 43, 1811-1827.  https://doi.org/10.1007/s00382-013-2009-0 [**PDF**](papers/park.etal_.14.cd_.bio_feedback.pdf)
+*Clim. Dyn.*, 43, 1811-1827. https://doi.org/10.1007/s00382-013-2009-0 [**PDF**](papers/park.etal_.14.cd_.bio_feedback.pdf)
 
 ---
 16. **Seo, H.**, Y.-O. Kwon, and J.-J. Park, 2014:
 **On the effect of the East/Japan Sea SST variability on the North Pacific atmospheric circulation in a regional climate model.**
-*J. Geophys. Res.-Atmospheres*, 119, 418-444.  https://doi.org/10.1002/2013JD020523 [**PDF**](papers/seo.etal_.14.jgra_.ejs_sst.pdf)
+*J. Geophys. Res.-Atmospheres*, 119, 418-444. https://doi.org/10.1002/2013JD020523 [**PDF**](papers/seo.etal_.14.jgra_.ejs_sst.pdf)
 
 ---
 15. Subramanian, A, M. Jochum, A. J. Miller, R. Neale, **H. Seo**, D. Waliser, and R. Murtugudde, 2014:
@@ -284,7 +284,7 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 
 14. **Seo, H.**, and J. Yang, 2013:
 **Dynamical response of the Arctic atmospheric boundary layer process to uncertainties in sea ice concentration.**
-*J. Geophys. Res-Atmospheres*, 118, 12,383-12,402.  https://doi.org/10.1002/2013JD020312 [**PDF**](papers/seo.yang_.13.jgra_.pdf)
+*J. Geophys. Res-Atmospheres*, 118, 12,383-12,402. https://doi.org/10.1002/2013JD020312 [**PDF**](papers/seo.yang_.13.jgra_.pdf)
 
 ---
 13. Putrasahan, D. A. J. Miller, and **H. Seo**, 2013:
@@ -361,4 +361,4 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 
 1. **Seo, H.**, M. Jochum, R. Murtugudde, and A. J. Miller, 2006: 
 **Effect of Ocean Mesoscale Variability on the Mean State of Tropical Atlantic Climate.**
-*Geophys. Res. Lett.*, 33, L09606.  https://doi.org/10.1029/2005GL025651 [**PDF**](papers/seo.grl_.06.pdf)
+*Geophys. Res. Lett.*, 33, L09606. https://doi.org/10.1029/2005GL025651 [**PDF**](papers/seo.grl_.06.pdf)
