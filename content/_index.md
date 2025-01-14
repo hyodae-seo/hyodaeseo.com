@@ -44,9 +44,9 @@ sections:
            <small>_Associate Director_, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
            <small>_Senior Scientist_, [Physical Oceanography Department](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/), [Woods Hole Oceanographic Institution](https://www.whoi.edu) (on leave)  </small><br>
 
-           <small>The Seo Lab at [UH](https://www.hyodaeseo.com) and [WHOI](https://hseo.whoi.edu) studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and offshore wind energy. The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and satellite and in situ observations.    </small>
+           <small>The Seo Lab at [UH](https://www.hyodaeseo.com) and [WHOI](https://hseo.whoi.edu) studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and [offshore wind energy](projects/DOE_WFIP3). The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and [satellite](butterfly) and in situ observations.    </small>
 
-            <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with the United Nations Sustainable Development Goals and the UC•AO activities.   </small>
+            <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with [the United Nations Sustainable Development Goals](https://sdgs.un.org/goals) and the [UC•AO](https://sdgs.un.org/goals) activities.   </small>
 
           | [![UC•AO](UCAO2.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly.png)](/butterfly) | [![SCOAR](scoar2.png)](/scoar) |
           |:--------------------------:|:--------------------------:|:------------------:|
