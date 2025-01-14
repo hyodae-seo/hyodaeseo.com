@@ -164,7 +164,7 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 36. **Parfitt, R.** and **H. Seo**, 2018: 
 **A New Framework for Near-Surface Wind Convergence over the Kuroshio Extension and Gulf Stream in Wintertime: The Role of Atmospheric Fronts.**  
 *Geophys. Res. Lett.*, 45, 9909–9918. https://doi.org/10.1175/JCLI-D-18-0413.1 [**PDF**](papers/parfittandseo_GRL.pdf)
-[US CLIVAR Research Highlight](https://usclivar.org/research-highlights/new-perspectives-regarding-gulf-stream-and-kuroshio-extension-influence).
+See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights/new-perspectives-regarding-gulf-stream-and-kuroshio-extension-influence).
 
 ---
 35. Pullen, J., R. Allard, **H. Seo**, A. J. Miller, S. Chen, L. P. Pezzi, T. Smith, P. Chu, J. Alves, and R. Caldeira, 2018:
@@ -216,7 +216,7 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 
 26. Miller, A. J., M. Collins, S. Gualdi, T. G. Jensen, V. Misra, L. P. Pezzi, D. W. Pierce, D. Putrasahan, **H. Seo**, and Y.-H. Tseng, 2017:
 **Coupled Ocean-Atmosphere-Hydrology Modeling and Predictions**, 
-*J. Mar. Res.*, 75, 361-402. [10.1357/002224017821836770](10.1357/002224017821836770) [**PDF**](papers/miller.etal_.17.jmr_.the_sea.pdf)
+*J. Mar. Res.*, 75, 361-402. DOI:[10.1357/002224017821836770](10.1357/002224017821836770) [**PDF**](papers/miller.etal_.17.jmr_.the_sea.pdf)
 
 ---
 25. **Parfitt, R.**, A. Czaja, and **H. Seo**, 2017:
