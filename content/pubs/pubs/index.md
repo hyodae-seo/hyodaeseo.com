@@ -35,11 +35,7 @@ Authors in **bold** indicate members of the Seo Lab.
 *Deep-Sea Res. II*, 212, 105343. https://doi.org/10.1016/j.dsr2.2023.105343, [**PDF**](papers/steffen.etla_.23.dsr2_.pdf)
 ---
 
-<<<<<<< HEAD
-60. **Castillo-Trujillo A. C.**, Y.-O. Kwon, P. Fratantoni, K. Chen, **H. Seo**, M. A. Alexander, and V. S. Saba., 2023:
-=======
 60. **Castillo-Trujillo A. C.**, Y.-O. Kwon, P. Fratantoni, K. Chen, **H. Seo**, M. A. Alexander, and V. S. Saba, 2023: 
->>>>>>> a39d892eb88b1803826e3507907b657d4ba21480
 **An evaluation of eight global ocean reanalyses for the Northeast U.S. continental shelf.**
 *Prog. Oceanogr*, 219, 103126. https://doi.org/10.1016/j.pocean.2023.103126, [**PDF**](papers/carolinacastillo-trujillo.etal.23.pdf)
 ---
@@ -57,13 +53,9 @@ Authors in **bold** indicate members of the Seo Lab.
 **Improving wave-based air-sea momentum flux parameterization in mixed seas.**
 *J. Geophys. Res. Oceans*, 128, e2022JC019277. https://doi.org/10.1029/2022JC019277 [**PDF**](papers/sauvage.etal_.23.jgro_.wave_flux.pdf)
 ---
-<<<<<<< HEAD
-56. **Seo, H.**, L. W. O’Neill, M. A. Bourassa, A. Czaja, K. Drushka, J. B. Edson, B. Fox-Kemper, I. Frenger, S. T. Gille, B. P. Kirtman, S. Minobe, A. G. Pendergrass, L. Renault, M. J. Roberts, N. Schneider, R. J. Small, A. Stoffelen, and Q. Wang., 2023:
-**Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A Review.**
-=======
+
 56. **Seo, H.**, L. W. O’Neill, M. A. Bourassa, A. Czaja, K. Drushka, J. B. Edson, B. Fox-Kemper, I. Frenger, S. T. Gille, B. P. Kirtman, S. Minobe, A. G. Pendergrass, L. Renault, M. J. Roberts, N. Schneider, R. J. Small, A. Stoffelen, and Q. Wang, 2023:
 **Ocean Mesoscale and Frontal-scale Ocean-Atmosphere Interactions and Influence on Large-scale Climate: A Review.** 
->>>>>>> a39d892eb88b1803826e3507907b657d4ba21480
 *J. Climate*, 36, 1981–2013. https://doi.org/10.1175/JCLI-D-21-0982.1 [**PDF**](papers/seo.etal.23.pdf)
 ---
 #### 2021
@@ -74,7 +66,6 @@ Authors in **bold** indicate members of the Seo Lab.
 ---
 
 54. Shinoda, T., S. Pei, W. Wang, J. X. Fu, R.-C. Lien, **H. Seo**, A. Soloviev., 2021:
-<<<<<<< HEAD
 **Climate Process Team: Improvement of ocean component of NOAA Climate Forecast System relevant to Madden-Julian Oscillation simulations.**,
 *J. of Adv. Model. Earth Syst.*, 13, e2021MS002658. https://doi.org/10.1029/2021MS002658 [**PDF**](papers/shinoda.etal_.21.james_.pdf)
 ---
@@ -88,7 +79,6 @@ Authors in **bold** indicate members of the Seo Lab.
 
 53. **Seo, H.**, H. Song, L. W. O’Neill, M. R. Mazloff, and B. D. Cornuelle, 2021:
 **Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect.**, 
->>>>>>> a39d892eb88b1803826e3507907b657d4ba21480
 *J. Climate*, 34, 9093–9113. https://doi.org/10.1175/JCLI-D-21-0142.1 [**PDF**](papers/seo.etal_.21.pdf)
 
 ---
@@ -120,13 +110,11 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 *Nature Comms.*, 11, 4390. https://doi.org/10.1038/s41467-020-18187-0 [**PDF**](papers/liang.etal_.20_ncomm_amazon-1.pdf)
 
 ---
-<<<<<<< HEAD
 47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su,
 **Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.**
 =======
 47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su, 2020
 **Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.** 
->>>>>>> a39d892eb88b1803826e3507907b657d4ba21480
 *Env. Res. Lett.*, 15, 084047. https://doi.org/10.1088/1748-9326/ab9f7f [**PDF**](papers/yuan.etal_.20.ERL_.pdf)
 
 ---
@@ -160,13 +148,11 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 *J. Climate*, 33, 867–892. https://doi.org/10.1175/JCLI-D-19-0324.1 [**PDF**](papers/knwon.etal_.20.jcli_.pdf)
 
 ---
-<<<<<<< HEAD
 40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar., 2020:
 **Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.**
 =======
 40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar, 2020:
 **Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.** 
->>>>>>> a39d892eb88b1803826e3507907b657d4ba21480
 *Deep-Sea Res. II*, 161, 63–71. https://doi.org/10.1016/j.dsr2.2018.09.007 [**PDF**](papers/prend.etal_.19.dsr2_-1.pdf)
 
 ---
