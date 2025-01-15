@@ -52,7 +52,7 @@ sections:
           |:--------------------------:|:--------------------------:|:------------------:|
   - block: collection
     content:
-      title: Latest News
+      title: New!
       subtitle:
       text:
       count: 5
