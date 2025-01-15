@@ -103,20 +103,20 @@ sections:
 #     view: citation
 #     columns: '1'
 
-  - block: markdown
-    content:
-      title: 
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the Team →" %}}
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: 
-      subtitle:
-      text: |
-        {{% cta cta_link="./projects/" cta_text="Check our Projects →" %}}
-    design:
-      columns: '1'
+# - block: markdown
+#   content:
+#     title: 
+#     subtitle:
+#     text: |
+#       {{% cta cta_link="./people/" cta_text="Meet the Team →" %}}
+#   design:
+#     columns: '1'
+# - block: markdown
+#   content:
+#     title: 
+#     subtitle:
+#     text: |
+#       {{% cta cta_link="./projects/" cta_text="Check our Projects →" %}}
+#   design:
+#     columns: '1'
 ---
