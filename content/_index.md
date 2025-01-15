@@ -46,7 +46,7 @@ sections:
 
            <small>The Seo Lab at [UH](https://www.hyodaeseo.com) and [WHOI](https://hseo.whoi.edu) studies oceanic, atmospheric, and surface wave processes and their interactions with weather, climate, and [offshore wind energy](projects/DOE_WFIP3). The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and [satellite](butterfly) and in situ observations.    </small>
 
-            <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with [the United Nations Sustainable Development Goals](https://sdgs.un.org/goals) and the [UC•AO](https://sdgs.un.org/goals) activities.   </small>
+            <small>Our lab also engages the public on critical issues like extreme weather, climate, and renewable energy, aligning our research efforts with [the United Nations Sustainable Development Goals](https://sdgs.un.org/goals) and the [UC•AO](https://www.soest.hawaii.edu/oceanography/uc-ao/) activities.   </small>
 
           | [![UC•AO](ucao4.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly2.png)](/butterfly) | [![SCOAR](scoar3.png)](/scoar) |
           |:--------------------------:|:--------------------------:|:------------------:|

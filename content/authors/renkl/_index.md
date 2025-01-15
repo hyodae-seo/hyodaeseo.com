@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christoph Renkl
+title: Dr. Christoph Renkl
 
 # Full Name (for SEO)
 first_name: Christoph

@@ -15,6 +15,7 @@ sections:
           - Seo Lab @ UH 
           - Seo Lab @ WHOI
           - Alumni
+          - Admin
       #    - Researcher
       #    - Postdoc
       #    - Graduate Student
