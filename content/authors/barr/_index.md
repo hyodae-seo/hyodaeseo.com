@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ben Barr
+title: Dr. Ben Barr
 
 # Full Name (for SEO)
 first_name: Ben

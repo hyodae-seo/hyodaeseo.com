@@ -1,6 +1,6 @@
 ---
 # Display name
-title: César Sauvage
+title: Dr. César Sauvage
 
 # Full Name (for SEO)
 first_name: César

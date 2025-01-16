@@ -3,7 +3,7 @@ title: #SCOAR WRF-ROMS-WW3 Regional Coupled Modeling System
 date: 2024-12-19
 ---
 
-## Scripps Coupled Ocean-Atmosphere Regional (SCOAR) Model
+## **Scripps Coupled Ocean-Atmosphere Regional (SCOAR) Model**
 
 The **Scripps Coupled Ocean-Atmosphere Regional (SCOAR)** modeling system integrates **WRF**, **ROMS**, and **WW3** using the **COARE 3.5 bulk flux algorithm**, implemented within the WRF surface-layer module. These open-source models can be accessed through their respective repositories:
 
