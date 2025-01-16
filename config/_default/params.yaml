@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: 
-  theme_night: 
+  theme_day: minimal
+  theme_night: minimal
   font: mimimal
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/hyodae-seo/hyodae-seo.github.io'
+    url: 'https://github.com/hyodae-seo/hyodaeseo.com'
     content_dir: content
     branch: main
   avatar:
