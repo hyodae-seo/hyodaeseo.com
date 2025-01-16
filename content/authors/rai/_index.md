@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Shikhar Rai
+title: Shikhar Rai
 
 # Full Name (for SEO)
 first_name: Shikhar 

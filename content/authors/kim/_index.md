@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr. Yoo-Jun Kim (2023)
+title: Yoo-Jun Kim (2023)
 
 # Full Name (for SEO)
 first_name: Yoo-Jun

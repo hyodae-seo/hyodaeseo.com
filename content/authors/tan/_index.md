@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Peisen Tan (2023)
+title: Peisen Tan (2023)
 
 # Full Name (for SEO)
 first_name: Peisen

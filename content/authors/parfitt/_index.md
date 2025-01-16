@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Rhys. Parfitt (2016-2018)
+title: Rhys. Parfitt (2016-2018)
 
 # Full Name (for SEO)
 first_name: Rhys

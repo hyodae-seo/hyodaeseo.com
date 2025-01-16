@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Hyodae Seo
+title: Hyodae Seo
 url: /authors/seo/
 
 # Full Name (for SEO)

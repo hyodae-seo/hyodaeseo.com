@@ -1,10 +1,10 @@
 ---
 # Display name
-title: John Steffen (2019-2021)
+title: Alma Carolina Castillo-Trujillo (2022-2024)
 
 # Full Name (for SEO)
-first_name: John
-last_name: Steffen
+first_name: Alma Carolina
+last_name: Castillo-Trujillo
 
 # Is this the primary user of the site?
 superuser: no
@@ -14,22 +14,20 @@ role: Postdoctoral Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: NOAA
+  - name: at depth MRV
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Tropical Cyclones
-  - Tidal Mixing
-  - Ocean Modelling
-  - Air-Sea Interaction
+  - Ocean Modeling
+  - Coastal Oceaongraphy
 
 education:
   courses:
     - course: PhD in Oceanography
-      institution: Florida State University
-      year: 2019
+      institution: University of Hawai’i at Mānoa
+      year: 2018
   # - course: MS in Mechanical Engineering
   #   institution: University of Texas, Austin
   #   year: 2012
@@ -72,4 +70,4 @@ user_groups:
   - Alumni
 ---
 
-I am an Associate Professor in the Department of Earth, Ocean and Atmospheric Science at Florida State University. I also hold an appointment as an Adjunct Scientist in the Department of Physical Oceanography at Woods Hole Oceanographic Institution, and am an Affiliate Faculty Member at the Center for Ocean-Atmospheric Prediction Studies. My research group is primarily concerned with atmosphere-ocean interactions and the basic physics of atmospheric and oceanic circulations. I am also interested in large-scale climate variability on all timescales and the socio-economic impact of extreme weather, particularly in a warming climate. I enjoy analysing observational datasets and model outputs, and using them to theorize on the underlying mechanisms governing a particular interaction. Please feel free to contact me if you'd like to discuss any of my research or opportunities in my research group. Prospective graduate students may apply through the department website.
+Alma Carolina Castillo-Trujillo, Postdoctoral Fellow, joins WHOI’s PO Department. Alma earned her PhD in Physical Oceanography from the University of Hawai’i at Mānoa, Honolulu. Her research interests are:  Larger-scale ocean dynamics influencing coastal regions; Numerical Modeling; High-Frequency Doppler Radars; Inertial Oscillations; Interdisciplinary oceanography.  Alma is also interested in increasing the retention of underrepresented college students in STEM disciplines as well as teaching and mentoring. Alma is a member of the PO Climate Group at WHOI and is working with Young-Oh Kwon, Ke Chen and Hyodae Seo. While at WHOI, Alma Carolina will investigate the 1-5 year predictability of physical ocean conditions on the Northeast U.S. Continental Shelf and the associated large-scale climate and coastal ocean processes, using a coupled ocean-atmosphere regional model and observational datasets. In her free time, Alma enjoys surfing, snowboarding and reading historical fiction. Photo provided by Alma Carolina Castillo-Trujillo.
