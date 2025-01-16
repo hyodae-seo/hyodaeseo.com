@@ -78,7 +78,7 @@ Authors in **bold** indicate members of the Seo Lab.
 ---
 
 53. **Seo, H.**, H. Song, L. W. O’Neill, M. R. Mazloff, and B. D. Cornuelle, 2021:
-**Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect.**, 
+**Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect.**,
 *J. Climate*, 34, 9093–9113. https://doi.org/10.1175/JCLI-D-21-0142.1 [**PDF**](papers/seo.etal_.21.pdf)
 
 ---
@@ -112,9 +112,10 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 ---
 47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su,
 **Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.**
-=======
+
+---
 47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su, 2020
-**Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.** 
+**Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.**
 *Env. Res. Lett.*, 15, 084047. https://doi.org/10.1088/1748-9326/ab9f7f [**PDF**](papers/yuan.etal_.20.ERL_.pdf)
 
 ---
@@ -150,9 +151,11 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 ---
 40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar., 2020:
 **Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.**
-=======
+
+---
+
 40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar, 2020:
-**Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.** 
+**Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.**
 *Deep-Sea Res. II*, 161, 63–71. https://doi.org/10.1016/j.dsr2.2018.09.007 [**PDF**](papers/prend.etal_.19.dsr2_-1.pdf)
 
 ---
