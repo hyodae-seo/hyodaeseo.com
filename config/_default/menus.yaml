@@ -31,3 +31,6 @@ main:
   - name: UC•AO
     url: https://www.soest.hawaii.edu/oceanography/uc-ao/
     weight: 100
+  - name: OCN780
+    url: ocn780_sp2025
+    weight: 110

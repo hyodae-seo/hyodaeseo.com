@@ -29,4 +29,3 @@ sections:
       show_social: false
       show_organizations: true
 ---
-
