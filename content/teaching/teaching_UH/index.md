@@ -1,15 +1,20 @@
 ---
-title: University of Hawaiʻi at Mānoa (since Fall 2024)
+title: 
 date: 2024-12-24
 ---
 
-### **Spring 2025** <br>
-#### OCN760: Topics in Physical Ocean: Air-Sea Interaction and Offshore Wind<br>
-Instructors: Hyodae Seo  <br>
+### University of Hawaiʻi at Mānoa (Spring 2025 -- Present)
 
-#### OCN780: Ocean Seminars <br>
-Instructors: Hyodae Seo <br> 
+---
+#### **Spring 2025** <br>
+#### OCN760: Topics in Physical Oceanography: Air-Sea Interaction and Offshore Wind<br>
+Wednesdays 10:30a-12:20p, MSB 306  
+Instructor: Hyodae Seo  <br>
+
+#### OCN780: Ocean Seminars: [See schedule](/ocn780_sp2025/)<br>
+Thursdays, 3pm, MSB 100  
+Instructor: Hyodae Seo <br> 
+
+---
 
 <!--more-->
-
-..
