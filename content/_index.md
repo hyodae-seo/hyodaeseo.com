@@ -34,7 +34,7 @@ sections:
 #          parallax: false
   - block: hero
     content:
-      title: 
+      title:
       subtitle:
       image:
          filename: hyodae_group.jpg

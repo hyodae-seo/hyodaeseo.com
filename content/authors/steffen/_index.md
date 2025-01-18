@@ -10,11 +10,11 @@ last_name: Steffen
 superuser: no
 
 # Role/position
-role: Postdoctoral Investigator
+role: Former Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: NOAA
+  - name: Now @ SAIC
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

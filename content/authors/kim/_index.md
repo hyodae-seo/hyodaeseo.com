@@ -10,7 +10,7 @@ last_name: Kim
 superuser:   
 
 # Role/position
-role: Guest Student
+role: Former Guest Student
 
 # Organizations/Affiliations
 organizations:

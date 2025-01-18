@@ -39,21 +39,9 @@ education:
     - course: Associate Professor (Tenured)
       institution: University of Hawaiʻi at Mānoa
       year: 2024-
-    - course: Senior Scientist
+    - course: Tenure-track, Tenured, and Senior Scientist
       institution: Woods Hole Oceanographic Institution
-      year: 2024-
-    - course: Tenured Associate Scientist
-      institution: Woods Hole Oceanographic Institution
-      year: 2018-2024
-    - course: Associate Scientist
-      institution: Woods Hole Oceanographic Institution
-      year: 2014-2018
-    - course: MIT/WHOI Joint Program Faculty
-      institution: MIT/WHOI
-      year: 2010-
-    - course: Tenure-Track Assistant Scientist
-      institution: Woods Hole Oceanographic Institution
-      year: 2010-2014
+      year: 2010-2024
     - course: NOAA C&GC Postdoctoral Fellowship
       institution: University of Hawaiʻi at Mānoa and UCLA
       year: 2008-2010
@@ -61,7 +49,7 @@ education:
       institution: Scripps Institution of Oceanography, UC San Diego
       year: 2002-2007
     - course: BS in Atmospheric Sciences
-      institution: Yonsei University, Seoul, South Korea
+      institution: Yonsei University, South Korea
       year: 2002
       
 # Social/Academic Networking

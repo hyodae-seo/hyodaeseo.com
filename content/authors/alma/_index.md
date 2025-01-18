@@ -10,11 +10,11 @@ last_name: Castillo-Trujillo
 superuser: no
 
 # Role/position
-role: Postdoctoral Investigator
+role: Former Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: at depth MRV
+  - name: Now @ at depth MRV
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
