@@ -378,3 +378,10 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 1. **Seo, H.**, M. Jochum, R. Murtugudde, and A. J. Miller, 2006:
 **Effect of Ocean Mesoscale Variability on the Mean State of Tropical Atlantic Climate.**
 *Geophys. Res. Lett.*, 33, L09606. https://doi.org/10.1029/2005GL025651 [**PDF**](papers/seo.grl_.06.pdf)
+---
+
+0. **Seo, H.**, 2007:
+**Mesoscale Coupled Ocean-Atmosphere Interaction**,
+*Ph.D. Dissertation, University of California, San Diego*, 
+https://escholarship.org/uc/item/8w71d1hk
+[**PDF**](papers/seo_dissertation_ucsd.pdf)
