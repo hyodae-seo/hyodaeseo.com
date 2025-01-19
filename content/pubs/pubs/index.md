@@ -7,9 +7,12 @@ Authors in **bold** indicate members of the Seo Lab.
 - **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson.
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
+
+- **Sauvage, C.**, et al. **Wave Response To Offshore Wind Farm In The Northeast U.S. Coast**, *In prep*
+
 - Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim.
 **Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
-*Environmental Research Letters*, *Under Review* 
+*Env. Rese. Lett.*, *Under Review* 
 
 ---
 #### 2025
