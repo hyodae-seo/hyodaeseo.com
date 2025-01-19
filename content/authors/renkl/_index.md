@@ -10,11 +10,11 @@ last_name: Renkl
 superuser:   
 
 # Role/position
-role: Postdoctoral Investigator
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Woods Hole Oceanographic Institution
+  - name: WHOI
     url: 'https://www.whoi.edu/'
   #  url: 'https://www.christophrenkl.org/'
 
