@@ -1,5 +1,5 @@
 #### [**Google Scholar Citations**](https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en) 
-Authors in **bold** indicate members of the Seo Lab.
+Authors in **bold** indicate members of the Seo Lab<br>
 
 ---
 #### Under Review/Revision or In Preparation
