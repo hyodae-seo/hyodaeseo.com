@@ -34,3 +34,6 @@ main:
   - name: OCN780
     url: ocn780_sp2025
     weight: 110
+  - name: Calendar
+    url: calendar
+    weight: 120
