@@ -1,15 +1,20 @@
-#### [**Google Scholar Citations**](https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en) 
-Authors in **bold** indicate members of the Seo Lab<br>
-
 ---
-#### Under Review/Revision or In Preparation
-- **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
+title: 
+date: 2025-01-21
 ---
 
-- **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson.
+#### [**Google Scholar Citations**](https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en)
+Authors in **bold** indicate members of the Seo Lab <br>
+
+---
+#### Under Review, Revision, or In Preparation
+- **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep* 
+- **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson. 
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
+
 - **Sauvage, C.**, et al. **Fetch-dependent Surface Wave Response To Offshore Wind Farm In The Northeast U.S. Coast**, *In prep*
+
 - Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim.
 **Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
 *Env. Rese. Lett.*, *Under Review* 
@@ -385,6 +390,9 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 
 0. **Seo, H.**, 2007:
 **Mesoscale Coupled Ocean-Atmosphere Interaction**,
-*Ph.D. Dissertation, University of California, San Diego*, 
+*Ph.D. Dissertation, Scripps Institution of Oceanography*,
+*University of California, San Diego*, 
 https://escholarship.org/uc/item/8w71d1hk
 [**PDF**](papers/seo_dissertation_ucsd.pdf)
+
+<!--more-->
