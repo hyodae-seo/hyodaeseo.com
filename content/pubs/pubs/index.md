@@ -4,6 +4,8 @@ Authors in **bold** indicate members of the Seo Lab<br>
 ---
 #### Under Review/Revision or In Preparation
 - **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
+---
+
 - **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson.
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
