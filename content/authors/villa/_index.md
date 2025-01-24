@@ -11,11 +11,11 @@ last_name: Villa
 superuser: no
 
 # Role/position
-role: Administrative Officer Uehiro for Center for the Advancement of Oceanography
+role: Admin for UC•AO
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Hawaiʻi at Mānoa
+  - name: UHM
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)

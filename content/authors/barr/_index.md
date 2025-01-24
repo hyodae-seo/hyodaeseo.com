@@ -10,11 +10,11 @@ last_name: Barr
 superuser: no
 
 # Role/position
-role: Postdoctoral Investigator
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Woods Hole Oceanogrpahic Institution
+  - name: WHOI
     url: 'https://www.whoi.edu/'
 
 # Short bio (displayed in user profile at end of posts)

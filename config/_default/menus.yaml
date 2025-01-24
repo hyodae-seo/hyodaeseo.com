@@ -14,7 +14,6 @@ main:
   - name: Publications
   # url: publication
     url: pubs
-  #  baseURL: 'https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en&authuser=1'    
     weight: 50
   - name: Projects
     url: projects
@@ -34,3 +33,6 @@ main:
   - name: OCN780
     url: ocn780_sp2025
     weight: 110
+  - name: Calendar
+    url: calendar
+    weight: 120

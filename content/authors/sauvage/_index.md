@@ -14,7 +14,7 @@ role: Oceanographic Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Hawaii at Manoa
+  - name: UHM
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
