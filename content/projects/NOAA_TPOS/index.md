@@ -3,7 +3,7 @@ title: Exploiting coupled ocean-atmosphere-wave model simulations to identify ob
 date: 2024-12-19
 ---
 
-National Oceanic and Atmospheric Administration (NOAA) CVP Tropical Pacific Observing System (TPOS) Pre-field Modeling (Seo, PI)
+NOAA [Climate Variability & Predictability (CVP)](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/climate-variability-predictability/) [Tropical Pacific Observing System (TPOS)](https://globalocean.noaa.gov/research/tropical-pacific-observing-system/) Pre-field Modeling: Seo, Wijffels (WHOI)
 
 ---
 

@@ -4,7 +4,7 @@ Authors in **bold** indicate members of the Seo Lab.
 ---
 #### Under Review/Revision or In Preparation
 - **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
-- **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson.
+- **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson:
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
 - Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim.
@@ -24,7 +24,7 @@ Authors in **bold** indicate members of the Seo Lab.
 *J. Geophys. Res. Oceans*, 129, e2024JC021162. https://doi.org/10.1029/2024JC021162, [**PDF**](../papers/sauvage.etal_.24.jgro_.pdf)
 ---
 
-62. Shinoda, T., T. G. Jensen, Z. Lachkar, Y. Masumoto, and **H. Seo.**, 2024:
+62. Shinoda, T., T. G. Jensen, Z. Lachkar, Y. Masumoto, and **H. Seo**, 2024:
 **Modeling the Indian Ocean, Intraseasonal variability in the Indian Ocean region.** *The Indian Ocean and its role in the global climate system.* Elsevier Publishing, Editors: C. C. Ummenhofer and R. R. Hood. https://doi.org/10.1016/B978-0-12-822698-8.00013, [**PDF**](papers/shinoda.etal.24.pdf)
 ---
 
@@ -65,12 +65,12 @@ Authors in **bold** indicate members of the Seo Lab.
 *J. Geophys. Res. Oceans*, 126, e2021JC017884. https://doi.org/10.1029/2021JC017884 [**PDF**](papers/kwak.etal_.21.jgro_.pdf)
 ---
 
-54. Shinoda, T., S. Pei, W. Wang, J. X. Fu, R.-C. Lien, **H. Seo**, A. Soloviev., 2021:
+54. Shinoda, T., S. Pei, W. Wang, J. X. Fu, R.-C. Lien, **H. Seo**, A. Soloviev, 2021:
 **Climate Process Team: Improvement of ocean component of NOAA Climate Forecast System relevant to Madden-Julian Oscillation simulations.**,
 *J. of Adv. Model. Earth Syst.*, 13, e2021MS002658. https://doi.org/10.1029/2021MS002658 [**PDF**](papers/shinoda.etal_.21.james_.pdf)
 ---
 
-53. **Seo, H.**, H. Song, L. W. O’Neill, M. R. Mazloff, and B. D. Cornuelle., 2021:
+53. **Seo, H.**, H. Song, L. W. O’Neill, M. R. Mazloff, and B. D. Cornuelle, 2021:
 **Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect.**,
 =======
 **Climate Process Team: Improvement of ocean component of NOAA Climate Forecast System relevant to Madden-Julian Oscillation simulations.**
@@ -82,12 +82,12 @@ Authors in **bold** indicate members of the Seo Lab.
 *J. Climate*, 34, 9093–9113. https://doi.org/10.1175/JCLI-D-21-0142.1 [**PDF**](papers/seo.etal_.21.pdf)
 
 ---
-52. Pei, S., T. Shinoda, **J. Steffen**, and **H. Seo.**, 2021:
+52. Pei, S., T. Shinoda, **J. Steffen**, and **H. Seo**, 2021:
 **Substantial Sea Surface Temperature cooling in the Banda Sea associated with the Madden-Julian Oscillation in the boreal winter of 2015.**,
 *J. Geophys. Res. Oceans*, 126, e2021JC017226. https://doi.org/10.1029/2021JC017226 [**PDF**](papers/pei.etal_.21.pdf)
 
 ---
-51. Shroyer, E., and Co-authors including **H. Seo.**, 2021:
+51. Shroyer, E., and Co-authors including **H. Seo**, 2021:
 **Bay of Bengal Intraseasonal Oscillation and the 2018 Monsoon Onset.**
 *Bull. Amer. Met. Soc.*, 102(10), E1936–E1951. https://doi.org/10.1175/BAMS-D-20-0113.1 [**PDF**](papers/shroyer.etal_.21.bams_.pdf)
 
@@ -149,7 +149,7 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 *J. Climate*, 33, 867–892. https://doi.org/10.1175/JCLI-D-19-0324.1 [**PDF**](papers/knwon.etal_.20.jcli_.pdf)
 
 ---
-40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar., 2020:
+40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar, 2020:
 **Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.**
 
 ---

@@ -4,7 +4,7 @@ date: 2024-12-19
 ---
 
 
-National Science Foundation (NSF) Physical Oceanography, PI: Seo (WHOI/UH)
+NSF Physical Oceanography (PO): Seo
 
 ---
 

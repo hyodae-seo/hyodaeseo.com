@@ -3,7 +3,7 @@ title: Improving the model simulation of surface wave impacts on air-sea fluxes,
 date: 2024-12-19
 ---
 
-[Office of Naval Research (ONR) The Arabian Sea Transition Layer (ASTRAL) DRI](https://www.onr.navy.mil/organization/departments/code-32/division-322/physical-oceanography/astral), Exchange Across the Air-Sea Interface DRI, PI: H. Seo (UH)
+ONR [The Arabian Sea Transition Layer (ASTRAL) DRI](https://www.onr.navy.mil/organization/departments/code-32/division-322/physical-oceanography/astral), Exchange Across the Air-Sea Interface: Seo
 
 ---
 

@@ -3,7 +3,7 @@ title: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate; 
 date: 2024-12-19
 ---
 
-National Science Foundation (NSF) Physical Oceanography & Climate and Large-scale Dynamics, PI: Hyodae Seo (WHOI/UH), A. Miller (Scripps)
+NSF Physical Oceanography (PO) & Climate and Large-scale Dynamics (CLD): Seo, Miller (Scripps)
 
 ---
 
