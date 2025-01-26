@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+# - name: Home
     baseURL: 'https://hyodae-seo.github.io/' # Website URL
     #url: https://hyodae-seo.github.io
     weight: 30
