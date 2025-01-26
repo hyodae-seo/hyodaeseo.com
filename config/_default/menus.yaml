@@ -5,9 +5,9 @@
 
 main:
 # - name: Home
-    baseURL: 'https://hyodae-seo.github.io/' # Website URL
+#   baseURL: 'https://hyodae-seo.github.io/' # Website URL
     #url: https://hyodae-seo.github.io
-    weight: 30
+#   weight: 30
   - name: People
     url: people
     weight: 40
