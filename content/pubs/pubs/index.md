@@ -8,6 +8,8 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 ---
 #### Under Review/Revision or In Preparation
+- **Rai, S.**, **H. Seo**, S. Wijffels, **Multi-Scale Temperature Budget Analysis of Mixed Layer in Tropical Pacific** *In prep*
+- **Rai, S.**, **H. Seo**, S. Wijffels, **Multi-Scale Temperature Budget Analysis of Mixed Layer in Tropical Pacific** *In prep*
 - **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 - **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson. 
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
