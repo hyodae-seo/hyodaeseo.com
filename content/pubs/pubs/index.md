@@ -30,7 +30,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 #### 2024
 63. **Sauvage, C.**, **H. Seo**, **B. W. Barr**, J. B. Edison, and C. A. Clayson, 2024:
 **Misaligned Wind-Waves Behind Atmospheric Cold Fronts.**
-*J. Geophys. Res. Oceans*, 129, e2024JC021162. https://doi.org/10.1029/2024JC021162, [**PDF**](../papers/sauvage.etal_.24.jgro_.pdf)
+*J. Geophys. Res. Oceans*, 129, e2024JC021162. https://doi.org/10.1029/2024JC021162, [**PDF**](papers/sauvage.etal_.24.jgro_.pdf)
 ---
 
 62. Shinoda, T., T. G. Jensen, Z. Lachkar, Y. Masumoto, and **H. Seo**, 2024:
