@@ -7,21 +7,22 @@ date: 2025-01-21
 Authors in **bold** indicate the members of Seo Lab<br>
 
 ---
-#### Under Review/Revision or In Preparation
+#### Under Review, Revision or In Preparation
 - **Rai, S.**, **H. Seo**, S. Wijffels, **Multi-Scale Temperature Budget Analysis of Mixed Layer in Tropical Pacific** *In prep*
 - **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 - **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson. 
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
-
 - **Sauvage, C.**, **H. Seo** et al. **Fetch-dependent Surface Wave Response To Offshore Wind Farm In The Northeast U.S. Coast**, *In prep*
-
-- Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim.
-**Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
-*Env. Rese. Lett.*, *Under Review* 
+- Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *J. Geophys. Res. Oceans.* *Under Review*
 
 ---
 #### 2025
+65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
+**Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
+*Env. Rese. Lett.*, *in press*
+
+
 64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2024:
 **Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System**.
 *Ocean Modell.*, 194, 102496, https://doi.org/10.1016/j.ocemod.2024.10249 [**PDF**](papers/cho.etal.25.pdf)
