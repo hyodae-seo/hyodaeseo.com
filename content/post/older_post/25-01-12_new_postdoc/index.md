@@ -13,4 +13,3 @@ The initial appoint is 1 year, with the continuation of employment for a second 
 Applicants must submit their application forms online (ID# 225013) [HERE](https://www.hirenethawaii.com/vosnet/jobbanks/jobdetails.aspx?enc=9B8/uT7EfbEIDLIMZ8rhowzqyZjsNU1dBVrIZPNl61aLdeYEgg50x36hjNUp+PGjKBUNDdtR0EdoTI/CW/wkPX3VJuDgFgtTUtCwXBVSNr65MxOTKO9r4Nw4m87IJ7BUEjxQykp4IgX54lkJUf2Ql+5PMIiTt6PXhk1gx8dZUZcrdniP5pxcRSB7oiRH3mzLHlkf6jjL24Gombwyfud1rEVGx5hdl/GHA8AXknnMCL53fNGRv1GxpoRpTZnKqMCh38syKjr3mn7UfMkjkC2HgLKWBUOhi7NwVXEGv3AMa/WW+3jgTxDHJx4PaJjbPhlEZVYEODRYX330SK2o6C/xHF/GTwhBINBUmJoNSAHvpkIARSUlNfIxJtlRGFNExWe+7uOHe1LT9QpOz4MpO+p3JgD2njpI2Zyp4R/lrC7y7LAImCSrUSTq/h116t87DF9nZ6dLhkDuRL2F0eGoHKfELGA34YKIzZJHNIpY9EPqNBt5pSFTg/5579AETv90lXfKp70jIrQTwc6/KLjOOSeN2Zr/WuKMaWJ4sxTe0c47L+6U4RpaO3Bdpdtzy8Bp6j48e7D7hL+tARomoEOnTkWAfUH/+BC7RLqiRWqnwRDqbxA=)
 
 Interested applicant should contact Dr. Hyodae Seo (hyodae@hawaii.edu) and Cesar Sauvage (csauvage@hawaii.edu).
-
