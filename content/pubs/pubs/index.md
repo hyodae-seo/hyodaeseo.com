@@ -20,7 +20,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 #### 2025
 65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
 **Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
-*Env. Rese. Lett.*, *in press*
+*Env. Rese. Lett.*, https://doi.org/10.1088/1748-9326/adc616
 
 
 64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2024:
