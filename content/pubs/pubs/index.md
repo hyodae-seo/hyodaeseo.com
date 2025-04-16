@@ -24,7 +24,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 ---
 
 
-64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2024:
+64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2025:
 **Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System**.
 *Ocean Modell.*, 194, 102496, https://doi.org/10.1016/j.ocemod.2024.10249 [**PDF**](papers/cho.etal.25.pdf)
 ---
