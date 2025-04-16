@@ -82,13 +82,6 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 53. **Seo, H.**, H. Song, L. W. O’Neill, M. R. Mazloff, and B. D. Cornuelle, 2021:
 **Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect.**,
-=======
-**Climate Process Team: Improvement of ocean component of NOAA Climate Forecast System relevant to Madden-Julian Oscillation simulations.**
-*J. of Adv. Model. Earth Syst.*, 13, e2021MS002658. https://doi.org/10.1029/2021MS002658 [**PDF**](papers/shinoda.etal_.21.james_.pdf)
----
-
-53. **Seo, H.**, H. Song, L. W. O’Neill, M. R. Mazloff, and B. D. Cornuelle, 2021:
-**Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect.**,
 *J. Climate*, 34, 9093–9113. https://doi.org/10.1175/JCLI-D-21-0142.1 [**PDF**](papers/seo.etal_.21.pdf)
 
 ---
