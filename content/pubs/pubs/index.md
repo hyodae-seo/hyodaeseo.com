@@ -8,13 +8,13 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 ---
 #### Under Review, Revision or In Preparation
-- **Rai, S.**, S. Wijffels, and **H. Seo**, **Assessment of Discrepancies between QuikSCAT and TAO Winds** *In prep*
+- **Rai, S.**, S. Wijffels, and **H. Seo**, **Investigation of Discrepancies between Satellite and In-Situ Winds** *In prep*
 - **Rai, S.**, **H. Seo**, S. Wijffels, **Multi-Scale Temperature Budget Analysis of Mixed Layer in Tropical Pacific** *In prep*
 - **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 - **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson. 
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
-- **Sauvage, C.**, **H. Seo** et al. **Fetch-dependent Surface Wave Response To Offshore Wind Farm In The Northeast U.S. Coast**, *In prep*
+- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Response To Offshore Wind Farm In The Northeast U.S. Coast**, *In prep*
 - Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *J. Geophys. Res. Oceans.* *Under Review*
 
 ---
@@ -22,9 +22,8 @@ Authors in **bold** indicate the members of Seo Lab<br>
 65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
 **Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
 *Env. Res. Lett.*, 20, 054028, https://doi.org/10.1088/1748-9326/adc616 [**PDF**](papers/yang.etal.25.erl.spray.pdf)
+
 ---
-
-
 64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2025:
 **Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System**.
 *Ocean Modell.*, 194, 102496, https://doi.org/10.1016/j.ocemod.2024.10249 [**PDF**](papers/cho.etal.25.pdf)
