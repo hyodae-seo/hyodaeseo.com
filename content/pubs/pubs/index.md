@@ -114,10 +114,6 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 *Nature Comms.*, 11, 4390. https://doi.org/10.1038/s41467-020-18187-0 [**PDF**](papers/liang.etal_.20_ncomm_amazon-1.pdf)
 
 ---
-47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su,
-**Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.**
-
----
 47. Yuan, X., C. C. Ummenhofer, **H. Seo**, and Z. Su, 2020
 **Relative contributions of heat flux and wind stress on the spatiotemporal upper-ocean variability in the tropical Indian Ocean.**
 *Env. Res. Lett.*, 15, 084047. https://doi.org/10.1088/1748-9326/ab9f7f [**PDF**](papers/yuan.etal_.20.ERL_.pdf)
@@ -151,10 +147,6 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 41. Kwon, Y.-O., **H. Seo**, C. C. Ummenhofer, and T. M. Joyce, 2020:
 **Impact of Multidecadal Variability in Atlantic SST on Winter Atmospheric Blocking.**
 *J. Climate*, 33, 867–892. https://doi.org/10.1175/JCLI-D-19-0324.1 [**PDF**](papers/knwon.etal_.20.jcli_.pdf)
-
----
-40. **Prend, C. J.**, **H. Seo**, R. A. Weller, and J. T. Farrar, 2020:
-**Impact of freshwater plumes on intraseasonal upper ocean variability in the Bay of Bengal.**
 
 ---
 
