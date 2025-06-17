@@ -1,5 +1,5 @@
 ---
-title: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate; Current Conditions and Future Projections (expired)
+title: Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate; Current Conditions and Future Projections
 date: 2022-02-01
 ---
 
