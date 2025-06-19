@@ -15,7 +15,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep*
 - **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Response To Offshore Wind Farm In The Northeast U.S. Coast**, *In prep*
-- Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *J. Geophys. Res. Oceans.* *Under Review*
+- Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Under Review*
 - Sep, H., C. Sauvage, C. Renkl. J. K. Lundquist, A. Kirincich, **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms**. *Under Revision*
 
 ---
