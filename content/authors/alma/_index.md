@@ -10,7 +10,7 @@ last_name: Castillo-Trujillo
 superuser: no
 
 # Role/position
-role: Former Postdoc
+role: Former Postdoc @ WHOI
 
 # Organizations/Affiliations
 organizations:
