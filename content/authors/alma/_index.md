@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alma Carolina Castillo-Trujillo (2022-2024)
+title: Alma Carolina Castillo-Trujillo
 
 # Full Name (for SEO)
 first_name: Alma Carolina
@@ -10,7 +10,7 @@ last_name: Castillo-Trujillo
 superuser: no
 
 # Role/position
-role: Former Postdoc @ WHOI
+role: Former Postdoc @ WHOI (2022-2024)
 
 # Organizations/Affiliations
 organizations:

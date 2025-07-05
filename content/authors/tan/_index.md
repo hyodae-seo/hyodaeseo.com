@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Peisen Tan (2023)
+title: Peisen Tan
 
 # Full Name (for SEO)
 first_name: Peisen
@@ -10,7 +10,7 @@ last_name: Tan
 superuser:   
 
 # Role/position
-role: Former Guest Student
+role: Former Guest Student @ WHOI (2023)
 
 # Organizations/Affiliations
 organizations:

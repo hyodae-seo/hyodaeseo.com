@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yoo-Jun Kim (2023)
+title: Yoo-Jun Kim
 
 # Full Name (for SEO)
 first_name: Yoo-Jun
@@ -10,7 +10,7 @@ last_name: Kim
 superuser:   
 
 # Role/position
-role: Former Guest Student
+role: Former Guest Student @ WHOI (2023)
 
 # Organizations/Affiliations
 organizations:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John Steffen (2019-2021)
+title: John Steffen
 
 # Full Name (for SEO)
 first_name: John
@@ -10,7 +10,7 @@ last_name: Steffen
 superuser: no
 
 # Role/position
-role: Former Postdoc @ WHOI
+role: Former Postdoc @ WHOI (2019-2021))
 
 # Organizations/Affiliations
 organizations:
