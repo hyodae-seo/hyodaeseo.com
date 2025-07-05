@@ -10,11 +10,11 @@ last_name: Reyes
 superuser:   
 
 # Role/position
-role: Graduate Student
+role: Summer Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: UHM
+  - name: ORE/SOEST/UHM
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)

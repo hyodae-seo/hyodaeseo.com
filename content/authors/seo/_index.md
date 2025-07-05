@@ -11,11 +11,11 @@ last_name: Seo
 superuser: yes
 
 # Role/position
-role: Associate Professor
+role: Associate Professor Oceanography Department 
 
 # Organizations/Affiliations
 organizations:
-  - name: UHM
+  - name: SOEST, University of Hawai'i at Mānoa
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,9 +39,9 @@ education:
     - course: Associate Professor (Tenured)
       institution: University of Hawaiʻi at Mānoa
       year: 2024-
-    - course: Tenure-track, Tenured, and Senior Scientist
+    - course: Assistant (2010), Associate (Tenured, 2018), and Senior Scientist (2024)
       institution: Woods Hole Oceanographic Institution
-      year: 2010-2024
+      year: 
     - course: NOAA C&GC Postdoctoral Fellowship
       institution: University of Hawaiʻi at Mānoa and UCLA
       year: 2008-2010

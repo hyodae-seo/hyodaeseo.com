@@ -16,7 +16,7 @@ sections:
           - Seo Lab @ WHOI
           - Alumni
           - Admin
-      #    - Researcher
+      #   - Researcher
       #    - Postdoc
       #    - Graduate Student
       #    - Administration

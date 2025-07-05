@@ -50,24 +50,24 @@ sections:
 
           | [![UC•AO](ucao4.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly2.png)](/butterfly) | [![SCOAR](scoar3.png)](/scoar) |
           |:--------------------------:|:--------------------------:|:------------------:|
-# - block: collection
-#   content:
-#     title: New!
-#     subtitle:
-#     text:
-#     count: 5
-#     filters:
-#       author: ''
-#       category: ''
-#       exclude_featured: false
-#       publication_type: ''
-#       tag: ''
-#     offset: 0
-#     order: desc
-#     page_type: post
-#   design:
-#     view: card
-#     columns: '1'
+  - block: collection
+    content:
+      title: News!
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
 
 # - block: markdown
 #    content:
