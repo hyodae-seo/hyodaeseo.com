@@ -22,13 +22,13 @@ The **SCOAR model coupler** is a versatile and efficient tool for managing input
 - Multiple options for atmosphere-wave and wave-ocean coupling strategies.<br>
 - Revised versions of the latest COARE wave-based bulk flux algorithms, designed to account for sea-state impacts on air-sea fluxes under different regimes.<br>
 
-The SCOAR source code is publicly available on GitHub: [SCOAR Repository](https://github.com/hyodae-seo/SCOAR).
+The SCOAR source code is publicly available on GitHub: [SCOAR Repository](https://github.com/SCOAR-model/SCOAR).
 
 ### Applications
 
 The SCOAR system has been extensively used to study the physics and impacts of air-sea-wave interactions in various regions. For more information, visit:
 
-- **[Publications](/publication/)**
+- **[Publications](/pubs/)**
 - **[Current Projects](/projects/)**
 <!--more-->
 
