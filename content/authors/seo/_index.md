@@ -11,11 +11,11 @@ last_name: Seo
 superuser: yes
 
 # Role/position
-role: Associate Professor Oceanography Department 
+role: Associate Professor 
 
 # Organizations/Affiliations
 organizations:
-  - name: SOEST, University of Hawai'i at Mānoa
+  - name: Oceanography Department University of Hawai'i at Mānoa
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)

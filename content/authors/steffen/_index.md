@@ -10,7 +10,7 @@ last_name: Steffen
 superuser: no
 
 # Role/position
-role: Former Postdoc @ WHOI (2019-2021))
+role: Former Postdoc @ WHOI (2019-2021)
 
 # Organizations/Affiliations
 organizations:
