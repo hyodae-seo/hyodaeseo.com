@@ -15,7 +15,7 @@ role: Former Postdoc @ WHOI (2023-2025)
 # Organizations/Affiliations
 organizations:
   - name: Now @ University of Bonn, Germany
-    url: 'https://www.whoi.edu/'
+  # url: 'https://www.whoi.edu/'
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
