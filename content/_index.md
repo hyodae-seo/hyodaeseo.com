@@ -48,7 +48,7 @@ sections:
 
             <small>Our lab also engages the public on critical issues like extreme weather and renewable energy, supporting research activities for the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals) and the [UC•AO](https://www.soest.hawaii.edu/oceanography/uc-ao/).   </small>
 
-           | [![UC•AO](ucao4.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly2.png)](/butterfly) | [![SCOAR](scoar3.png)](/scoar) |
+           | [![UC•AO](ucao4.png)](https://www.soest.hawaii.edu/oceanography/uc-ao/) | [![Butterfly](butterfly2.png)](/butterfly) | [![SCOAR](media/scoar3.png)](/scoar) |
           |:--------------------------:|:--------------------------:|:------------------:|
   - block: collection
     content:
