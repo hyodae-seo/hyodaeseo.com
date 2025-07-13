@@ -11,7 +11,7 @@ The **Scripps Coupled Ocean-Atmosphere Regional (SCOAR)** modeling system integr
 - **ROMS**: [https://github.com/kshedstrom/roms](https://github.com/kshedstrom/roms)
 - **WW3**: [https://github.com/NOAA-EMC/WW3](https://github.com/NOAA-EMC/WW3)
 
-<img src="SCOAR_coupling.png" alt="SCOAR" width="1200"/>
+![SCOAR](SCOAR_coupling.png)
 
 ### SCOAR Model Coupler
 
