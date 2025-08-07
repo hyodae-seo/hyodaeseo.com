@@ -1,5 +1,5 @@
 ---
-title: Wyn Pauly joins Seo Lab @ UHM as a PhD student in Physical Oceanography.
+title: Wyn Pauly joins Seo Lab as a new PhD student in Physical Oceanography!
 date: 2025-07-16
 ---
 

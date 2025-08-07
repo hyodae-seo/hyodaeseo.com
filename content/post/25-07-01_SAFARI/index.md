@@ -1,5 +1,5 @@
 ---
-title: New Project ONR SAFARI DRI (2025-2028)
+title: New Project ONR SAFARI DRI
 date: 2025-07-02
 ---
 
