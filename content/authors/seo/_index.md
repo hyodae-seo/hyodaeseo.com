@@ -19,7 +19,8 @@ organizations:
     url: 'https://manoa.hawaii.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Hyodae Seo is an Associate Professor in [the Department of Oceanography](https://www.soest.hawaii.edu/oceanography) and an Associate Director of [the Uehiro Center for the Advancement of Oceanography (UC•AO)](http://www.soest.hawaii.edu/oceanography/uc-ao/). He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. 
+bio: 
+#Dr. Hyodae Seo is an Associate Professor in [the Department of Oceanography](https://www.soest.hawaii.edu/oceanography) and an Associate Director of [the Uehiro Center for the Advancement of Oceanography (UC•AO)](http://www.soest.hawaii.edu/oceanography/uc-ao/). He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. 
 interests:
   - Air-Sea Interaction
   - Climate Dynamics
