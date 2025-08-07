@@ -1,35 +1,38 @@
 ---
 # Display name
-title: Clint Reyes
+title: Rachel Wyn Pauly
 
 # Full Name (for SEO)
-first_name: Clint
-last_name: Reyes
+first_name: Wyn
+last_name: Pauly
 
 # Is this the primary user of the site?
-superuser: no
+superuser:   
 
 # Role/position
-role: Summer Graduate Student
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: ORE/SOEST/UHM
+  - name: OCN/SOEST/UHM
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Clint Reyes is a graduate student in the Department of Ocean and Resources Engineering at the University of Hawai‘i at Mānoa (SOEST/UHM). In the summer of 2025, he will be working at the Seo Lab to investigate nearshore wave dynamics around the Okinawa Islands during Super Typhoon Khanun (2023) using numerical model simulations. His research interests include coastal engineering, coral reef hydrodynamics, and marine renewable energy.
+bio: 
 
 interests:
-  - Coastal engineering
-  - Coral reef hydrodynamics
-  - Marine renewable energy
+  -  Air-sea intereaction
+  -  Tropical cyclones
+  -  Numerical modeling
 
 education:
   courses:
-    - course: PhD in Ocean and Resource Engineering
+    - course: PhD in Oceanography
       institution: University of Hawai'i at Mānoa
       year: Ongoing
+    - course: BA in Atmospheric and Oceanic Sciences
+      institution: University of Colorado, Boulder
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -37,7 +40,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 # - icon: envelope
-#   icon_pack: fas
+#2024   icon_pack: fas
 #   link: 'mailto:christoph.renkl@whoi.edu'
 # - icon: twitter
 #   icon_pack: fab
@@ -71,3 +74,4 @@ highlight_name: false
 user_groups:
   - Seo Lab @ UH
 ---
+Wyn is a PhD student in Physical Oceanography. She seeks to understand ocean-atmosphere interaction on a range of spatiotemporal scales from surface waves to large scale climate impacts. Wyn earned a BA in Atmospheric and Oceanic Sciences at CU Boulder where she worked with Kris Karnauskas to explore the impact of North Atlantic climate variability on US East Coast sea level. At UH, Wyn works with Dr. Hyodae Seo to use high-resolution modeling to examine the influence of ocean dynamics on extreme weather systems. [https://wynpauly.com](https://wynpauly.com)
