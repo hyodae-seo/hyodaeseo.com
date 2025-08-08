@@ -42,7 +42,7 @@ sections:
           **Hyodae Seo, Ph.D.** <br>
            <small>_Associate Professor_, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu) </small><br>
            <small>_Associate Director_, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
-           <small>_Senior Scientist_, [Physical Oceanography Department](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/), [Woods Hole Oceanographic Institution](https://www.whoi.edu) (on leave)  </small><br>
+           <small>_Senior Scientist_, [Physical Oceanography Department](https://www.whoi.edu/what-we-do/understand/departments-centers-labs/po/), [Woods Hole Oceanographic Institution](https://www.whoi.edu) (on leave) [https://hseo.whoi.edu](https://hseo.whoi.edu) </small><br>
 
            <small>The Seo Lab at [UH](https://www.hyodaeseo.com) and [WHOI](https://hseo.whoi.edu) studies oceanic, atmospheric, and surface wave processes and their interactions with extreme weather and [offshore wind energy](projects/DOE_WFIP3). The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and [satellite](butterfly) and in situ observations.    </small>
 
