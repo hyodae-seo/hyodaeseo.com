@@ -11,7 +11,7 @@ last_name: Kerhalkar
 superuser: no
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
