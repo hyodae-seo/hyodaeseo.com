@@ -88,7 +88,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Seo Lab @ UH
+  - Principal Investigator
 ---
 Dr. Hyodae Seo is an Associate Professor in the Department of Oceanography and an Associate Director of the Uehiro Center for the Advancement of Oceanography. 
 He is also a Senior Scientist in the Physical Oceanography Department at Woods Hole Oceanographic Institution [https://hseo.whoi.edu/](https://hseo.whoi.edu/). 
