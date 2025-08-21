@@ -9,14 +9,18 @@ Authors in **bold** indicate the members of Seo Lab<br>
 ---
 #### Under Review, Revision or In Preparation
 - **Rai, S.**, S. Wijffels, and **H. Seo**, **Investigation of Discrepancies between Satellite and In-Situ Winds** *In prep*
+
 - **Rai, S.**, **H. Seo**, S. Wijffels, **Multi-Scale Temperature Budget Analysis of Mixed Layer in Tropical Pacific** *In prep*
+
 - **Renkl, C.**, **H. Seo**, A. J. Miller, **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
-- **Barr, B. W.**, **H. Seo**, **C. Sauvage**, C. A. Clayson, and J. B. Edson. 
-**Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
-*In prep*
+
+- **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. *J. Geophys. Res. Oceans*, *In prep*
+
 - **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *Under Review*
+
 - Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Under Review*
-- Seo, H., C. Sauvage, C. Renkl. J. K. Lundquist, A. Kirincich, **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms**. *Under Revision*
+
+- **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, A. Kirincich, **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. *Under Review*
 
 ---
 #### 2025
