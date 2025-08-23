@@ -8,7 +8,10 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 ---
 #### Under Review, Revision or In Preparation
-- **Rai, S.**, S. Wijffels, and **H. Seo**, **Investigation of Discrepancies between Satellite and In-Situ Winds** *In prep*
+- Cho, A., H. Song1,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, Modulation of Tropical Cyclone Intensity by Current–Wind Interaction, *In prep*
+- Yang, S., H.-R. Kim, B.-M. Kim, et al.: Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts. *In prep*
+
+- **Rai, S.**, S. Wijffels, and **H. Seo**, et al,. **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** *In prep*
 
 - **Rai, S.**, **H. Seo**, S. Wijffels, **Multi-Scale Temperature Budget Analysis of Mixed Layer in Tropical Pacific** *In prep*
 
