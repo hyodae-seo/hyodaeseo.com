@@ -26,13 +26,13 @@ Authors in **bold** indicate the members of Seo Lab<br>
 ---
 #### 2025
 66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Frontiers in Marine Science*, 12, https://doi.org/10.3389/fmars.2025.1647849
-
+---
 
 65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
 **Sea spray effects on typhoon prediction in the Yellow and East China Seas: Case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020).**
 *Env. Res. Lett.*, 20, 054028, https://doi.org/10.1088/1748-9326/adc616 [**PDF**](papers/yang.etal.25.erl.spray.pdf)
-
 ---
+
 64. Cho, A., H. Song, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, B. D. Cornuelle, and A. J. Miller, 2025:
 **Dynamic and Thermodynamic coupling between the Atmosphere and Ocean near the Kuroshio Current and Extension System**.
 *Ocean Modell.*, 194, 102496, https://doi.org/10.1016/j.ocemod.2024.10249 [**PDF**](papers/cho.etal.25.pdf)
