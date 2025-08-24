@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:skerhalkar@umassd.edu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://x.com/hyodae
@@ -57,7 +57,7 @@ social:
     link: https://orcid.org/0000-0002-6638-0179
   - icon: earth-americas
     icon_pack: fas
-    link: 
+    link: https://kerhalkarsid.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
