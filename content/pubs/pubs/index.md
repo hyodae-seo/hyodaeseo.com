@@ -8,8 +8,6 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 ---
 #### Under Review, Revision or In Preparation
-- Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, Modulation of Tropical Cyclone Intensity by Current–Wind Interaction, *In prep*
-
 - **Renkl, C.**, **H. Seo**, and A. J. Miller, et al. **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 
 - **Rai, S.**, S. Wijffels, and **H. Seo**, et al,. **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** *In prep*
@@ -17,6 +15,8 @@ Authors in **bold** indicate the members of Seo Lab<br>
 - Yang, S., H.-R. Kim, B.-M. Kim, et al. including **B. W. Barr** and **H. Seo**: Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts. *In prep*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. *J. Geophys. Res. Oceans*, *In prep*
+
+- Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, Modulation of Tropical Cyclone Intensity by Current-Wind Interaction, *Under Review*
 
 - **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *Under Review*
 
