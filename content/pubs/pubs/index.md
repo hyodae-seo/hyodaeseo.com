@@ -24,7 +24,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 ---
 #### 2025
-66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Frontiers in Marine Science*, 12, https://doi.org/10.3389/fmars.2025.1647849
+66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Frontiers in Marine Science*, 12, https://doi.org/10.3389/fmars.2025.1647849  [**PDF**](papers/raj.etal.25.frontier.pdf)
 ---
 
 65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
@@ -40,23 +40,23 @@ Authors in **bold** indicate the members of Seo Lab<br>
 #### 2024
 63. **Sauvage, C.**, **H. Seo**, **B. W. Barr**, J. B. Edison, and C. A. Clayson, 2024:
 **Misaligned Wind-Waves Behind Atmospheric Cold Fronts.**
-*J. Geophys. Res. Oceans*, 129, e2024JC021162. https://doi.org/10.1029/2024JC021162, [**PDF**](papers/sauvage.etal_.24.jgro_.pdf)
+*J. Geophys. Res. Oceans*, 129, e2024JC021162. https://doi.org/10.1029/2024JC021162 [**PDF**](papers/sauvage.etal_.24.jgro_.pdf)
 ---
 
 62. Shinoda, T., T. G. Jensen, Z. Lachkar, Y. Masumoto, and **H. Seo**, 2024:
-**Modeling the Indian Ocean, Intraseasonal variability in the Indian Ocean region.** *The Indian Ocean and its role in the global climate system.* Elsevier Publishing, Editors: C. C. Ummenhofer and R. R. Hood. https://doi.org/10.1016/B978-0-12-822698-8.00013, [**PDF**](papers/shinoda.etal.24.pdf)
+**Modeling the Indian Ocean, Intraseasonal variability in the Indian Ocean region.** *The Indian Ocean and its role in the global climate system.* Elsevier Publishing, Editors: C. C. Ummenhofer and R. R. Hood. https://doi.org/10.1016/B978-0-12-822698-8.00013 [**PDF**](papers/shinoda.etal.24.pdf)
 ---
 
 #### 2023
 
 61. **Steffen, J. D.**, **H. Seo**, C. A. Clayson, S. Pei, and T. Shionda, 2023:
 **Impacts of Tidal Mixing on Diurnal to Intraseasonal Air-Sea Interactions in the Maritime Continent.**
-*Deep-Sea Res. II*, 212, 105343. https://doi.org/10.1016/j.dsr2.2023.105343, [**PDF**](papers/steffen.etla_.23.dsr2_.pdf)
+*Deep-Sea Res. II*, 212, 105343. https://doi.org/10.1016/j.dsr2.2023.105343 [**PDF**](papers/steffen.etla_.23.dsr2_.pdf)
 ---
 
 60. **Castillo-Trujillo A. C.**, Y.-O. Kwon, P. Fratantoni, K. Chen, **H. Seo**, M. A. Alexander, and V. S. Saba, 2023: 
 **An evaluation of eight global ocean reanalyses for the Northeast U.S. continental shelf.**
-*Prog. Oceanogr*, 219, 103126. https://doi.org/10.1016/j.pocean.2023.103126, [**PDF**](papers/carolinacastillo-trujillo.etal.23.pdf)
+*Prog. Oceanogr*, 219, 103126. https://doi.org/10.1016/j.pocean.2023.103126 [**PDF**](papers/carolinacastillo-trujillo.etal.23.pdf)
 ---
 
 59. Clayson, C. A., C. A. DeMott, S. P. de Szoeke, P. Chang, G. R. Foltz, R. Krishnamurthy, T. Lee, A. Molod, D. G. Ortiz-Suslow, J. Pullen, D. H. Richter, **H. Seo**, P. C. Taylor, E. Thompson, B. V. Bôas, C. J. Zappa, and P. Zuidema, 2023:
@@ -183,13 +183,13 @@ See also [WHOI Research News](https://www.whoi.edu/the-coastal-ocean-can-intensi
 
 36. **Parfitt, R.** and **H. Seo**, 2018:
 **A New Framework for Near-Surface Wind Convergence over the Kuroshio Extension and Gulf Stream in Wintertime: The Role of Atmospheric Fronts.**
-*Geophys. Res. Lett.*, 45, 9909–9918. https://doi.org/10.1175/JCLI-D-18-0413.1 [**PDF**](papers/parfittandseo_GRL.pdf)
+*Geophys. Res. Lett.*, 45, 9909–9918. https://doi.org/10.1029/2018GL080135 [**PDF**](papers/parfittandseo_GRL.pdf)
 See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights/new-perspectives-regarding-gulf-stream-and-kuroshio-extension-influence).
 
 ---
 35. Pullen, J., R. Allard, **H. Seo**, A. J. Miller, S. Chen, L. P. Pezzi, T. Smith, P. Chu, J. Alves, and R. Caldeira, 2018:
 **Coupled ocean-atmosphere forecasting at short and medium time scales.** 
-*J. Mar. Res.*, 75, 877-921. [10.1357/002224017823523991](10.1357/002224017823523991) [**PDF**](papers/pullen.etal_.17.jmr_.pdf)
+*J. Mar. Res.*, 75, 877-921. https://elischolar.library.yale.edu/journal_of_marine_research/452 [**PDF**](papers/pullen.etal_.17.jmr_.pdf)
 
 ---
 34. Jin, X, Y.-O. Kwon, C. C. Ummenhofer, **H. Seo**, Y. Kosaka, and J. S. Wright, 2018:
@@ -236,7 +236,7 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 
 26. Miller, A. J., M. Collins, S. Gualdi, T. G. Jensen, V. Misra, L. P. Pezzi, D. W. Pierce, D. Putrasahan, **H. Seo**, and Y.-H. Tseng, 2017:
 **Coupled Ocean-Atmosphere-Hydrology Modeling and Predictions**,
-*J. Mar. Res.*, 75, 361-402. DOI:[10.1357/002224017821836770](10.1357/002224017821836770) [**PDF**](papers/miller.etal_.17.jmr_.the_sea.pdf)
+*J. Mar. Res.*, 75, 361-402. https://elischolar.library.yale.edu/journal_of_marine_research/437 [**PDF**](papers/miller.etal_.17.jmr_.the_sea.pdf)
 
 ---
 25. **Parfitt, R.**, A. Czaja, and **H. Seo**, 2017:
@@ -345,7 +345,7 @@ See also [US CLIVAR Research Highlight](https://usclivar.org/research-highlights
 
 7. **Seo, H.**, S.-P. Xie, R. Murtugudde, M. Jochum, and A. J. Miller, 2009:
 **Seasonal effects of Indian Ocean freshwater forcing in a regional coupled model.**
-*J. Climate*, 22, 6577-6596. ttps://doi.org/10.1175/2009JCLI2990.1 [**PDF**](papers/seo.etal_.jcli_.09.bob_monsoon.pdf)
+*J. Climate*, 22, 6577-6596. https://doi.org/10.1175/2009JCLI2990.1 [**PDF**](papers/seo.etal_.jcli_.09.bob_monsoon.pdf)
 
 ---
 #### 2008
