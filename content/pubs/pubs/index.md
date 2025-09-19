@@ -16,7 +16,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. *J. Geophys. Res. Oceans*, *In prep*
 
-- Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, Modulation of Tropical Cyclone Intensity by Current-Wind Interaction, *Under Review*
+- Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**, *Under Review*
 
 - **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *Under Review*
 
