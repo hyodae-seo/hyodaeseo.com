@@ -10,21 +10,22 @@ Authors in **bold** indicate the members of Seo Lab<br>
 #### Under Review, Revision or In Preparation
 - **Renkl, C.**, **H. Seo**, and A. J. Miller, et al. **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 
-- **Rai, S.**, S. Wijffels, and **H. Seo**, et al,. **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** *In prep*
+- **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. To be submitted to *J. Geophys. Res. Oceans*,
 
-- Yang, S., H.-R. Kim, B.-M. Kim, et al. including **B. W. Barr** and **H. Seo**: Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts. *In prep*
+- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee  **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** To be submitted to *J. Geophys. Res. Oceans*
 
-- **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. *J. Geophys. Res. Oceans*, *In prep*
+- Yang, S., H.-R. Kim, **B. W. Barr**, C. C. Nam, **H. Seo**, M. Bourassa, S. Cocke, M. Kwon, D.-H. Cha, M.-. Park, D.-S. R. Park, H.-J. Bae, B.-M. Kim, Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts. To be submitted to *Science Advances*
 
 - Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**, *Under Review*
 
-- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *Under Review*
-
-- **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, A. Kirincich, **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. *Under Review*
+- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *Under Review* in *J. Geophys. Res. Oceans*
 
 ---
 #### 2025
-66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Frontiers in Marine Science*, 12, https://doi.org/10.3389/fmars.2025.1647849  [**PDF**](papers/raj.etal.25.frontier.pdf)
+67. **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, and A. Kirincich, 2025: **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. Accepted in *Science Advances*
+---
+
+66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. *Front. Mar. Sci.*, 12, https://doi.org/10.3389/fmars.2025.1647849 [**PDF**](papers/raj.etal.25.frontier.pdf)
 ---
 
 65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
