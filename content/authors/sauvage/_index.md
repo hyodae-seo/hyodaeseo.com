@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  César Sauvage
+title: César Sauvage
 url: /authors/sauvage
 
 # Full Name (for SEO)
