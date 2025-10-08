@@ -22,7 +22,7 @@ sections:
       #    - Administration
       #    - Visitor           
       sort_by: Params.first_name
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true
