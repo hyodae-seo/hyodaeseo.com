@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rachel Wyn Pauly
+title: Wyn Pauly
 
 # Full Name (for SEO)
 first_name: Wyn
