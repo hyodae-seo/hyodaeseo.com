@@ -18,7 +18,7 @@ Authors in **bold** indicate the members of Seo Lab<br>
 
 - Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**, *Under Revision*
 
-- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *Under Review* in *J. Geophys. Res. Oceans*, *Under Revision*
+- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *J. Geophys. Res. Oceans*, *Accepted Pending Minor Revision*
 
 ---
 #### 2025
