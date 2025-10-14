@@ -1,5 +1,5 @@
 ---
-title: (Expired) Postdoctoral Researcher (Air-Sea Modeling) at Seo Lab @ UH
+title: (Filled) Postdoctoral Researcher (Air-Sea Modeling) at Seo Lab @ UH
 date: 2025-01-12
 ---
 
