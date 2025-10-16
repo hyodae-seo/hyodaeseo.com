@@ -14,7 +14,8 @@ sections:
           - Principal Investigator
           - Seo Lab @ UH 
           - Seo Lab @ WHOI
-          - Alumni
+          - UH Alumni
+          - WHOI Alumni
           - Admin
       #   - Researcher
       #    - Postdoc

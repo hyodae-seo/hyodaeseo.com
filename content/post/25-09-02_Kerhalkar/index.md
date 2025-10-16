@@ -1,5 +1,5 @@
 ---
-title: Welcome Dr. Sid Kherhalkar (postdoctoral researcher) to Seo Lab at UHM!
+title: Welcome Dr. Sid Kherhalkar (postdoctoral researcher) to Seo Lab at UHM! (2025-09-02)
 date: 2025-09-02
 ---
 

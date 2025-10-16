@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - WHOI Alumni
 ---
 
 I am an Associate Professor in the Department of Earth, Ocean and Atmospheric Science at Florida State University. I also hold an appointment as an Adjunct Scientist in the Department of Physical Oceanography at Woods Hole Oceanographic Institution, and am an Affiliate Faculty Member at the Center for Ocean-Atmospheric Prediction Studies. My research group is primarily concerned with atmosphere-ocean interactions and the basic physics of atmospheric and oceanic circulations. I am also interested in large-scale climate variability on all timescales and the socio-economic impact of extreme weather, particularly in a warming climate. I enjoy analysing observational datasets and model outputs, and using them to theorize on the underlying mechanisms governing a particular interaction. Please feel free to contact me if you'd like to discuss any of my research or opportunities in my research group. Prospective graduate students may apply through the department website.

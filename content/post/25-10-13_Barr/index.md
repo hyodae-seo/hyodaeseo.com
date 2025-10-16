@@ -1,5 +1,5 @@
 ---
-title: Dr. Ben Barr joins Seo Lab at UHM as a new postdoctoral researcher!
+title: Dr. Ben Barr joins Seo Lab at UHM as a new postdoctoral researcher! (2025-10-13)
 date: 2025-10-13
 ---
 

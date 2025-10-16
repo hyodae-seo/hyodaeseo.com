@@ -1,5 +1,5 @@
 ---
-title: Clint Reyes joins Seo Lab @ UHM for summer 2025!
+title: Clint Reyes joins Seo Lab @ UHM for summer 2025! (2025-07-01)
 date: 2025-07-01
 ---
 

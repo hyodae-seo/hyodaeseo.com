@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - WHOI Alumni
 ---
 
 Alma Carolina Castillo-Trujillo, Postdoctoral Fellow, joins WHOI’s PO Department. Alma earned her PhD in Physical Oceanography from the University of Hawai’i at Mānoa, Honolulu. Her research interests are:  Larger-scale ocean dynamics influencing coastal regions; Numerical Modeling; High-Frequency Doppler Radars; Inertial Oscillations; Interdisciplinary oceanography.  Alma is also interested in increasing the retention of underrepresented college students in STEM disciplines as well as teaching and mentoring. Alma is a member of the PO Climate Group at WHOI and is working with Young-Oh Kwon, Ke Chen and Hyodae Seo. While at WHOI, Alma Carolina will investigate the 1-5 year predictability of physical ocean conditions on the Northeast U.S. Continental Shelf and the associated large-scale climate and coastal ocean processes, using a coupled ocean-atmosphere regional model and observational datasets. In her free time, Alma enjoys surfing, snowboarding and reading historical fiction. Photo provided by Alma Carolina Castillo-Trujillo.
