@@ -68,6 +68,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - WHOI Alumni
+  - Select WHOI Alumni
 ---
 Carols was a WHOI visiting student, supported by UCAR SOARS program. His project was on [North Atlantic Atmospheric Blocking and Atlantic Multi-decadal Oscillation in CESM1 Large Ensemble Simulations](https://hseo.whoi.edu/wp-content/uploads/sites/41/2021/08/Poster_Martinez.pdf). His publication includes [Kwon et al. 2018](https://link.springer.com/article/10.1007/s00382-018-4078-6). After WHOI, he moved on to Columbia University for his Ph.D.

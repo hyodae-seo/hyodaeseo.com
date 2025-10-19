@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - WHOI Alumni
+  - Select WHOI Alumni
 ---
 Channing was an SSF student in 2026, working with me on evolution of freshwater plumes in the Bay of Bengal. See [Prend et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0967064517304010) and [Weller et al. (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0967064517304010). After WHOI, Siraput moved on to Scripps for a Ph.D. He is now an Assistant Professor at Edinburgh.
 

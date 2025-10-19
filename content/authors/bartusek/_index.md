@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - WHOI Alumni
+  - Select WHOI Alumni
 ---
 
 Sam was an SSF student, working with me on coastal ocean response to landfalling Atmospheric Rivers. See [Bartusek et al. (2021)](https://www.hyodaeseo.com/pubs/), as well as [WHOI Press release](https://www.whoi.edu/the-coastal-ocean-can-intensify-atmospheric-rivers-researchers-find/?_gl=1*m7o62w*_gcl_au*MTcxMjg0MzEyNy4xNzU0NDQxMzg1*_ga*ODk2Mzg5NzQuMTc1NDQ0MTM4NQ..*_ga_HLKFZX9JZK*czE3NjA1OTYxNjIkbzE4JGcxJHQxNzYwNTk2MjMwJGo2MCRsMCRoMA..). Sam earned his Ph.D. from Columbia University in 2025.
