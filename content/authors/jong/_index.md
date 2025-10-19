@@ -69,6 +69,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Select WHOI Alumni
+
 ---
 Siraut was an SSF student, working with me on  Intraseasonal rainfall variability in the Bay of Bengal during the Summer Monsoon. See [Jongaramrungruang et al. (2017)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.729). After WHOI, Siraput moved on to Caltech for a Ph.D.
 
