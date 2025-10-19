@@ -10,7 +10,7 @@ last_name: Castillo-Trujillo
 superuser: no
 
 # Role/position
-role: Former Postdoc @ WHOI (2022-2024)
+role: Postdoc (2022-2024)
 
 # Organizations/Affiliations
 organizations:

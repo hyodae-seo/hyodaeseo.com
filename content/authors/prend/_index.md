@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Samuel Bartusek
+title: Channing Prend
 
 # Full Name (for SEO)
-first_name: Samuel
-last_name: Bartusek
+first_name: Channing
+last_name: Prend
 
 # Is this the primary user of the site?
 superuser:   
 
 # Role/position
-role: Summer Student Fellow (2019)
+role: WHOI Summer Student Fellow (2016)
 
 # Organizations/Affiliations
 organizations:
@@ -19,16 +19,18 @@ organizations:
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sam was an SSF student, working with me on coastal ocean response to landfalling Atmospheric Rivers. See Bartusek et al. (2021), as well as [WHOI Press release](https://www.whoi.edu/the-coastal-ocean-can-intensify-atmospheric-rivers-researchers-find/?_gl=1*m7o62w*_gcl_au*MTcxMjg0MzEyNy4xNzU0NDQxMzg1*_ga*ODk2Mzg5NzQuMTc1NDQ0MTM4NQ..*_ga_HLKFZX9JZK*czE3NjA1OTYxNjIkbzE4JGcxJHQxNzYwNTk2MjMwJGo2MCRsMCRoMA..). Sam earned his Ph.D. from Columbia University in 2025.
+bio: Siraut was an SSF student, working with me on  Intraseasonal rainfall variability in the Bay of Bengal during the Summer Monsoon. See [Jongaramrungruang et al. (2017)(https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.729). After WHOI, Siraput moved on to Caltech for Ph.D.
 
 interests:
-  - Marine and terrestrial heatwaves
+  - Intraseasonal upper ocean variability
+  - Monsoons
+  - Air-Sea Interaction
 
 education:
   courses:
-    - course: PhD in Climate Sciences
-      institution: Princeton University
-      year: 2025
+    - course: PhD 
+      institution: Scripps
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,6 +70,5 @@ highlight_name: false
 user_groups:
   - WHOI Alumni
 ---
-
-Sam was an SSF student, working with me on coastal ocean response to landfalling Atmospheric Rivers. See [Bartusek et al. (2021)](https://www.hyodaeseo.com/pubs/), as well as [WHOI Press release](https://www.whoi.edu/the-coastal-ocean-can-intensify-atmospheric-rivers-researchers-find/?_gl=1*m7o62w*_gcl_au*MTcxMjg0MzEyNy4xNzU0NDQxMzg1*_ga*ODk2Mzg5NzQuMTc1NDQ0MTM4NQ..*_ga_HLKFZX9JZK*czE3NjA1OTYxNjIkbzE4JGcxJHQxNzYwNTk2MjMwJGo2MCRsMCRoMA..). Sam earned his Ph.D. from Columbia University in 2025.
+Channing was an SSF student in 2026, working with me on evolution of freshwater plumes in the Bay of Bengal. See [Prend et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0967064517304010) and [Weller et al. (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0967064517304010). After WHOI, Siraput moved on to Scripps for a Ph.D. He is now an Assistant Professor at Edinburgh.
 

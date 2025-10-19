@@ -10,7 +10,7 @@ last_name: Reyes
 superuser: no
 
 # Role/position
-role: Summer Graduate Student
+role: Summer Graduate Student (2025)
 
 # Organizations/Affiliations
 organizations:

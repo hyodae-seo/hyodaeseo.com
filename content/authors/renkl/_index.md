@@ -10,7 +10,7 @@ last_name: Renkl
 superuser:   
 
 # Role/position
-role: Former Postdoc @ WHOI (2023-2025)
+role: Postdoc (2023-2025)
 
 # Organizations/Affiliations
 organizations:
