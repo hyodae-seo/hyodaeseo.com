@@ -70,4 +70,4 @@ highlight_name: false
 user_groups:
   - Select WHOI Alumni
 ---
-Alicia was a WHOI visiting student, supported by UCAR SOARS program. Her project was on [North Atlantic Oscillation, Jet and Blocking in CESM1 Large Ensemble Simulations](https://hseo.whoi.edu/wp-content/uploads/sites/41/2021/08/Poster_Camacho.pdf). Her publication includes [Kwon et al. 2018](https://link.springer.com/article/10.1007/s00382-018-4078-6). After WHOI, Alicia moved on to Stony Brook University for he Ph.D.
+Alicia was a visiting student, supported by UCAR SOARS program in 2014. Her project was on [North Atlantic Oscillation, Jet and Blocking in CESM1 Large Ensemble Simulations](https://hseo.whoi.edu/wp-content/uploads/sites/41/2021/08/Poster_Camacho.pdf). Her publication includes [Kwon et al. 2018](https://link.springer.com/article/10.1007/s00382-018-4078-6). After WHOI, Alicia moved on to Stony Brook University for Ph.D.

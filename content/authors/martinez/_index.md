@@ -70,4 +70,4 @@ highlight_name: false
 user_groups:
   - Select WHOI Alumni
 ---
-Carols was a WHOI visiting student, supported by UCAR SOARS program. His project was on [North Atlantic Atmospheric Blocking and Atlantic Multi-decadal Oscillation in CESM1 Large Ensemble Simulations](https://hseo.whoi.edu/wp-content/uploads/sites/41/2021/08/Poster_Martinez.pdf). His publication includes [Kwon et al. 2018](https://link.springer.com/article/10.1007/s00382-018-4078-6). After WHOI, he moved on to Columbia University for his Ph.D.
+Carols was a visiting student, supported by UCAR SOARS program in summer of 2014. His project was on [North Atlantic Atmospheric Blocking and Atlantic Multi-decadal Oscillation in CESM1 Large Ensemble Simulations](https://hseo.whoi.edu/wp-content/uploads/sites/41/2021/08/Poster_Martinez.pdf). He contributed to a publication; [Kwon et al. 2018](https://link.springer.com/article/10.1007/s00382-018-4078-6). After WHOI, he moved on to Columbia University for his Ph.D.
