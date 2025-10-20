@@ -7,3 +7,13 @@
 .cta-group {
   justify-content: center;
 }
+
+.compact-hero .small-text {
+  font-size: 1.4rem;   // reduce font size
+  line-height: 1.2;     // tighter spacing
+}
+
+.compact-hero small {
+  font-size: 0.9rem;    // make <small> smaller
+  line-height: 0.6;
+}
