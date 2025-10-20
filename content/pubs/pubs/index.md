@@ -2,11 +2,6 @@
 title: 
 date: 2025-01-21
 ---
-
-#### [**Google Scholar Citations**](https://scholar.google.com/citations?user=gjReCAkAAAAJ&hl=en)
-Authors in **bold** indicate the members of Seo Lab<br>
-
----
 #### Under Review, Revision or In Preparation
 - **Renkl, C.**, **H. Seo**, and A. J. Miller, et al. **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 
