@@ -9,6 +9,5 @@ image:
 
 The successful candidate is expected to bring expertise in surface waves and air–sea interaction modeling, satellite remote sensing (e.g., SWOT), or analysis of in situ observations of air–sea fluxes, turbulent boundary layer processes, and/or their parameterizations. 
 
-Applicants must apply [online](https://hr.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=225530&PostingSeq=1&). 
-
+Please apply [online](https://hr.rcuh.com/psc/hcmprd_exapp/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=3&JobOpeningId=225530&PostingSeq=1&). 
 <!--more-->
