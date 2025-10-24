@@ -32,7 +32,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 #### 2025
 67. **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, and A. Kirincich, 2025: 
 **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. 
-Accepted in *Science Advances*
+*Science Advances*
 
 66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: 
 **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. 
