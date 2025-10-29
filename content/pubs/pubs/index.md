@@ -8,7 +8,8 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### Under Review, Revision or In Preparation
-- *Renkl, C.**, **H. Seo**, and A. J. Miller, et al. **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
+- *Renkl, C.**, **H. Seo**, and A. J. Miller, et al. 
+**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, 
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
@@ -20,19 +21,21 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 - Yang, S., H.-R. Kim, **B. W. Barr**, C. C. Nam, **H. Seo**, M. Bourassa, S. Cocke, M. Kwon, D.-H. Cha, M.-. Park, D.-S. R. Park, H.-J. Bae, B.-M. Kim, 
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**. 
-*Submitted to Science Advances*
+*Submitted to Sci. Adv.*
 
 - Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**, 
 *Under Revision in npj Climate and Atmospheric Science*
 
-- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, *J. Geophys. Res. Oceans*, *Accepted Pending Minor Revision*
+- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, 
+**Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, 
+*J. Geophys. Res. Oceans*, *Accepted Pending Minor Revision*
 
 ---
 #### 2025
 67. **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, and A. Kirincich, 2025: 
 **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. 
-*Science Advances*
+*Sci. Adv.*
 
 66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: 
 **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. 
