@@ -1,5 +1,5 @@
 ---
-title: We are hiring a postdoc! (2025-10-15)
+title: (Closed) We are hiring a postdoc! (2025-10-15)
 date: 2025-10-15
 image:
   focal_point: 'top'
