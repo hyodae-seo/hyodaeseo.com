@@ -24,12 +24,12 @@ main:
   - name: SCOAR
     url: scoar
     weight: 80
+  - name: CV
+    url: media/cv.pdf
+    weight: 90
   - name: Butterfly
     url: butterfly
-    weight: 90
+    weight: 100
   - name: UC•AO
     url: https://www.soest.hawaii.edu/oceanography/uc-ao/
-    weight: 100
-  - name: Calendar
-    url: calendar
-    weight: 120
+    weight: 110
