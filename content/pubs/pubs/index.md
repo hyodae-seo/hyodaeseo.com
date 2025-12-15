@@ -15,24 +15,25 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *To be submitted to J. Geophys. Res. Oceans*
 
-- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee,
+- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller
 **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** 
-*To be submitted to J. Geophys. Res. Oceans*
+*J. Geophys. Res. Oceans, Submitted*
 
 - Yang, S., H.-R. Kim, **B. W. Barr**, C. C. Nam, **H. Seo**, M. Bourassa, S. Cocke, M. Kwon, D.-H. Cha, M.-. Park, D.-S. R. Park, H.-J. Bae, B.-M. Kim, 
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**. 
-*Submitted to Sci. Adv.*
+*Sci. Adv., Submitted*
 
 - Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**, 
-*Under Revision in npj Climate and Atmospheric Science*
-
-- **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, 
-**Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**, 
-*J. Geophys. Res. Oceans*, *Revised*
-
+*npj Climate and Atmospheric Science, Under revision*
 ---
+
 #### 2025
+68. **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, 2025: 
+**Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**,
+*J. Geophys. Res. Oceans*, *In Press*
+---
+
 67. **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, and A. Kirincich, 2025: 
 **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. 
 *Sci. Adv.*, 11, eadw7603, https://www.science.org/doi/10.1126/sciadv.adw7603 [**PDF**](papers/seo_etal_2025_WindFarm.pdf)
