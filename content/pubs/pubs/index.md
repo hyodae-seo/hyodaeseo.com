@@ -31,7 +31,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 #### 2025
 68. **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, 2025: 
 **Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast**,
-*J. Geophys. Res. Oceans*, *In Press*
+*J. Geophys. Res. Oceans*, https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025JC023156
 ---
 
 67. **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, and A. Kirincich, 2025: 
