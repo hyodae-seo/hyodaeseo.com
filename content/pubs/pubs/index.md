@@ -31,7 +31,7 @@ High-resolution Oceanic and Atmospheric Numerical Simulations**
 ---
 
 #### 2026
-69. Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
+69. Cho, A., H. Song, I.-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**,
 *npj Clim. Atmos. Sci., In Press*
 ---
