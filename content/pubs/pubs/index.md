@@ -8,6 +8,11 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### Under Review, Revision or In Preparation
+- Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, **C. Renkl**,
+**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using
+High-resolution Oceanic and Atmospheric Numerical Simulations** 
+*To be submitted to J. Geophys. Res. Oceans*
+
 - **Renkl, C.**, **H. Seo**, and A. J. Miller, et al. 
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 
@@ -23,10 +28,14 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**. 
 *Sci. Adv., Submitted*
 
-- Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 
-**Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**, 
-*npj Climate and Atmospheric Science, Under revision*
 ---
+
+#### 2026
+69. Cho, A., H. Song,, I,-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
+**Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**,
+*npj Clim. Atmos. Sci., In Press*
+---
+
 
 #### 2025
 68. **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, 2025: 
