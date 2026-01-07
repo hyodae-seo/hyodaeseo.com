@@ -9,18 +9,17 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 #### Under Review, Revision or In Preparation
 - Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, **C. Renkl**,
-**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using
-High-resolution Oceanic and Atmospheric Numerical Simulations** 
+**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations** 
 *To be submitted to J. Geophys. Res. Oceans*
 
-- **Renkl, C.**, **H. Seo**, and A. J. Miller, et al. 
+- **Renkl, C.**, **H. Seo**, and A. J. Miller, 
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
 
-- **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, B.-M. Kim, and S. S. Chen, 
+- **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *To be submitted to J. Geophys. Res. Oceans*
 
-- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller
+- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller,
 **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** 
 *J. Geophys. Res. Oceans, Submitted*
 
