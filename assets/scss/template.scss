@@ -17,3 +17,20 @@
   font-size: 1.0rem;    // make <small> smaller
   line-height: 0.6;
 }
+
+// Override avatar/profile rounding from theme,
+// added by HS on 2026-01-08
+
+.avatar img,
+.profile img,
+.author img {
+  border-radius: 0;
+}
+
+// In case the container itself is rounded
+.avatar,
+.profile,
+.author {
+  border-radius: 8px;
+  overflow: visible;
+}
