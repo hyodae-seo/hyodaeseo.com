@@ -8,8 +8,12 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### Under Review, Revision or In Preparation
-- Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, **C. Renkl**,
-**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations** 
+- Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**, 
+**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**. 
+*Bull. Amer. Meteo. Soc., in prep*
+
+- Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
+**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
 *To be submitted to J. Geophys. Res. Oceans*
 
 - **Renkl, C.**, **H. Seo**, and A. J. Miller, 
