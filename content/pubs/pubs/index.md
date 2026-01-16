@@ -37,7 +37,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 #### 2026
 69. Cho, A., H. Song, I.-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**,
-*npj Clim. Atmos. Sci., In Press*
+*npj Clim. Atmos. Sci., https://doi.org/10.1038/s41612-025-01316-1 [PDF]
 ---
 
 
