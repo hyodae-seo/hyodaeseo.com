@@ -12,16 +12,17 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**. 
 *Bull. Amer. Meteo. Soc., in prep*
 
-- Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
-**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
-*To be submitted to J. Geophys. Res. Oceans*
-
 - **Renkl, C.**, **H. Seo**, and A. J. Miller, 
-**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** *In prep*
+**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** 
+*In prep*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *To be submitted to J. Geophys. Res. Oceans*
+
+- Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
+**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
+*J. Geophys. Res. Oceans, Submitted*
 
 - **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller,
 **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds** 
@@ -36,7 +37,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 #### 2026
 69. Cho, A., H. Song, I.-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**,
-*npj Clim. Atmos. Sci., In Press*
+*npj Clim. Atmos. Sci., https://doi.org/10.1038/s41612-025-01316-1 [PDF]
 ---
 
 
