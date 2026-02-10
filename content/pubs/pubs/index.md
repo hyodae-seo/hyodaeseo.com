@@ -8,13 +8,8 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### Under Review, Revision or In Preparation
-- Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**, 
-**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**. 
-*Bull. Amer. Meteo. Soc., in prep*
-
-- **Renkl, C.**, **H. Seo**, and A. J. Miller, 
-**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.** 
-*In prep*
+- Renault, L., et al., *The Energetics of Fine-Scale Air-Sea Exchange*
+*In Prep*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
@@ -28,6 +23,14 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**.
 *In Prep*
 
+
+- Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
+**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
+*Bull. Amer. Meteo. Soc., Submitted`*
+
+- **Renkl, C.**, **H. Seo**, and A. J. Miller,
+**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
+*Submnitted*
 
 - Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
 **A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
