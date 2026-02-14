@@ -8,6 +8,9 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### Under Review, Revision or In Preparation
+- Seunu, H., et al. Atypical mesoscale eddies and their physical and biogeochemical characteristics in the Southern Ocean. 
+*In prep for Geophys. Res. Lett.*
+
 - Renault, L., J. Wenegrat, *H. Seo, P. Marchesiello, *The Energetics of Fine-Scale Air-Sea Interactions*. *In Prep*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
