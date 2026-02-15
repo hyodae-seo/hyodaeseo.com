@@ -53,7 +53,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 *J. Geophys. Res. Oceans*, 130, e2025JC023156, https://doi.org/10.1029/2025JC023156. [**PDF**](papers/sauvage.etal.25.pdf)
 ---
 
-67. **Seo, H.**, **C. Sauvage**, **C. Renkl.**, J. K. Lundquist, and A. Kirincich, 2025: 
+67. **Seo, H.**, **C. Sauvage**, **C. Renkl**, J. K. Lundquist, and A. Kirincich, 2025: 
 **Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms Under Seasonally Stratified Conditions**. 
 *Sci. Adv.*, 11, eadw7603, https://www.science.org/doi/10.1126/sciadv.adw7603. [**PDF**](papers/seo_etal_2025_WindFarm.pdf)
 ---
