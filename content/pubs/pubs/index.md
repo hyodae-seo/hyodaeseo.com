@@ -11,24 +11,24 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 - Seunu, H., et al. Atypical mesoscale eddies and their physical and biogeochemical characteristics in the Southern Ocean. 
 *In prep for Geophys. Res. Lett.*
 
-- Renault, L., J. Wenegrat, *H. Seo, P. Marchesiello, *The Energetics of Fine-Scale Air-Sea Interactions*. *In Prep*
-
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
 
 - **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller,
 **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds**
-*In Prep for J. Geophys. Res. Oceans*
+*In prep for J. Geophys. Res. Oceans*
 
 - Yang, S., H.-R. Kim, **B. W. Barr**, C. C. Nam, **H. Seo**, M. Bourassa, S. Cocke, M. Kwon, D.-H. Cha, M.-. Park, D.-S. R. Park, H.-J. Bae, B.-M. Kim,
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**.
 *In Prep*
 
+- Renault, L., J. Wenegrat, *H. Seo, P. Marchesiello, *The Energetics of Fine-Scale Air-Sea Interactions*. 
+*Annual Review of Marine Science*, *Submitted*
 
 - Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
-*Bull. Amer. Meteo. Soc., Submitted`*
+*Bull. Amer. Meteo. Soc., Submitted*
 
 - **Renkl, C.**, **H. Seo**, and A. J. Miller,
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
