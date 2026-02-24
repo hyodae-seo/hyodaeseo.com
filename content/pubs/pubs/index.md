@@ -8,7 +8,11 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### Under Review, Revision or In Preparation
-- Seunu, H., et al. Atypical mesoscale eddies and their physical and biogeochemical characteristics in the Southern Ocean. 
+- Guo, Y., **Carolina Castillo-Trujillo**, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
+*In prep for J. Geophys. Res. Oceans*
+
+- Seunu, H., H. Song, K. Kwak, J. Yun, **H. Seo**, D. J. McGillicuddy, Jr., and J. Marshall, 
+**Atypical mesoscale eddies and their physical and biogeochemical characteristics in the Southern Ocean**.
 *In prep for Geophys. Res. Lett.*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
@@ -23,7 +27,8 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**.
 *In Prep*
 
-- Renault, L., J. Wenegrat, *H. Seo, P. Marchesiello, *The Energetics of Fine-Scale Air-Sea Interactions*. 
+- Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello, 
+**The Energetics of Fine-Scale Air-Sea Interactions**. 
 *Annual Review of Marine Science*, *Submitted*
 
 - Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
