@@ -5,6 +5,11 @@ date: 2024-12-24
 
 ### University of Hawaiʻi at Mānoa (Spring 2025 -- Present)
 
+#### **Spring 2026** <br>
+#### OCN/ATMO 665: Small-Scale Air-Sea Interaction<br>
+Tuesdays and Thursdays 10:30a-11:45a, POST 414 <br>
+Instructor: Hyodae Seo  <br>
+
 ---
 #### **Spring 2025** <br>
 #### OCN760: Topics in Physical Oceanography: Air-Sea Interaction and Offshore Wind<br>
