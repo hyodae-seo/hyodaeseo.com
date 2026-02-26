@@ -7,7 +7,7 @@ date: 2025-11-02
 Authors in **bold** indicate the members of Seo Lab.</br>
 
 
-#### Under Review, Revision or In Preparation
+#### In Preparation
 - Guo, Y., **Carolina Castillo-Trujillo**, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *In prep for J. Geophys. Res. Oceans*
 
@@ -27,9 +27,10 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**.
 *In Prep*
 
+#### Under Review or Revision
 - Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello, 
 **The Energetics of Fine-Scale Air-Sea Interactions**. 
-*Annual Review of Marine Science*, *Submitted*
+*Annual Review of Marine Science, Submitted*
 
 - Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
@@ -37,7 +38,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 - **Renkl, C.**, **H. Seo**, and A. J. Miller,
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
-*Submnitted*
+*Submitted*
 
 - Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
 **A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
