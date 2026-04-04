@@ -11,10 +11,6 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 - Guo, Y., **Carolina Castillo-Trujillo**, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *In prep for J. Geophys. Res. Oceans*
 
-- Seunu, H., H. Song, K. Kwak, J. Yun, **H. Seo**, D. J. McGillicuddy, Jr., and J. Marshall, 
-**Atypical mesoscale eddies and their physical and biogeochemical characteristics in the Southern Ocean**.
-*In prep for Geophys. Res. Lett.*
-
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
@@ -28,6 +24,10 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 *In Prep*
 
 #### Under Review or Revision
+- Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
+**Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
+*Geophys. Res. Lett., Submitted*
+
 - Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello, 
 **The Energetics of Fine-Scale Air-Sea Interactions**. 
 *Annual Review of Marine Science, Submitted*
@@ -66,7 +66,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 66. Raj, A., B. P. Kumar, V. Jampana, P. G. Remya, **H. Seo**, N. Sureshkumar, and P. R. Rao, 2025: 
 **Wind-Stress Misalignment in the Presence of Swells in the Bay of Bengal**. 
-*Front. Mar. Sci.*, 12, https://doi.org/10.3389/fmars.2025.1647849. [**PDF**](papers/raj.etal.25.frontier.pdf)
+*Front. Mar. Sci.*, 12, 1647849, https://doi.org/10.3389/fmars.2025.1647849. [**PDF**](papers/raj.etal.25.frontier.pdf)
 ---
 
 65. Yang, S., H. Bae, M.-S. Park, M. Bourassa, C. C. Nam, S. Cocke, D. W. Shin, **B. W. Barr**, **H. Seo**, D.-H. Cha, M.-H. Kwon, D. Kim, K.-Y. Jung, and B.-M. Kim, 2025:
