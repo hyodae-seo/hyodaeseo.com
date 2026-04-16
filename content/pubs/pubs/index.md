@@ -28,10 +28,6 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
 *Geophys. Res. Lett., Submitted*
 
-- Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello, 
-**The Energetics of Fine-Scale Air-Sea Interactions**. 
-*Annual Review of Marine Science, Submitted*
-
 - Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
 *Bull. Amer. Meteo. Soc., Submitted*
@@ -44,6 +40,9 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
 *J. Geophys. Res. Oceans, Submitted*
 
+- Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
+**The Energetics of Fine-Scale Air-Sea Interactions**.
+*Annual Review of Marine Science, Accepted*
 ---
 
 #### 2026
