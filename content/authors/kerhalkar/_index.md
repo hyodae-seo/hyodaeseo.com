@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:skerhalkar@umassd.edu'
+    link: 'mailto:siddhant@hawaii.edu'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://x.com/hyodae
@@ -75,4 +75,4 @@ highlight_name: false
 user_groups:
   - Seo Lab @ UH 
 ---
-Dr. Kerhalkhar will joing Seo Lab @ UH on September 2nd, 2025. He earned his PhD in Oceanography from the School for Marine Sciences and Technolgy at University of Massachusetts Dartmouth (UMassD). He is a Distinguished Doctoral Fellowship awardee from the UMassD (2019-20,2021-2024) under the supervision of Prof. Amit Tandon. He is primarily study upper ocean processes and air-sea interaction at smaller length and time scales, with the aim of understanding how these processes influence larger-scale oceanic and atmospheric systems. For his PhD dissertation, I focus on the Diurnal Warm Layers in the Bay of Bengal, which evolves over a day and has potential implications on small scale ocean mixing, daily atmospheric convection and larger scale atmosphere processes like the Indian Summer Monsoons using in-situ observations, remote sensing and 1-D and 3-D numerical ocean modeling. Additionally, He has a keen interest in hurricanes/tropical cyclones, and he was fortunate to study the role of small-scale processes in the recovery of a cold-wake due to cyclone Biparjoy in 2023. At SeoLab at UH, he will work on surface waves influence on Arabian Sea mini-warm pool. [https://kerhalkarsid.github.io](https://kerhalkarsid.github.io)
+We welcome **Dr. Sid Kerhalkar** to the Seo Lab at the University of Hawaiʻi at Mānoa (joining September 2, 2025). He earned his Ph.D. in Oceanography from the School for Marine Science and Technology at the University of Massachusetts Dartmouth, where he was a Distinguished Doctoral Fellow under Prof. Amit Tandon. Dr. Kerhalkar studies upper-ocean processes and air–sea interactions at fine scales and their impact on larger-scale ocean–atmosphere dynamics. His doctoral work on diurnal warm layers in the Bay of Bengal combined in situ observations, remote sensing, and numerical modeling to examine impacts on mixing, convection, and monsoon variability. He has also investigated tropical cyclone processes, including cold-wake recovery following Cyclone Biparjoy (2023). At UH Mānoa, he will focus on the role of surface waves in modulating the Arabian Sea mini–warm pool. More information: [https://kerhalkarsid.github.io](https://kerhalkarsid.github.io).
