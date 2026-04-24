@@ -8,9 +8,6 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### In Preparation
-- Guo, Y., **Carolina Castillo-Trujillo**, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
-*In prep for J. Geophys. Res. Oceans*
-
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
@@ -24,6 +21,9 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 *In Prep*
 
 #### Under Review or Revision
+- Guo, Y., **Carolina Castillo-Trujillo**, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
+*J. Geophys. Res. Oceans, Submitted*
+
 - Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
 **Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
 *Geophys. Res. Lett., Submitted*
