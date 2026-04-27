@@ -77,7 +77,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: media/cv.pdf
+    link: media/CV_Seo_full.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hyodae@hawaii.edu'
