@@ -34,11 +34,11 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 - **Renkl, C.**, **H. Seo**, and A. J. Miller,
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
-*Submitted*
+*Under Revision*
 
 - Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
 **A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
-*J. Geophys. Res. Oceans, Submitted*
+*J. Geophys. Res. Oceans, Under Revision*
 
 - Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
 **The Energetics of Fine-Scale Air-Sea Interactions**.
