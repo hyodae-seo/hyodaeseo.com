@@ -71,7 +71,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '2'
 
 # - block: markdown
 #    content:
@@ -94,18 +94,18 @@ sections:
 #
 #     css_class: fullscreen
 
-#  - block: collection
+# - block: collection
 #   content:
-#     title: Latest Preprints
+#     title: Publications
 #     text: ""
 #     count: 5
 #     filters:
 #       folders:
-#         - publication
+#         - publications
 #       publication_type: 'article'
 #   design:
 #     view: citation
-#     columns: '1'
+#     columns: '2'
 
 # - block: markdown
 #   content:
