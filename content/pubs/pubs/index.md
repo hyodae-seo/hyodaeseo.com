@@ -22,7 +22,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 #### Under Review or Revision
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
-*J. Geophys. Res. Oceans, Submitted*
+*J. Adv. Model. Earth Syst.,Submitted*
 
 - Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
 **Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
