@@ -16,10 +16,6 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds**
 *In prep for J. Geophys. Res. Oceans*
 
-- Yang, S., H.-R. Kim, **B. W. Barr**, C. C. Nam, **H. Seo**, M. Bourassa, S. Cocke, M. Kwon, D.-H. Cha, M.-. Park, D.-S. R. Park, H.-J. Bae, B.-M. Kim,
-**Wave Tank-Inspired Sea Spray Parameterization Enhances Typhoon Intensity Forecasts**.
-*In Prep*
-
 #### Under Review or Revision
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *J. Adv. Model. Earth Syst.,Submitted*
