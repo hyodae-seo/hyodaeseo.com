@@ -8,8 +8,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### In Preparation
-- 
-Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
+- Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
 **A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
 *In prep for J. Climate*
 
