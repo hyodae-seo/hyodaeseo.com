@@ -8,6 +8,11 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### In Preparation
+- 
+Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
+**A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
+*In prep for J. Climate*
+
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
@@ -18,7 +23,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 #### Under Review or Revision
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
-*J. Adv. Model. Earth Syst.,Submitted*
+*EGU Ocean Science, Submitted*
 
 - Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
 **Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
@@ -34,7 +39,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 - Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
 **A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
-*J. Geophys. Res. Oceans, Under Revision*
+*J. Geophys. Res. Oceans, Revision Submitted*
 
 - Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
 **The Energetics of Fine-Scale Air-Sea Interactions**.
