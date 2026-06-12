@@ -8,10 +8,6 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### In Preparation
-- Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
-**A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
-*In prep for J. Climate*
-
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
@@ -21,6 +17,10 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 *In prep for J. Geophys. Res. Oceans*
 
 #### Under Review or Revision
+- Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
+**A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
+*Weather and Climate Dynamics, Submitted*
+
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *EGU Ocean Science, Submitted*
 
