@@ -11,7 +11,7 @@ last_name: Seo
 superuser: yes
 
 # Role/position
-role: Associate Professor 
+role: Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-#Dr. Hyodae Seo is an Associate Professor in [the Department of Oceanography](https://www.soest.hawaii.edu/oceanography) and an Associate Director of [the Uehiro Center for the Advancement of Oceanography (UC•AO)](http://www.soest.hawaii.edu/oceanography/uc-ao/). He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. 
+#Dr. Hyodae Seo is an Professor in [the Department of Oceanography](https://www.soest.hawaii.edu/oceanography) and an Associate Director of [the Uehiro Center for the Advancement of Oceanography (UC•AO)](http://www.soest.hawaii.edu/oceanography/uc-ao/). He is a physical oceanographer and climate scientist with a broad range of research and teaching interests in ocean and atmospheric processes and their coupled interactions relating to weather and climate. 
 interests:
   - Air-Sea Interaction
   - Climate Dynamics
@@ -37,9 +37,12 @@ interests:
     
 education:
   courses:
+    - course: Professor
+      institution: University of Hawaiʻi at Mānoa
+      year: 2026-
     - course: Associate Professor (Tenured)
       institution: University of Hawaiʻi at Mānoa
-      year: 2024-
+      year: 2024-2026
     - course: Assistant (2010), Associate (Tenured, 2018), and Senior Scientist (2024)
       institution: Woods Hole Oceanographic Institution
       year: 
