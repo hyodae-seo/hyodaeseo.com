@@ -8,6 +8,11 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 
 #### In Preparation
+
+- Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
+**Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
+*In Prep*
+
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
@@ -24,13 +29,9 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *EGU Ocean Science, Submitted*
 
-- Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
-**Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
-*Geophys. Res. Lett., Submitted*
-
 - Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
-*Bull. Amer. Meteo. Soc., Under Revision*
+*Bull. Amer. Meteo. Soc., Revision Submitted*
 
 - **Renkl, C.**, **H. Seo**, and A. J. Miller,
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
