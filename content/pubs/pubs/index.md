@@ -17,11 +17,11 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 
 *In prep for J. Phys. Oceanogr.*
 
-- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller,
-**Sampling Scale Mismatch Drive Discrepancies between Satellite and TAO Buoy Measurements of Ocean Surface Winds**
-*In prep for J. Geophys. Res. Oceans*
-
 #### Under Review or Revision
+- **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller,
+**When Sampling Mismatches Take Over: Machine-Learning Approach to Find Weather Regimes that Drive Large Scatterometer and Buoy Wind Differences**
+*J. Geophys. Res. Oceans, Submitted*
+
 - Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
 **A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
 *Weather and Climate Dynamics, Submitted*
@@ -33,20 +33,22 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
 *Bull. Amer. Meteo. Soc., Revision Submitted*
 
-- **Renkl, C.**, **H. Seo**, and A. J. Miller,
-**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
-*Revision Submitted*
-
 - Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
 **A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
 *J. Geophys. Res. Oceans, Revision Submitted*
-
-- Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
-**The Energetics of Fine-Scale Air-Sea Interactions**.
-*Annual Review of Marine Science, Accepted*
 ---
 
 #### 2026
+
+71. **Renkl, C.**, **H. Seo**, and A. J. Miller,
+**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
+*In Press*
+
+70. Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
+**The Energetics of Fine-Scale Air-Sea Interactions**.
+*Ann. Rev. Mar. Sci., https://doi.org/10.1146/annurev-marine-040425-024449
+
+
 69. Cho, A., H. Song, I.-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**,
 *npj Clim. Atmos. Sci.*, 9, 44, https://doi.org/10.1038/s41612-025-01316-1 [**PDF**](papers/cho.etal.26.pdf)
