@@ -43,17 +43,17 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 71. **Renkl, C.**, **H. Seo**, and A. J. Miller,
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
 *In Press*
+---
 
 70. Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
 **The Energetics of Fine-Scale Air-Sea Interactions**.
-*Ann. Rev. Mar. Sci., https://doi.org/10.1146/annurev-marine-040425-024449
-
+*Ann. Rev. Mar. Sci.*, https://doi.org/10.1146/annurev-marine-040425-024449
+---
 
 69. Cho, A., H. Song, I.-J. Moon, **H. Seo**, R. Sun, M. R. Mazloff, A. C. Subramanian, A. J. Miller, 2026:
 **Modulation of Tropical Cyclone Intensity by Current-Wind Interaction**,
 *npj Clim. Atmos. Sci.*, 9, 44, https://doi.org/10.1038/s41612-025-01316-1 [**PDF**](papers/cho.etal.26.pdf)
 ---
-
 
 #### 2025
 68. **Sauvage, C.**, **H. Seo**, S. Zippel, C.-A. Clayson, and J. B. Edson, 2025: 
