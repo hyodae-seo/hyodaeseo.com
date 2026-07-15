@@ -45,7 +45,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 *In Press*
 ---
 
-70. Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello, 2026
+70. Renault, L., J. Wenegrat, **H. Seo**, and P. Marchesiello, 2026
 **The Energetics of Fine-Scale Air-Sea Interactions**.
 *Ann. Rev. Mar. Sci.*, 19, https://doi.org/10.1146/annurev-marine-040425-024449 [**PDF**](papers/renault.etal.26.pdf)
 ---
