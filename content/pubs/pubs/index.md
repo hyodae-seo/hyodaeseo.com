@@ -42,7 +42,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 71. **Renkl, C.**, **H. Seo**, and A. J. Miller, 2026
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
-*In Press*
+*Sci. Rep.*, *In Press*
 ---
 
 70. Renault, L., J. Wenegrat, **H. Seo**, and P. Marchesiello, 2026
