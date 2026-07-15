@@ -40,12 +40,12 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 
 #### 2026
 
-71. **Renkl, C.**, **H. Seo**, and A. J. Miller,
+71. **Renkl, C.**, **H. Seo**, and A. J. Miller, 2026
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
 *In Press*
 ---
 
-70. Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello,
+70. Renault, L., J. Wenegrat, **H. Seo**, P. Marchesiello, 2026
 **The Energetics of Fine-Scale Air-Sea Interactions**.
 *Ann. Rev. Mar. Sci.*, https://doi.org/10.1146/annurev-marine-040425-024449
 ---
