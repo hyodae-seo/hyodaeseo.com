@@ -42,8 +42,8 @@ sections:
           <div class="small-text">
 
           **Hyodae Seo, Ph.D.** <br>
-           <small>**Professor**, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [SOEST](https://www.soest.hawaii.edu), [University of Hawaiʻi, Mānoa](https://manoa.hawaii.edu) </small><br>
-           <small>**Associate Director**, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
+           <small>Professor, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [SOEST](https://www.soest.hawaii.edu), [University of Hawaiʻi, Mānoa](https://manoa.hawaii.edu) </small><br>
+           <small>Associate Director, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
 
            <small>The Seo Lab studies oceanic, atmospheric, and surface wave processes and their interactions with extreme weather and offshore wind energy. The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and satellite and in situ observations.</small>
 
