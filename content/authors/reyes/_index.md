@@ -10,7 +10,7 @@ last_name: Reyes
 superuser: no
 
 # Role/position
-role: Summer Graduate Student (2025)
+role: Summer Graduate Student (2025, 2026)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Clint Reyes is a graduate student in the Department of Ocean and Resources Engineering at the University of Hawai‘i at Mānoa (SOEST/UHM). In the summer of 2025, he will be working at the Seo Lab to investigate nearshore wave dynamics around the Okinawa Islands during Super Typhoon Khanun (2023) using numerical model simulations. His research interests include coastal engineering, coral reef hydrodynamics, and marine renewable energy.
+bio: Clint Reyes is a graduate student in the Department of Ocean and Resources Engineering at the University of Hawai‘i at Mānoa (SOEST/UHM). In the summer of 2025 and 2026 he will be working at the Seo Lab to investigate nearshore wave dynamics around the Okinawa Islands during Super Typhoon Khanun (2023) using numerical model simulations. His research interests include coastal engineering, coral reef hydrodynamics, and marine renewable energy.
 
 interests:
   - Coastal engineering
@@ -69,6 +69,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - UH Alumni 
-
+  - Seo Lab @ UH
 ---
