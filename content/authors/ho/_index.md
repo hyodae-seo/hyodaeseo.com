@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Allison Ho
+title: Alli Ho
 url: /authors/ho
 
 # Full Name (for SEO)
-first_name: Allison
+first_name: Alli Ho 
 last_name: Ho
 
 # Is this the primary user of the site?
