@@ -29,7 +29,7 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *EGU Ocean Science, Submitted*
 
-- Kirinchch, A., and coauthors including **H. Seo**, and **C. Sauvage**,
+- Kirincich, A., and coauthors including **H. Seo**, and **C. Sauvage**,
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
 *Bull. Amer. Meteo. Soc., Revision Submitted*
 
