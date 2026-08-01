@@ -45,9 +45,9 @@ sections:
            <small>Professor, [Oceanography Department](https://www.soest.hawaii.edu/oceanography), [SOEST](https://www.soest.hawaii.edu), [University of Hawaiʻi, Mānoa](https://manoa.hawaii.edu) </small><br>
            <small>Associate Director, [Uehiro Center for the Advancement of Oceanography (UC•AO)](https://www.soest.hawaii.edu/oceanography/uc-ao/)  </small><br>
 
-           <small>The Seo Lab studies oceanic, atmospheric, and surface wave processes and their interactions with extreme weather and offshore wind energy. The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and satellite and in situ observations.</small>
+           <small>The SCOAR Lab studies oceanic, atmospheric, and surface wave processes and their interactions with extreme weather and offshore wind energy. The lab employs [high-resolution regional coupled modeling](https://hyodae-seo.github.io/scoar/), geophysical fluid dynamics, and satellite and in situ observations.</small>
 
-            <small>Our lab also engages the public on issues such as extreme weather and renewable energy, supporting research activities asined with the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals).   </small>
+            <small>SCOAR Lab also engages the public on issues such as extreme weather and renewable energy, supporting research activities asined with the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals).   </small>
 
              <small>**Lab Code of Conduct:** Be kind, assume good intent, engage respectfully, and uphold a culture of scientific integrity, collaboration, accountability, and mutual support</small></div>
 

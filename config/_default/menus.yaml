@@ -15,13 +15,16 @@ main:
   # url: publication
     url: pubs
     weight: 50
+  - name: Presentations
+    url: presentations
+    weight: 60
   - name: Projects
     url: projects
-    weight: 60
+    weight: 70
   - name: Teaching
     url: teaching
-    weight: 70
-  - name: SCOAR
+    weight: 80
+  - name: SCOAR Model
     url: scoar
     weight: 80
   - name: CV
