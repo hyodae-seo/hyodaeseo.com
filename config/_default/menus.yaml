@@ -16,7 +16,7 @@ main:
     url: pubs
     weight: 50
   - name: Presentations
-    url: presentations
+    url: present
     weight: 60
   - name: Projects
     url: projects
