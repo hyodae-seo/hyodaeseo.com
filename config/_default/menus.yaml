@@ -30,9 +30,9 @@ main:
   - name: CV
     url: media/CV_Seo_full.pdf
     weight: 90
-  - name: Butterfly
-    url: butterfly
-    weight: 100
+# - name: Butterfly
+#   url: butterfly
+#   weight: 100
 #  - name: UC•AO
 #    url: https://www.soest.hawaii.edu/oceanography/uc-ao/
 #    weight: 110
