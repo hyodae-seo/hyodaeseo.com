@@ -46,10 +46,25 @@ August 18-19, 2025
 ---
 
 
-
-
-
-
 #### Poster
 #### 2026
+
+**Sauvage, C.**, **H. Seo**, **B. W. Barr**, **R. W. Pauly**, **S. Kerhalkar**, S. Yoshida, C.-A. Clayson, T. Bhirawa, H. Wu, S. Mitarai: 
+[**Wave–Wind Misalignment and Drag Coeﬃcient Rolloﬀ in Tropical Cyclones.**](https://drive.google.com/file/d/1eCi8nGL5YIyko8wyRiy5qyvWVO-sjLjn/view?usp=drive_fs)
+Japan Geophysical Union Meeting, Chiba, Japan, May 28, 2026. 
+
+
+**Kerhalkar, S.**, **H. Seo**, **C. Sauvage**, A. Tandon: 
+[**Seasonal Variability of Wave States and Their Influence on Air-Sea Fluxes in the Northern Indian Ocean.**](https://drive.google.com/file/d/1iU4-UdWGtIj5k1uA4Jd8bdQmN1udfbqM/view),
+Breakthroughs: Uehiro-Oceanography Yearly Symposium (BUOYS), Honolulu, HI,
+March 12-13, 2026.
+
+**Pauly, R. W.**, **C. Sauvage**, **S. Kerhalkar**, **B. Barr**, **H. Seo**:
+[**Wave-Wind Interaction Regimes in Tropical Cyclones Revealed by Clustering of Spotter Buoy Observations.**](https://drive.google.com/file/d/1hXYI6JlD5eL1OJKQr-OKOYaZDRRz-7w2/view)
+Breakthroughs: Uehiro-Oceanography Yearly Symposium (BUOYS), Honolulu, HI,
+March 12-13, 2026.
+
+---
+
 <!--more-->
+
