@@ -3,6 +3,8 @@ title:
 date: 2025-11-02
 ---
 
+[**Select Presentations Prior to 2024 from WHOI**](https://hseo.whoi.edu/lecture-seminars-and-talks/)
+
 #### 2026
 **Seo, H.**, **C. Sauvage**, **R. W. Pauly**, S. Yoshida, **B. W. Barr**, S. Mitarai, C. A. Clayson, J. Davis:
 [**Directional Wave–Wind Coupling, Drag Coefficient Rolloff, and Air-Sea Fluxes Under Tropical Cyclones.**](https://www.dropbox.com/scl/fi/e7vhf4mqinfhy843xrmt0/SNU-seminar.pdf?rlkey=uvw0kh7prq40wdjy5vg8k4ngi)
@@ -104,7 +106,30 @@ International Climate AND Ocean sciences meeting (ICANDO), (invited seminar) Vir
 Jan. 2025. **Oral**
 
 ---
-[**Prior to 2024 from WHOI**](https://hseo.whoi.edu/lecture-seminars-and-talks/)
+
+#### 2024
+**Seo, H.**:
+<span style="color:#0066CC">
+**Surface drag effects of wave-wind misalignment: Examples, parameterizations, and impacts**,
+</span>
+ASTraL Science Update (Virtual)
+April 1, 2024. **Oral**
+
+**Seo, H.**:
+<span style="color:#0066CC">
+**Coupled effects of offshore wind farms**,
+</span>
+BOEM CA Upweling Workshop, Santa Cruz
+March, 1, 2024. **Oral**
+
+**Seo. H.**:
+<span style="color:#0066CC">
+**Improving wave-mediated air-sea momentum flux parameterization**,
+</span>
+Geophysical Flows: From the Field to the Lab Discussion meeting 
+Chennai, India, 
+January 11, 2204. **Oral**
+
 
 <!--more-->
 
