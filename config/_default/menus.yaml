@@ -33,6 +33,6 @@ main:
   - name: Butterfly
     url: butterfly
     weight: 100
-  - name: UC•AO
-    url: https://www.soest.hawaii.edu/oceanography/uc-ao/
-    weight: 110
+#  - name: UC•AO
+#    url: https://www.soest.hawaii.edu/oceanography/uc-ao/
+#    weight: 110
