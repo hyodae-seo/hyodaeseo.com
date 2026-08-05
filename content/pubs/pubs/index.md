@@ -33,12 +33,15 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 **Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
 *Bull. Amer. Meteo. Soc., Revision Submitted*
 
-- Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**,
-**A Study on the Role of Time- and Spatially Varying Wind in Coastal Circulation Using High-resolution Oceanic and Atmospheric Numerical Simulations**.
-*J. Geophys. Res. Oceans, Revision Submitted*
 ---
 
 #### 2026
+
+72. Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**, 2026:
+**The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations**.
+*J. Geophys. Res. Oceans, Accepted*
+
+---
 
 71. **Renkl, C.**, **H. Seo**, and A. J. Miller, 2026:
 **Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast.**
