@@ -24,7 +24,7 @@ main:
   - name: Teaching
     url: teaching
     weight: 80
-  - name: SCOAR Model
+  - name: SCOAR
     url: scoar
     weight: 80
   - name: CV
