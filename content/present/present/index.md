@@ -11,6 +11,14 @@ date: 2025-11-02
 IRC-MABL-ASI Workshop, Seoul National University,
 June 22-23, 2026. **Oral**
 
+
+**Kerhalkar S.**, A. Tandon, J. MacKinnon and co-authors (including **H. Seo**):
+<span style="color:#0066CC">
+**Momentum Flux Estimated from In-Situ Wave Spectra in the Northern Indian Ocean** 
+</span>
+ONR EKAMSAT Science Meeting, Herndon, VA, USA, May 12-13 2026. **Oral**
+
+
 **Seo, H.**, **C. Sauvage**, **C. Renkl**, J. Lundquist, A. Kirincich, J. B. Edson, C. A. Clayson, S. Zippel:
 [**Stratified Shelf Ocean and Fetch-Dependent Sea State Responses to Large-Scale Offshore Wind Farms on the US East Coast.**](https://www.dropbox.com/scl/fi/e7vhf4mqinfhy843xrmt0/SNU-seminar.pdf?rlkey=uvw0kh7prq40wdjy5vg8k4ngi&dl=0)
 Atmospheric Sciences Department Seminar, Seoul National University,
@@ -18,7 +26,13 @@ June 25, 2026. **Oral**
 
 **Sauvage, C.**, **H. Seo**, **B. W. Barr**, **R. W. Pauly**, **S. Kerhalkar**, S. Yoshida, C. A. Clayson, T. Bhirawa, H. Wu, S. Mitarai:
 [**Wave–Wind Misalignment and Drag Coeﬃcient Rolloﬀ in Tropical Cyclones.**](https://drive.google.com/file/d/1eCi8nGL5YIyko8wyRiy5qyvWVO-sjLjn/view?usp=drive_fs)
-Japan Geophysical Union Meeting, Chiba, Japan, May 28, 2026. **Poster**
+Japan Geophysical Union Meeting, Chiba, Japan, May 28, 2026. *Poster*
+
+**Kerhalkar S.**, A. Kannad, A. Kinsella, H. T. Pham, C. Sauvage, A. Tandon, J. Sprintall, S. Sarkar, **H. Seo**, C. M. Lee:
+<span style="color:#0066CC">
+**Monsoon–Frontal–Wave Interactions Drive Cyclone Biparjoy’s Wake Recovery in the Arabian Sea**.
+</span>
+Gordon Research Conference and Seminar on Ocean Mixing, South Hadley, MA, USA, 13–19 June 2026. **Oral**
 
 **Sauvage, C.**, **H. Seo**, **C. Renkl**, J. Lundquist, A. Kirincich, J. B. Edson, C. A. Clayson, S. Zippel:
 [**Ocean response to offshore wind farms off the Coast of New England**](https://drive.google.com/file/d/1MZ_trjpgAeo46NzLRrJLioxFJWH157Be/view).
@@ -29,6 +43,10 @@ May 7, 2026. **Oral**
 [**Ocean surface waves impact on air-sea momentum flux**](https://drive.google.com/file/d/1jJPFS7SFkD8v50OmePzgbeV58WoqVX61/view).
 CICESE CROCO Summer School: Ocean-Atmosphere-Wave Courses. Virtual, 
 May 1, 2026. **Oral**
+
+**Barr, B.**, **H. Seo**, **C. Sauvage**, J. B. Edson, C.-A. Clayson: 
+[**Understanding and Constraining Bulk and Sea Spray Heat Fluxes in High Winds Using Direct Covariance Heat Flux Observations**](https://drive.google.com/file/d/11A3Ms8nebgUXEEfvUM_f08g9ZJXu8oAf/view)
+AMS 37th Conference on Hurricanes and Tropical Meteorology, San Diego, CA, USA, 30 March-3 April 2026. **Poster**
 
 **Sauvage C.**, **H. Seo**, **B. Barr**, **W. Pauly**, **S. Kerhalkar**, **C. Reyes**, S. Yoshida, T. Bhirawa, H. Wu, S. Mitarai, C. A. Clayson: 
 [**Wave–Wind Misalignment and Drag Coefficient Rolloff in High-Wind Tropical Cyclones**](https://docs.google.com/presentation/d/1iMl1UVbw18fdLCmMbV2YjYF5Noc3Rpzp/edit?usp=drive_link&ouid=117279831483587605835&rtpof=true&sd=true)
@@ -64,6 +82,12 @@ December 2025. **Poster**
 [**Seasonal Variability of Wave States and Their Influence on Air-Sea Fluxes in the Northern Indian Ocean.**](https://www.dropbox.com/scl/fi/syr9980fy5drxcdbdq5gn/ABS-04-0390-Seo.pdf?rlkey=ptv10hg2kyxrpumwbhgots12q&dl=0)
 International Indian Ocean Science Conference 2025, INCOIS, Hyderabad, India
 December 01-05, 2025. **Oral**
+
+**Kerhalkar S.**, A. Tandon, J. MacKinnon and **H. Seo**: 
+<span style="color:#0066CC">
+**Impacts of Salinity Stratification and wave-based formulation on SST within the Indian Ocean mini-warm pool**.
+</span>
+ONR EKAMSAT Science Meeting, Herndon, VA, USA, September 9-10 2025. **Oral**
 
 **Seo, H.**, **C. Sauvage**, **B. W. Barr**:
 <span style="color:#0066CC">
