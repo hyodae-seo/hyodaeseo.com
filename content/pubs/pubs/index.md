@@ -91,7 +91,8 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 ---
 
 62. Shinoda, T., T. G. Jensen, Z. Lachkar, Y. Masumoto, and **H. Seo**, 2024:
-**Modeling the Indian Ocean, Intraseasonal variability in the Indian Ocean region.** *The Indian Ocean and its role in the global climate system.* Elsevier Publishing, Editors: C. C. Ummenhofer and R. R. Hood. https://doi.org/10.1016/B978-0-12-822698-8.00013. [**PDF**](papers/shinoda.etal.24.pdf)
+**Modeling the Indian Ocean, Intraseasonal variability in the Indian Ocean region.** *The Indian Ocean and its role in the global climate system.* Elsevier Publishing, Editors: C. C. Ummenhofer and R. R. Hood. 
+https://doi.org/10.1016/B978-0-12-822698-8.00001-9. [**PDF**](papers/shinoda.etal.24.pdf)
 ---
 
 #### 2023
