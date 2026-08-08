@@ -13,9 +13,7 @@ June 22-23, 2026. **Oral**
 
 
 **Kerhalkar S.**, A. Tandon, J. MacKinnon and co-authors (including **H. Seo**):
-<span style="color:#0066CC">
-**Momentum Flux Estimated from In-Situ Wave Spectra in the Northern Indian Ocean** 
-</span>
+[**Momentum Flux Estimated from In-Situ Wave Spectra in the Northern Indian Ocean**](https://drive.google.com/file/d/1g_jxeCpvNEMn9OMBOxI1uHdpjzNBSovq/view)
 ONR EKAMSAT Science Meeting, Herndon, VA, USA, May 12-13 2026. **Oral**
 
 
@@ -29,9 +27,7 @@ June 25, 2026. **Oral**
 Japan Geophysical Union Meeting, Chiba, Japan, May 28, 2026. *Poster*
 
 **Kerhalkar S.**, A. Kannad, A. Kinsella, H. T. Pham, C. Sauvage, A. Tandon, J. Sprintall, S. Sarkar, **H. Seo**, C. M. Lee:
-<span style="color:#0066CC">
-**Monsoon–Frontal–Wave Interactions Drive Cyclone Biparjoy’s Wake Recovery in the Arabian Sea**.
-</span>
+[**Monsoon–Frontal–Wave Interactions Drive Cyclone Biparjoy’s Wake Recovery in the Arabian Sea**](https://drive.google.com/file/d/1l4DU_2gR2HRh68RGowWwcfN4xn-trsPg/view)
 Gordon Research Conference and Seminar on Ocean Mixing, South Hadley, MA, USA, 13–19 June 2026. **Oral**
 
 **Sauvage, C.**, **H. Seo**, **C. Renkl**, J. Lundquist, A. Kirincich, J. B. Edson, C. A. Clayson, S. Zippel:
@@ -47,6 +43,10 @@ May 1, 2026. **Oral**
 **Barr, B.**, **H. Seo**, **C. Sauvage**, J. B. Edson, C.-A. Clayson: 
 [**Understanding and Constraining Bulk and Sea Spray Heat Fluxes in High Winds Using Direct Covariance Heat Flux Observations**](https://drive.google.com/file/d/11A3Ms8nebgUXEEfvUM_f08g9ZJXu8oAf/view)
 AMS 37th Conference on Hurricanes and Tropical Meteorology, San Diego, CA, USA, 30 March-3 April 2026. **Poster**
+
+**Kerhalkar S.**, A. Kannad, A. Kinsella, **C. Sauvage**, A. Tandon, J. Sprintall, **H. Seo** and C. M. Lee:
+[**Monsoon–Frontal–Wave Interactions Drive Cyclone Biparjoy’s Wake Recovery in the Arabian Sea**](https://drive.google.com/file/d/1zPBzfOewLEdKueH2rofakl9O74na7813/view)
+AMS 37th Conference on Hurricanes and Tropical Meteorology, San Diego, CA, USA, 30 March–3 April 2026. PDF
 
 **Sauvage C.**, **H. Seo**, **B. Barr**, **W. Pauly**, **S. Kerhalkar**, **C. Reyes**, S. Yoshida, T. Bhirawa, H. Wu, S. Mitarai, C. A. Clayson: 
 [**Wave–Wind Misalignment and Drag Coefficient Rolloff in High-Wind Tropical Cyclones**](https://docs.google.com/presentation/d/1iMl1UVbw18fdLCmMbV2YjYF5Noc3Rpzp/edit?usp=drive_link&ouid=117279831483587605835&rtpof=true&sd=true)
