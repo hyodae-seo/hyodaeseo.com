@@ -38,10 +38,9 @@ Authors in **bold** indicate the members of Seo Lab.</br>
 #### 2026
 
 72. Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**, 2026:
-**The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations**.
-*J. Geophys. Res. Oceans*.
+[**The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations**](papers/kim.etal.26.pdf),
+*J. Geophys. Res. Oceans*, 131,e2026JC024033.
 https://doi.org/10.1029/2026JC024033
-
 ---
 
 71. **Renkl, C.**, **H. Seo**, and A. J. Miller, 2026:
