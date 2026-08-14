@@ -34,3 +34,73 @@
   border-radius: 8px;
   overflow: visible;
 }
+
+// Compact presentation archive typography to match the publications page.
+.presentation-archive {
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+
+.presentation-archive h2 {
+  clear: both;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 1.5rem;
+  margin-bottom: 0.7rem;
+}
+
+.presentation-archive h3 {
+  font-size: 0.82rem;
+  line-height: 1.3;
+  margin-top: 0.8rem;
+  margin-bottom: 0.3rem;
+}
+
+.presentation-archive p {
+  margin-bottom: 0.35rem;
+}
+
+.presentation-archive hr {
+  clear: both;
+  margin: 0.8rem 0;
+}
+
+.presentation-archive .presentation-preview {
+  width: 155px;
+  max-width: 28%;
+  height: auto;
+  margin: 0 0 0.55rem 1rem;
+  border-radius: 4px;
+}
+
+.presentation-archive .presentation-preview-link {
+  display: contents;
+}
+
+.presentation-archive .presentation-preview-link:hover .presentation-preview,
+.presentation-archive .presentation-preview-link:focus .presentation-preview {
+  opacity: 0.82;
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+@media (max-width: 576px) {
+  .presentation-archive {
+    font-size: 0.76rem;
+  }
+
+  .presentation-archive h2 {
+    font-size: 0.95rem;
+  }
+
+  .presentation-archive h3 {
+    font-size: 0.8rem;
+  }
+
+  .presentation-archive .presentation-preview {
+    width: 110px;
+    max-width: 34%;
+    margin-left: 0.65rem;
+  }
+}

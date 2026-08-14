@@ -1,11 +1,6 @@
 ---
-title: 
-
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title:
+description: Talks, invited seminars, conference presentations, and posters from the SCOAR Lab.
 ---
+
+{{< presentation_archive >}}

@@ -1,0 +1,68 @@
+{{- /* Keep the presentation landing page synchronized with the editable prototype. */ -}}
+{{- $source := readFile "content/present/present/index_codex.md" -}}
+{{- $body := replaceRE `(?s)^---.*?---\s*` "" $source -}}
+<div class="presentation-archive">
+  {{- $body | .Page.RenderString -}}
+</div>
+<script>
+  const presentationArchive = document.currentScript.previousElementSibling;
+
+  presentationArchive.querySelectorAll('h3').forEach((title) => {
+    const detailParagraphs = [];
+    let node = title.nextElementSibling;
+
+    while (node && node.tagName !== 'HR' && node.tagName !== 'H2') {
+      if (node.matches('p') && !node.textContent.trim().startsWith('View ')) {
+        detailParagraphs.push(node);
+      }
+      node = node.nextElementSibling;
+    }
+
+    const authorList = detailParagraphs[1];
+    if (authorList) title.insertAdjacentElement('afterend', authorList);
+  });
+
+  presentationArchive.querySelectorAll('p > a').forEach((resourceLink) => {
+    if (!resourceLink.textContent.trim().startsWith('View ')) return;
+
+    let node = resourceLink.closest('p').previousElementSibling;
+    while (node && node.tagName !== 'H3' && node.tagName !== 'HR') {
+      node = node.previousElementSibling;
+    }
+    if (!node || node.tagName !== 'H3' || node.querySelector('a')) return;
+
+    const titleLink = document.createElement('a');
+    titleLink.href = resourceLink.href;
+    titleLink.target = '_blank';
+    titleLink.rel = 'noopener';
+    titleLink.innerHTML = node.innerHTML;
+    node.replaceChildren(titleLink);
+  });
+
+  presentationArchive.querySelectorAll('.presentation-preview')
+    .forEach((preview) => {
+      let node = preview.nextElementSibling;
+      let resourceLink = null;
+
+      while (node && node.tagName !== 'HR') {
+        const candidate = node.matches('p') ? node.querySelector('a') : null;
+        if (candidate && candidate.textContent.trim().startsWith('View ')) {
+          resourceLink = candidate;
+          break;
+        }
+        node = node.nextElementSibling;
+      }
+
+      if (!resourceLink) return;
+
+      const thumbnailLink = document.createElement('a');
+      thumbnailLink.href = resourceLink.href;
+      thumbnailLink.target = '_blank';
+      thumbnailLink.rel = 'noopener';
+      thumbnailLink.className = 'presentation-preview-link';
+      thumbnailLink.setAttribute('aria-label', resourceLink.textContent.trim());
+      preview.replaceWith(thumbnailLink);
+      thumbnailLink.appendChild(preview);
+      resourceLink.closest('p').hidden = true;
+    });
+</script>
