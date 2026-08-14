@@ -41,8 +41,8 @@ build:
 }
 </style>
 
-For earlier work, see [selected presentations prior to 2024 from WHOI](https://hseo.whoi.edu/lecture-seminars-and-talks/) \
-Authors in **bold** were SCOAR Lab members at the time of presentation.\
+For earlier work, see [selected presentations prior to 2024 from WHOI](https://hseo.whoi.edu/lecture-seminars-and-talks/)\
+Authors in **bold** were SCOAR Lab members at the time of presentation.
 
 **Browse by year:** [2026](#2026) · [2025](#2025) · [2024](#2024)
 
