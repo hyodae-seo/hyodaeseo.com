@@ -56,7 +56,7 @@ Authors in **bold** were SCOAR Lab members at the time of presentation.\
 
 **H. Seo**, **C. Sauvage**, **R. W. Pauly**, S. Yoshida, **B. W. Barr**, S. Mitarai, C. A. Clayson, and J. Davis
 
-**Oral presentation** · IRC–MABL–ASI Workshop  
+**Invited oral presentation** · IRC–MABL–ASI Workshop  
 Seoul National University · Seoul, South Korea · June 22–23, 2026
 
 ---
