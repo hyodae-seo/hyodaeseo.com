@@ -9,6 +9,7 @@ date: 2024-12-24
 #### OCN105/SUST115: Sustainability in a Changing World<br>
 Online & Asynchronous <br>
 Instructor: Hyodae Seo <br>
+
 ---
 
 #### **Spring 2026** <br>
