@@ -47,7 +47,7 @@ For earlier work, see [selected presentations prior to 2024 from WHOI](https://h
 
 ---
 
-## **2026**
+## 2026
 
 <a class="presentation-preview-link" href="/present/pdfs/2026/SNU_Workshop_Hyodae_Seo.pdf"><img class="presentation-preview" src="/present/thumbnails/2026/SNU_Workshop_Hyodae_Seo.png" alt="First slide of the directional wave–wind coupling presentation" width="260" align="right"></a>
 
@@ -181,7 +181,7 @@ Honolulu, Hawaiʻi, USA · March 12–13, 2026
 
 ---
 
-## **2025**
+## 2025
 
 ### Improving Air–Sea Flux Parameterizations for the Diabatic Effects of Ocean and Surface Waves in Atmospheric Rivers
 
