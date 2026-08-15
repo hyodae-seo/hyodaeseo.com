@@ -6,7 +6,6 @@ build:
   list: never
   render: always
 ---
-
 <style>
 .article-container {
   max-width: 1000px;
@@ -40,6 +39,8 @@ build:
   }
 }
 </style>
+
+### Presentations
 
 For earlier work, see [selected presentations prior to 2024 from WHOI](https://hseo.whoi.edu/lecture-seminars-and-talks/)\
 Authors in **bold** were SCOAR Lab members at the time of presentation.

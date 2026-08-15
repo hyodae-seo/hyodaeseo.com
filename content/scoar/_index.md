@@ -1,7 +1,8 @@
 ---
-title: "SCOAR Coupled Modeling System"
+title: 
 
 description: "A regional modeling framework for coupled atmosphere–ocean–wave research."
+
 ---
 
 <style>
@@ -26,6 +27,8 @@ description: "A regional modeling framework for coupled atmosphere–ocean–wav
   .scoar-gallery img { height: auto; max-height: 320px; }
 }
 </style>
+
+#### SCOAR Coupled Modeling System
 
 <p class="scoar-lead">
 The <strong>Scripps Coupled Ocean–Atmosphere Regional (SCOAR)</strong> modeling system is a regional framework that connects the atmosphere, ocean, and surface waves. It couples WRF, ROMS, and WAVEWATCH III (WW3), with air–sea exchange calculated using COARE-based bulk-flux formulations, to investigate feedbacks that uncoupled component models cannot represent.

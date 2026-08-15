@@ -1,16 +1,66 @@
 ---
-title: Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US
+title: (Past) Improving Coupled Atmosphere-Ocean Processes in NU-WRF for the Simulation of Coast-Threatening Extratropical Cyclones in the Northeastern US
 date: 2024-12-19
+short_title: NASA MAP Coupled Storm Prediction
+funding_agency: NASA
+project_url: https://map.nasa.gov/
+links_before_metadata: true
+links:
+  - name: More project description
+    url: /projects/nasa_map/
 ---
+
+<style>
+.article-style { font-size: 0.8rem; }
+.article-container > h1 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.project-personnel h2 { font-size: 0.95rem; font-weight: 700; margin: 1rem 0 0.6rem; }
+.article-style > h2 { font-size: 0.95rem; font-weight: 700; }
+.personnel-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(100px, 150px));
+  gap: 1rem;
+}
+.personnel-card { margin: 0; text-align: center; }
+.personnel-card img {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.personnel-card figcaption { font-size: 0.75rem; line-height: 1.3; margin-top: 0.35rem; }
+@media (max-width: 520px) { .personnel-grid { grid-template-columns: 1fr; } }
+</style>
+
 NASA [Modeling, Analysis, and Prediction (MAP)](https://map.nasa.gov): Seo, Clayson (WHOI)
 
----
 This project will develop a better understanding of the physical processes governing the structure and evolution of the marine atmospheric boundary layer (MABL) in the Northeastern US and the New England shelf regions. Capitalizing on the detailed in situ and remotely sensed observations of coupled boundary layer variables and air-sea fluxes uniquely available in the region, this project will validate and improve the MABL processes in the NASA’s Unified WRF (NU-WRF) modeling system to better represent and forecast extreme coastal storms. By including the full coupling of the regional ocean modeling system (ROMS) and the WaveWatchIII (WW3) to the NU-WRF to exploit the critical wave-ocean coupling effect on the atmosphere, the project will also enable, for the first time, NU-WRF-based coupled hindcast and forecast capabilities of extreme weather events with reduced uncertainty.
 
 <!--more-->
----
 
-![NASA](storm_nasa.gif)
+<section class="project-personnel" aria-labelledby="project-personnel-heading">
+  <h2 id="project-personnel-heading">Project personnel</h2>
+  <div class="personnel-grid">
+    <figure class="personnel-card">
+      <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
+      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br>Principal Investigator</figcaption>
+    </figure>
+    <figure class="personnel-card">
+      <a href="/authors/barr/"><img src="/authors/barr/avatar.jpg" alt="Ben Barr"></a>
+      <figcaption><a href="/authors/barr/"><strong>Ben Barr</strong></a><br>Postdoctoral Researcher</figcaption>
+    </figure>
+    <figure class="personnel-card">
+      <a href="/authors/sauvage/"><img src="/authors/sauvage/avatar.jpg" alt="César Sauvage"></a>
+      <figcaption><a href="/authors/sauvage/"><strong>César Sauvage</strong></a><br>Oceanographer Researcher</figcaption>
+    </figure>
+  </div>
+</section>
+
+## Research approach
+
 The project will undertake comprehensive modeling and validation efforts of the planetary boundary layer (PBL) schemes in the NU-WRF model under various MABL conditions, including extreme extratropical cyclones and stable boundary layers. The simulation of turbulent fluxes of momentum, heat, and moisture in the surface layer and their coupling with the PBL in the NU-WRF will be improved by correctly incorporating the Coupled Ocean-Atmosphere Response Experiment (COARE) bulk flux algorithm, and also directly incorporating ROMS and WW3 into the NU-WRF system. We will then carry out a series of case study simulations using this newly coupled NU-WRF model to quantify the impacts of the ocean/wave coupling on the NU-WRF simulation skills of extreme storms.
 
 The project’s most significant outcome is to solidify the dynamical framework for enhancing our scientific understanding of air-sea coupling and PBL dynamics in high-resolution numerical models by demonstrating how a better understanding and representation of the MABL processes improves the fidelity and accuracy of weather and climate prediction models. The project will also provide new and improved NU-WRF hindcast/forecast capabilities over the ocean, with differing levels of representation of the ocean and waves coupling options. The improved COARE bulk flux algorithm will be coupled with a variety of available surface flux and PBL schemes within WRF, immediately benefiting the broad WRF modeling community.

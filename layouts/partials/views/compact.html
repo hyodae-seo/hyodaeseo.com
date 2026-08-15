@@ -1,0 +1,125 @@
+{{ $item := .item }}
+{{ $is_project := in (slice "project" "projects") $item.Type }}
+{{ $show_authors_only := false }}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+{{ if in (slice "event" "publication" "project") $item.Type }}
+  {{ $show_authors_only = true }}
+{{ end }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if $item.Params.abstract }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
+{{ if $is_project }}
+<style>
+.project-card-compact {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 1rem;
+}
+.project-card-compact > .media-body { display: contents; }
+.project-card-compact .article-title {
+  grid-column: 1 / -1;
+  grid-row: 1;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+.project-card-compact.has-title-thumbnail .article-title { grid-column: 1; }
+.project-card-compact .title-thumbnail {
+  grid-column: 2;
+  grid-row: 1;
+  align-self: start;
+}
+.project-card-compact .summary-link { grid-column: 1; grid-row: 2; }
+.project-card-compact .btn-links { grid-column: 1; }
+.project-card-compact .stream-meta { grid-column: 1; }
+.project-card-compact .project-thumbnail { grid-column: 2; grid-row: 2 / span 4; margin-left: 0 !important; }
+@media (max-width: 640px) {
+  .project-card-compact { grid-template-columns: 1fr; }
+  .project-card-compact .article-title,
+  .project-card-compact .title-thumbnail,
+  .project-card-compact .summary-link,
+  .project-card-compact .btn-links,
+  .project-card-compact .stream-meta,
+  .project-card-compact .project-thumbnail { grid-column: 1; }
+  .project-card-compact .project-thumbnail { grid-row: auto; margin-top: 0.75rem; }
+  .project-card-compact .title-thumbnail { grid-row: 2; margin: 0.5rem 0 0; }
+}
+</style>
+{{ end }}
+
+<div class="media stream-item view-compact{{ if $is_project }} project-card-compact{{ end }}{{ if $item.Params.title_thumbnail }} has-title-thumbnail{{ end }}">
+  <div class="media-body">
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+    </div>
+
+    {{ with $item.Params.title_thumbnail }}
+      {{ $title_image := resources.GetMatch (path.Join "media" .) }}
+      {{ with $title_image }}
+        {{ $title_width := $item.Params.title_thumbnail_width | default 80 }}
+        {{ $title_image = .Resize (printf "%dx" $title_width) }}
+        <div class="title-thumbnail">
+          <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+            <img src="{{ $title_image.RelPermalink }}" width="{{ $title_image.Width }}" height="{{ $title_image.Height }}" alt="Office of Naval Research logo" loading="lazy">
+          </a>
+        </div>
+      {{ end }}
+    {{ end }}
+
+    {{ with $summary }}
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+      <div class="article-style">{{ . }}</div>
+    </a>
+    {{ end }}
+
+    {{ if and $has_attachments $item.Params.links_before_metadata }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
+
+    <div class="stream-meta article-metadata">
+      {{ if eq $item.Type "event" }}
+      <div>
+        <span>{{ partial "functions/get_event_dates" $item }}</span>
+        {{ with $item.Params.location }}<span class="middot-divider"></span><span>{{ . }}</span>{{ end }}
+      </div>
+      {{ end }}
+      {{ if and $show_authors_only $item.Params.authors }}
+        <div>{{ partial "page_metadata_authors" $item }}</div>
+      {{ else if not $show_authors_only }}
+        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+      {{ end }}
+    </div>
+
+    {{ if and $has_attachments (not $item.Params.links_before_metadata) }}
+    <div class="btn-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+    {{ end }}
+  </div>
+
+  <div class="ml-3 project-thumbnail">
+    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+    {{ with $resource }}
+      {{ $thumbnail_width := $item.Params.card_image_width | default 150 }}
+      {{ $image := .Resize (printf "%dx" $thumbnail_width) }}
+      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" alt="{{ $item.Title }}" loading="lazy">
+      </a>
+    {{ end }}
+  </div>
+</div>

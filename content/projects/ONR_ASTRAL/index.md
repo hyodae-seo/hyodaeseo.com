@@ -1,17 +1,62 @@
 ---
 title: Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea
 date: 2024-12-19
+short_title: ONR ASTraL Arabian Sea Air–Sea Fluxes
+funding_agency: Office of Naval Research
+links_before_metadata: true
+links:
+  - name: More project description
+    url: /projects/onr_astral/
 ---
 
-ONR [The Arabian Sea Transition Layer (ASTRAL) DRI](https://www.onr.navy.mil/organization/departments/code-32/division-322/physical-oceanography/astral), Exchange Across the Air-Sea Interface: Seo
+<style>
+.article-style { font-size: 0.8rem; }
+.article-container > h1 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.project-personnel h2 { font-size: 0.95rem; font-weight: 700; margin: 1rem 0 0.6rem; }
+.article-style > h2 { font-size: 0.95rem; font-weight: 700; }
+.personnel-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(100px, 150px));
+  gap: 1rem;
+}
+.personnel-card { margin: 0; text-align: center; }
+.personnel-card img {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.personnel-card figcaption { font-size: 0.75rem; line-height: 1.3; margin-top: 0.35rem; }
+@media (max-width: 520px) { .personnel-grid { grid-template-columns: 1fr; } }
+</style>
 
----
+
+Office of Naval Research [Arabian Sea Transition Layer (ASTraL) DRI](https://www.onr.navy.mil/organization/departments/code-32/division-322/physical-oceanography/astral), Exchange Across the Air–Sea Interface. PI: Hyodae Seo.
 
 ASTraL will improve in situ characterization of air-sea exchanges of heat, mass, and momentum, including amplitudes and space-time variability, and provide useful and practical observational constraints for prediction models across scales. Since air-sea fluxes and their interactions with turbulent boundary layers in the ocean and atmosphere are entirely parameterized in prediction models, accurate representation of these coupled interactions is critical for improved predictive capabilities in Earth System modeling. We propose a model-data synthesis project that will validate, refine, and re-engineer (if necessary) the parameterizations for air-sea fluxes mediated by surface waves and their interaction with turbulent boundary layer processes in the Arabian Sea. The focus is on the spring-to-summer transition season, where the Arabian Sea exhibits peculiar sea states dominated by swell and mixed seas, whose effects on air-sea fluxes remain poorly captured even in the most advanced bulk flux algorithms. Subsequent impacts on the formation and collapse of the mini-warm pool and the onset of the summer monsoons in simulation and forecast models must be quantified.
 <!--more-->
 ---
 
-![ASTRAL](astral.png)
+
+<section class="project-personnel" aria-labelledby="project-personnel-heading">
+  <h2 id="project-personnel-heading">Project personnel</h2>
+  <div class="personnel-grid">
+    <figure class="personnel-card">
+      <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
+      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br>Principal Investigator</figcaption>
+    </figure>
+    <figure class="personnel-card">
+      <a href="/authors/kerhalkar/"><img src="/authors/kerhalkar/avatar.jpg" alt="Sid Kerhalkar"></a>
+      <figcaption><a href="/authors/kerhalkar/"><strong>Sid Kerhalkar</strong></a><br>Postdoctoral Researcher</figcaption>
+    </figure>
+  </div>
+</section>
+
+## Research approach
 
 A crucial element of the project is to use the high-resolution, fully coupled ocean-atmosphere-wave model simulations to validate and refine critical aspects of the “wave-based” air-sea flux parameterizations in the latest and next-generation COARE algorithm against the existing and future in situ measurements in the region. This will, in turn, constrain the existing wave-mediated (or wave-aware) parameterizations for turbulent exchanges and dissipation in the oceanic and atmospheric boundary layers over multiple winds and wave conditions. The improved bulk formula and turbulent boundary layer coupling procedures will be implemented and tested in Weather and Research Forecast (WRF) and Coupled Forecast System version 2 (CFSv2), the models that are currently operational in various institutions across India and the US, to characterize the upper ocean and lower atmospheric structure over the mini warm pool and determine the simulation and prediction sensitivity of monsoon onset vortex and monsoon precipitation.
 
