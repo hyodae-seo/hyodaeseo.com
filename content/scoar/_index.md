@@ -50,8 +50,12 @@ SCOAR supports interactive exchanges among the components, allowing the simulate
 
 ### Brief history
 
-SCOAR was developed at Scripps Institution of Oceanography, initially coupling the Regional Spectral Model (RSM) with ROMS ([Seo et al., 2007b](/pubs/papers/scoar_jcli.07.pdf)).
-At Woods Hole Oceanographic Institution, the system was extended to WRF–ROMS coupling ([Seo and Yang, 2013](scoar_jcli.07.pdf)a, including applications to the Arctic atmospheric boundary layer. Putrasahan et al. (2013) introduced scale-selective interactive SST coupling, and Seo et al. (2014) later extended the feedbacks to include surface currents. Sauvage et al. (2023) added WW3 coupling. SCOAR is now maintained and extended by the Seo Lab at the University of Hawaiʻi at Mānoa. See the [publication list](/pubs/) for the cited studies.
+SCOAR was developed at Scripps Institution of Oceanography, initially coupling the Regional Spectral Model (RSM) with ROMS ([Seo et al. 2007b](/pubs/papers/scoar_jcli.07.pdf)).
+At Woods Hole Oceanographic Institution, the system was extended to WRF–ROMS coupling ([Seo and Yang, 2013)](/pubs/papers/seo.yang_.13.jgra_.pdf), including applications to the Arctic atmospheric boundary layer. 
+[Putrasahan et al. (2013)](/pubs/papers/putrasahan.etal_.13.dao_.kuroshio.pdf) introduced scale-selective interactive SST coupling, and [Seo et al. (2014)](/pubs/papers/seo.etal_.16.ccs_.eddy_.pdf) later extended the feedbacks to include surface currents. [Sauvage et al. (2023)](/pubs/papers/sauvage.etal_.23.jgro_.wave_flux.pdf) incorporated WW3 coupling. 
+SCOAR is now maintained and extended by the [Seo Lab](https://www.hyodaeseo.com) at the University of Hawaiʻi at Mānoa. 
+See [Publications](/pubs/) for the cited studies and [Presentations](/present/) for oral and poster presentations.
+
 
 ### Coupling architecture
 
@@ -149,4 +153,4 @@ For reproducibility, record the SCOAR commit, component-model versions, compiler
 </tr>
 </table>
 
-The SCOAR framework has been applied across tropical-cyclone, atmospheric-river, coastal, offshore-wind, and tropical-Pacific research. See the [publication list](/pubs/) and [current projects](/projects/) for peer-reviewed results and ongoing applications.
+The SCOAR framework has been applied across tropical-cyclone, atmospheric-river, coastal, offshore-wind, and tropical-Pacific research. See the [publication](/pubs/) and [current projects](/projects/) for peer-reviewed results and ongoing applications.
