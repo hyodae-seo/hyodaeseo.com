@@ -9,17 +9,23 @@ description: "A regional modeling framework for coupled atmosphere–ocean–wav
 .article-container { max-width: 1100px; }
 .article-title { font-size: 1.6rem; line-height: 1.25; }
 .article-style { font-size: 0.82rem; line-height: 1.5; }
-.scoar-lead { font-size: inherit; line-height: 1.6; max-width: 900px; }
+.scoar-intro { align-items: stretch; display: grid; gap: 1rem; grid-template-columns: minmax(0, 1fr) 240px; }
+.scoar-lead { font-size: inherit; line-height: 1.6; margin: 0; }
+.scoar-overview { min-height: 0; position: relative; }
+.scoar-overview img { display: block; height: 100%; inset: 0; margin: 0; object-fit: contain; position: absolute; width: 100%; }
 .scoar-actions { display: flex; flex-wrap: wrap; gap: .7rem; margin: 1.25rem 0 1.75rem; }
 .scoar-actions a { background: #1769aa; border-radius: .35rem; color: #fff !important; font-weight: 600; padding: .62rem .95rem; text-decoration: none; }
 .scoar-actions a:hover { background: #0d4f86; }
-.scoar-architecture img { display: block; height: auto; margin: 1.3rem auto; width: min(100%, 850px); }
+.scoar-architecture img { display: block; height: auto; margin: 1.3rem auto; width: min(100%, 550px); }
 .scoar-note { background: #f3f7fa; border-left: 4px solid #1769aa; margin: 1rem 0; padding: .85rem 1rem; }
 .article-style table { display: table; font-size: inherit; width: 100%; }
 .article-style th { background: #edf4f8; }
 .scoar-gallery img { border: 1px solid #d8dfe5; border-radius: .3rem; height: 230px; object-fit: contain; width: 100%; }
 .scoar-gallery td { vertical-align: top; width: 33.333%; }
 @media (max-width: 760px) {
+  .scoar-intro { grid-template-columns: 1fr; }
+  .scoar-overview { height: auto; max-width: 240px; }
+  .scoar-overview img { height: auto; position: static; }
   .scoar-actions { display: grid; }
   .scoar-actions a { text-align: center; }
   .article-style table { display: block; overflow-x: auto; }
@@ -30,9 +36,19 @@ description: "A regional modeling framework for coupled atmosphere–ocean–wav
 
 #### SCOAR Coupled Modeling System
 
+<div class="scoar-intro">
+
 <p class="scoar-lead">
-The <strong>Scripps Coupled Ocean–Atmosphere Regional (SCOAR)</strong> modeling system is a regional framework that connects the atmosphere, ocean, and surface waves. It couples WRF, ROMS, and WAVEWATCH III (WW3), with air–sea exchange calculated using COARE-based bulk-flux formulations, to investigate feedbacks that uncoupled component models cannot represent.
+The <strong>SCOAR</strong> modeling system is a regional framework that connects the atmosphere, ocean, and surface waves. It couples WRF, ROMS, and WAVEWATCH III (WW3), with air–sea exchange calculated using COARE-based bulk-flux formulations, to investigate feedbacks that uncoupled component models cannot represent.
 </p>
+
+<div class="scoar-overview">
+
+![SCOAR coupled ocean–atmosphere–wave modeling system](images/scoar3.png)
+
+</div>
+
+</div>
 
 <div class="scoar-actions">
   <a href="https://github.com/uh-manoa-scoar/scoar">View source on GitHub</a>
@@ -40,7 +56,7 @@ The <strong>Scripps Coupled Ocean–Atmosphere Regional (SCOAR)</strong> modelin
   <a href="/pubs/">Browse SCOAR publications</a>
 </div>
 
-### SCOAR
+#### SCOAR
 
 SCOAR supports interactive exchanges among the components, allowing the simulated ocean and sea state to influence the atmosphere while atmospheric forcing modifies currents, temperature, and waves. This framework is designed for questions involving:
 
@@ -51,7 +67,7 @@ SCOAR supports interactive exchanges among the components, allowing the simulate
 - Mesoscale and frontal air–sea interaction, with online spatial filtering options for separating scales.
 - Flexible atmosphere–ocean, atmosphere–wave, and ocean–wave coupling strategies.
 
-### Brief history
+#### Brief history
 
 SCOAR was developed at Scripps Institution of Oceanography, initially coupling the Regional Spectral Model (RSM) with ROMS ([Seo et al. 2007b](/pubs/papers/scoar_jcli.07.pdf)).
 At Woods Hole Oceanographic Institution, the system was extended to WRF–ROMS coupling ([Seo and Yang, 2013)](/pubs/papers/seo.yang_.13.jgra_.pdf), including applications to the Arctic atmospheric boundary layer. 
@@ -60,7 +76,7 @@ SCOAR is now maintained and extended by the [Seo Lab](https://www.hyodaeseo.com)
 See [Publications](/pubs/) for the cited studies and [Presentations](/present/) for oral and poster presentations.
 
 
-### Coupling architecture
+#### Coupling architecture
 
 | Component | Primary role | Representative fields exchanged |
 |---|---|---|
@@ -75,7 +91,7 @@ See [Publications](/pubs/) for the cited studies and [Presentations](/present/) 
 
 </div>
 
-### Software requirements
+#### Software requirements
 
 SCOAR is the coupling layer; the component models must be downloaded, configured, compiled, and tested separately.
 
@@ -93,7 +109,7 @@ SCOAR is the coupling layer; the component models must be downloaded, configured
 <strong>Compatibility note:</strong> exact model versions, compiler choices, coupling options, and namelist settings are experiment-specific. Confirm them against the selected SCOAR branch and its configuration files before beginning a production simulation.
 </div>
 
-### Quick start
+#### Quick start
 
 1. **Clone SCOAR.**
 
@@ -128,7 +144,7 @@ This starter workflow provides a reproducible structure for a short atmosphere�
 
 For reproducibility, record the SCOAR commit, component-model versions, compiler/MPI/NetCDF environment, forcing-data sources, coupling interval, namelists, and postprocessing commands. Begin with the repository’s [`Tutorial_Doc`](https://github.com/uh-manoa-scoar/scoar/tree/main/Tutorial_Doc) and [`Data/domains`](https://github.com/uh-manoa-scoar/scoar/tree/main/Data/domains) directories.
 
-### Example applications
+#### Example applications
 
 <table class="scoar-gallery">
 <tr>

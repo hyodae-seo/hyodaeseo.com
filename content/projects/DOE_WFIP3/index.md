@@ -40,20 +40,31 @@ U.S. Department of Energy [Wind Forecast Improvement Project III (WFIP-3)](https
 
 This is a comprehensive observational and modeling study of the coupled atmospheric and oceanic boundary layers that will dramatically improve offshore windresource measurement and modeling science. Focusing on physical processes relevant to all U.S. offshore wind energy areas via observations of the Northeast U.S. outer continental shelf, this effort will increase our understanding of the coupled atmosphere-ocean system in wind energy areas as well as improve our ability to reliably predict boundary layer winds and properties critical for industry-specific resource assessment, load analyses, and design criteria. 
 
-The Northeast shelf is home to five major offshore wind energy lease areas, including areas likely to be active and in construction during the field campaign, in addition to numerous ongoing scientific monitoring efforts. This study will combine the observational efforts of a diverse, experienced group of research and industry partners with an expert modeling team to improve wind resource forecasting abilities in an area with challenging offshore meteorological and oceanic conditions.<!--more-->
+The Northeast shelf is home to five major offshore wind energy lease areas, including areas likely to be active and in construction during the field campaign, in addition to numerous ongoing scientific monitoring efforts. This study will combine the observational efforts of a diverse, experienced group of research and industry partners with an expert modeling team to improve wind resource forecasting abilities in an area with challenging offshore meteorological and oceanic conditions.
+
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
-  <h2 id="project-personnel-heading">Project personnel</h2>
+  <h2 id="project-personnel-heading"></h2>
   <div class="personnel-grid">
+    <figure class="personnel-card agency-card">
+      <a href="https://www.energy.gov/"><img src="/projects/doe_wfip3/doe.png" alt="Department of Energy"></a>
+      <figcaption><a href="https://www.doe.gov/"><strong>DOE</strong></a><br></figcaption>
+    </figure>
     <figure class="personnel-card">
       <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
-      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br>Principal Investigator</figcaption>
+      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br></figcaption>
+    </figure>
+    <figure class="personnel-card">
+      <a href="/author/christoph-renkl/"><img src="/author/christoph-renkl/avatar.jpg" alt="Christoph Renkl"></a>
+      <figcaption><a href="/authors/renkl/"><strong>Christoph Renkl</strong></a><br></figcaption>
     </figure>
     <figure class="personnel-card">
       <a href="/authors/sauvage/"><img src="/authors/sauvage/avatar.jpg" alt="César Sauvage"></a>
-      <figcaption><a href="/authors/sauvage/"><strong>César Sauvage</strong></a><br>Oceanographer Researcher</figcaption>
+      <figcaption><a href="/authors/sauvage/"><strong>César Sauvage</strong></a><br></figcaption>
     </figure>
   </div>
 </section>
+
+<!--more-->
 
 ## Publications
 Sauvage, C., H. Seo, S. Zippel, C.-A. Clayson, and J. B. Edson, 2025: Fetch-dependent Surface Wave Responses To Offshore Wind Farms in the Northeast U.S. Coast, J. Geophys. Res. Oceans, 130, e2025JC023156 https://doi.org/10.1029/2025JC023156.

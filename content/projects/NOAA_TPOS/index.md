@@ -37,22 +37,25 @@ links:
 NOAA [Climate Variability & Predictability (CVP)](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/climate-variability-predictability/) [Tropical Pacific Observing System (TPOS)](https://globalocean.noaa.gov/research/tropical-pacific-observing-system/) Pre-field Modeling: Seo, Wijffels (WHOI)
 
 The goal of the TPOS2020 project is to design an efficient and effective backbone observing system to better understand the processes in the tropical Pacific that are instrumental to the El Niño-Southern Oscillation (ENSO) and provide useful observational constraints for predictions. The process studies being planned in the western and eastern equatorial Pacific are intended to shed light on physical processes and guide the design and development of the TPOS.
-<!--more-->
 
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
-  <h2 id="project-personnel-heading">Project personnel</h2>
+  <h2 id="project-personnel-heading"></h2>
   <div class="personnel-grid">
-    <figure class="personnel-card">
-      <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
-      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br>Principal Investigator</figcaption>
+    <figure class="personnel-card agency-card">
+      <a href=https://www.noaa.gov/"><img src="/projects/noaa_tpos/noaa.png" alt="NOAA logo"></a>
+      <figcaption><a href="https://www.noaa.gov/"><strong>NOAA</strong></a><br></figcaption>
     </figure>
     <figure class="personnel-card">
-      <a href="/authors/rai/"><img src="/authors/rai/avatar.jpg" alt="Shikhar Rai"></a>
-      <figcaption><a href="/authors/rai/"><strong>Shikhar Rai</strong></a><br>Postdoctoral Researcher</figcaption>
+      <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
+      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br></figcaption>
+    </figure>
+    <figure class="personnel-card">
+      <a href="/author/shikhar-rai/"><img src="/author/shikhar-rai/avatar.jpg" alt="Shikhar Rai"></a>
+      <figcaption><a href="/authos/shikhar-rai/"><strong>Shikhar Rai</strong></a><br></figcaption>
     </figure>
   </div>
 </section>
-
+<!--more-->
 
 ## Research approach
 

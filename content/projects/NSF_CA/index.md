@@ -39,23 +39,26 @@ NSF Physical Oceanography (PO) & Climate and Large-scale Dynamics (CLD): Seo, Mi
 
 The coastal climate of California is profoundly affected by the ocean, which moderates its hot summers and provides moisture for much-needed winter rains. While the importance and impact of the mean state of the ocean are well appreciated, the impact of the anomalous state of the ocean on coastal climate is far less well understood. Sea surface temperature (SST) and ocean surface current anomalies, ranging from the meso-to-frontal scales of cool coastal upwelling to the regional-to-basin scales of the marine heat waves of the “Blobs”, are inherently coupled with the atmosphere. The fundamental coupled ocean-atmosphere feedback processes that affect the climate, weather, and upwelling along the coast are the focus of this study.
 
-<!--more-->
-
-
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
-  <h2 id="project-personnel-heading">Project personnel</h2>
+  <h2 id="project-personnel-heading"></h2>
   <div class="personnel-grid">
-    <figure class="personnel-card">
-      <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
-      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br>Principal Investigator</figcaption>
+    <figure class="personnel-card agency-card">
+      <a href=https://www.nsf.gov/"><img src="/projects/nsf_ne/nsf.png" alt="National Science Foundataion logo"></a>
+      <figcaption><a href="https://www.nsf.gov/"><strong>NSF</strong></a><br></figcaption>
     </figure>
     <figure class="personnel-card">
-      <a href="/authors/renkl/"><img src="/authors/renkl/avatar.jpg" alt="Christoph Renkl"></a>
-      <figcaption><a href="/authors/renkl/"><strong>Christoph Renkl</strong></a><br>Postdoctoral Researcher</figcaption>
+      <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
+      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br></figcaption>
+    </figure>
+    <figure class="personnel-card">
+      <a href="/author/christoph-renkl/"><img src="/author/christoph-renkl/avatar.jpg" alt="Christoph Renkl"></a>
+      <figcaption><a href="/authors/renkl/"><strong>Christoph Renkl</strong></a><br></figcaption>
     </figure>
   </div>
 </section>
 
+
+<!--more-->
 
 ## Publication: 
 

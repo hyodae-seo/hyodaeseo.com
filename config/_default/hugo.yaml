@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Seo Lab at UH Mānoa # Website name
+title: Seo Coupled Ocean Atmosphere Research Lab # Website name
 baseURL: 'https://hyodae-seo.github.io/' # Website URL
 
 ############################

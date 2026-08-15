@@ -19,42 +19,72 @@ links:
 .project-personnel h2 { font-size: 0.95rem; font-weight: 700; margin: 1rem 0 0.6rem; }
 .article-style > h2 { font-size: 0.95rem; font-weight: 700; }
 .personnel-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(100px, 150px));
+  display: flex !important;
+  flex-flow: row nowrap !important;
+  align-items: flex-start;
   gap: 1rem;
+  width: 100%;
+  max-width: none;
 }
-.personnel-card { margin: 0; text-align: center; }
+.personnel-card {
+  flex: 0 0 120px !important;
+  width: 120px !important;
+  min-width: 120px;
+  margin: 0 !important;
+  text-align: center;
+}
 .personnel-card img {
-  width: 96px;
-  height: 96px;
+  display: block;
+  width: 96px !important;
+  height: 96px !important;
+  max-width: none;
+  margin: 0 auto;
   border-radius: 50%;
   object-fit: cover;
 }
 .personnel-card figcaption { font-size: 0.75rem; line-height: 1.3; margin-top: 0.35rem; }
-@media (max-width: 520px) { .personnel-grid { grid-template-columns: 1fr; } }
+@media (max-width: 520px) {
+  .personnel-grid { gap: 0.25rem; }
+  .personnel-card {
+    flex-basis: 72px !important;
+    width: 72px !important;
+    min-width: 72px;
+  }
+  .personnel-card img { width: 64px !important; height: 64px !important; }
+  .personnel-card figcaption { font-size: 0.65rem; }
+}
 </style>
 
 
 Office of Naval Research [Arabian Sea Transition Layer (ASTraL) DRI](https://www.onr.navy.mil/organization/departments/code-32/division-322/physical-oceanography/astral), Exchange Across the Air–Sea Interface. PI: Hyodae Seo.
 
 ASTraL will improve in situ characterization of air-sea exchanges of heat, mass, and momentum, including amplitudes and space-time variability, and provide useful and practical observational constraints for prediction models across scales. Since air-sea fluxes and their interactions with turbulent boundary layers in the ocean and atmosphere are entirely parameterized in prediction models, accurate representation of these coupled interactions is critical for improved predictive capabilities in Earth System modeling. We propose a model-data synthesis project that will validate, refine, and re-engineer (if necessary) the parameterizations for air-sea fluxes mediated by surface waves and their interaction with turbulent boundary layer processes in the Arabian Sea. The focus is on the spring-to-summer transition season, where the Arabian Sea exhibits peculiar sea states dominated by swell and mixed seas, whose effects on air-sea fluxes remain poorly captured even in the most advanced bulk flux algorithms. Subsequent impacts on the formation and collapse of the mini-warm pool and the onset of the summer monsoons in simulation and forecast models must be quantified.
-<!--more-->
----
 
 
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
-  <h2 id="project-personnel-heading">Project personnel</h2>
+  <h2 id="project-personnel-heading"></h2>
   <div class="personnel-grid">
+    <figure class="personnel-card agency-card">
+      <a href="https://www.onr.navy.mil/"><img src="/projects/onr_safari/onr_logo.png" alt="Office of Naval Research logo"></a>
+      <figcaption><a href="https://www.onr.navy.mil/"><strong>ONR</strong></a><br></figcaption>
+    </figure>
     <figure class="personnel-card">
       <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
-      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br>Principal Investigator</figcaption>
+      <figcaption><a href="/authors/seo/"><strong>Hyodae Seo</strong></a><br></figcaption>
     </figure>
     <figure class="personnel-card">
       <a href="/authors/kerhalkar/"><img src="/authors/kerhalkar/avatar.jpg" alt="Sid Kerhalkar"></a>
       <figcaption><a href="/authors/kerhalkar/"><strong>Sid Kerhalkar</strong></a><br>Postdoctoral Researcher</figcaption>
     </figure>
+    <figure class="personnel-card">
+      <a href="/authors/sauvage/"><img src="/authors/sauvage/avatar.jpg" alt="César Sauvage"></a>
+      <figcaption><a href="/authors/sauvage/"><strong>César Sauvage</strong></a><br></figcaption>
+    </figure>
   </div>
 </section>
+
+<!--more-->
+---
 
 ## Research approach
 
