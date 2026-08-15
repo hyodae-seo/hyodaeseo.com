@@ -1,5 +1,5 @@
 ---
-title: "SCOAR Regional Coupled Modeling System"
+title: "SCOAR Coupled Modeling System"
 
 description: "A regional modeling framework for coupled atmosphere–ocean–wave research."
 ---
