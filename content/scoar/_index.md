@@ -140,7 +140,7 @@ For reproducibility, record the SCOAR commit, component-model versions, compiler
 
 ![Sea-surface temperature response beneath Typhoon Khanun](images/khanun_sst.gif)
 
-**Sea state and surface drag under tropical cyclones.** SCOAR supports studies of evolving sea states, wave–wind misalignment, upper-ocean cooling, and drag-coefficient behavior under extreme winds. This example shows the sea-surface temperature response beneath Typhoon Khanun (2023). [Related project →](/projects/onr_astral/)
+**Sea state and surface drag under tropical cyclones.** SCOAR supports studies of evolving sea states, wave–wind misalignment, upper-ocean cooling, and drag-coefficient behavior under extreme winds. This example shows the sea-surface temperature response beneath Typhoon Khanun (2023).
 
 </td>
 <td>
