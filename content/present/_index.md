@@ -11,11 +11,11 @@ build:
   max-width: 1000px;
 }
 .article-style {
-  font-size: 0.76rem;
+  font-size: 0.86rem;
   line-height: 1.25;
 }
 .article-style h2 {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   margin-top: 1.8rem;
 }
 .article-style h3 {
@@ -23,6 +23,12 @@ build:
   line-height: 1.3;
   margin-bottom: 0.45rem;
   color: #2962a3;
+}
+.presentation-intro {
+  font-size: 0.86rem;
+}
+.presentation-intro p {
+  margin-bottom: 0.65rem;
 }
 .article-style hr {
   clear: both;
@@ -42,14 +48,16 @@ build:
 
 ### Presentations
 
-For earlier work, see [selected presentations prior to 2024 from WHOI](https://hseo.whoi.edu/lecture-seminars-and-talks/)\
-Authors in **bold** were SCOAR Lab members at the time of presentation.
-
-**Browse by year:** [2026](#2026) · [2025](#2025) · [2024](#2024)
+<div class="presentation-intro">
+  <p>The SCOAR Lab regularly presents its research at national and international conferences, workshops, and seminars to disseminate new findings and foster scientific collaboration. Our presentations span air–sea interaction, surface waves, offshore wind energy, extreme weather, regional climate, and coupled physical processes. This work integrates observations and numerical models with advanced statistical methods, dynamical modeling, and data-driven approaches.</p>
+  <p>For earlier work, see <a href="https://hseo.whoi.edu/lecture-seminars-and-talks/">selected presentations prior to 2024 from WHOI</a><br>
+  Authors in <strong>bold</strong> were SCOAR Lab members at the time of presentation.</p>
+  <p><strong>Browse by year:</strong> <a href="#2026">2026</a> · <a href="#2025">2025</a> · <a href="#2024">2024</a></p>
+</div>
 
 ---
 
-## 2026
+### 2026
 
 <a class="presentation-preview-link" href="/present/pdfs/2026/SNU_Workshop_Hyodae_Seo.pdf"><img class="presentation-preview" src="/present/thumbnails/2026/SNU_Workshop_Hyodae_Seo.png" alt="First slide of the directional wave–wind coupling presentation" width="260" align="right"></a>
 
@@ -183,7 +191,7 @@ Honolulu, Hawaiʻi, USA · March 12–13, 2026
 
 ---
 
-## 2025
+### 2025
 
 ### Improving Air–Sea Flux Parameterizations for the Diabatic Effects of Ocean and Surface Waves in Atmospheric Rivers
 
@@ -298,7 +306,7 @@ Virtual · January 2025
 
 ---
 
-## 2024
+### 2024
 
 ### Surface-Drag Effects of Wave–Wind Misalignment: Examples, Parameterizations, and Impacts
 
@@ -326,4 +334,3 @@ Santa Cruz, California, USA · March 1, 2024
 Chennai, India · January 11, 2024
 
 ---
-
