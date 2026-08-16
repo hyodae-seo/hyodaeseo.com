@@ -1,6 +1,7 @@
 ---
-title: People
+title: People Preview
 date: 2026-08-15
+draft: true
 type: landing
 show_date: false
 
