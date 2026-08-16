@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 
 show_date: false
 description: Peer-reviewed publications, submitted manuscripts, and work in preparation from Hyodae Seo and collaborators.
 ---
@@ -24,6 +24,7 @@ description: Peer-reviewed publications, submitted manuscripts, and work in prep
 </style>
 
 
+#### Publications
 <div class="pub-intro">
   <a href="https://scholar.google.com/citations?user=gjReCAkAAAAJ&amp;hl=en"><strong>Google Scholar Citations</strong></a><br>
   Authors in <strong>bold</strong> indicate members of the Seo Lab.
