@@ -49,7 +49,7 @@ sections:
       title: How we study the coupled Earth system
       text: |
         <style>
-        .home-preview-hero { padding-top: 3rem !important; padding-bottom: 1.2rem !important; }
+        .home-preview-hero { padding-top: 3rem !important; padding-bottom: 2rem !important; }
         .home-preview-hero .hero-title { font-size: clamp(1rem, 1.8vw, 1.35rem); font-weight: 750; letter-spacing: -0.02em; line-height: 1.15; }
         .home-preview-hero .hero-lead { font-size: 0.9rem; line-height: 1.55; max-width: 620px; }
         .home-preview-hero .hero-media img { border-radius: 0.55rem; box-shadow: 0 12px 30px rgba(29, 49, 66, 0.14); }
@@ -88,7 +88,7 @@ sections:
           .home-preview-logos { gap: 0.3rem; }
           .home-preview-logos a { min-height: 70px; }
           .home-preview-logos img { height: 64px; max-width: 105px; }
-          .home-preview-hero { padding-top: 1.5rem !important; padding-bottom: 0.8rem !important; }
+          .home-preview-hero { padding-top: 1.5rem !important; padding-bottom: 1.2rem !important; }
           .home-section:not(.home-preview-hero) { padding-bottom: 0.7rem !important; padding-top: 0.7rem !important; }
           .home-preview-latest .stream-item .project-thumbnail { flex-basis: 105px; margin-left: 0.6rem !important; }
           .home-preview-latest .stream-item .project-thumbnail img { height: 105px !important; max-height: 105px !important; max-width: 105px !important; min-width: 105px; width: 105px !important; }
