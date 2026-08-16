@@ -57,7 +57,7 @@ sections:
         .home-preview-hero .hero-cta-alt { font-size: 0.8rem; }
         .home-code-callout { background: #e2f1fb; border: 2px solid #1769aa; border-left-width: 6px; border-radius: 0.38rem; box-shadow: 0 5px 14px rgba(23, 105, 170, 0.16); color: #17212a; font-size: 0.78rem; line-height: 1.48; margin: 0.9rem 0 0; max-width: 620px; padding: 0.75rem 0.85rem; }
         .home-code-callout strong { background: #1769aa; border-radius: 0.22rem; color: #fff; display: inline-block; font-size: 0.8rem; letter-spacing: 0.01em; margin-bottom: 0.42rem; padding: 0.2rem 0.48rem; }
-        .home-section:not(.home-preview-hero) { padding-bottom: 2rem !important; padding-top: 2rem !important; }
+        .home-section:not(.home-preview-hero) { padding-bottom: 1.1rem !important; padding-top: 1.1rem !important; }
         .home-section .section-heading { margin-bottom: 0.8rem !important; }
         .home-section .section-heading h1 { font-size: 1.15rem; font-weight: 700; line-height: 1.3; }
         .home-preview-logos { align-items: center; display: flex; flex-wrap: nowrap; gap: 0.45rem; margin: 0.8rem 0 0; max-width: 470px; padding-top: 0.65rem; }
@@ -89,7 +89,7 @@ sections:
           .home-preview-logos a { min-height: 70px; }
           .home-preview-logos img { height: 64px; max-width: 105px; }
           .home-preview-hero { padding-top: 1.5rem !important; padding-bottom: 1.5rem !important; }
-          .home-section:not(.home-preview-hero) { padding-bottom: 1.35rem !important; padding-top: 1.35rem !important; }
+          .home-section:not(.home-preview-hero) { padding-bottom: 0.85rem !important; padding-top: 0.85rem !important; }
           .home-preview-latest .stream-item .project-thumbnail { flex-basis: 105px; margin-left: 0.6rem !important; }
           .home-preview-latest .stream-item .project-thumbnail img { height: 105px !important; max-height: 105px !important; max-width: 105px !important; min-width: 105px; width: 105px !important; }
         }
