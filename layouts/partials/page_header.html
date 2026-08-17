@@ -59,7 +59,7 @@
 {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
 
 <div class="article-container pt-3">
-  <h1>{{ $title }}</h1>
+  <h1{{ if eq $page.Type "post" }} class="post-page-title"{{ end }}>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
@@ -85,7 +85,7 @@
     {{ $ctnr = "universal-wrapper" }}
   {{end}}
 <div class="{{$ctnr}} pt-3">
-  <h1>{{ $title }}</h1>
+  <h1{{ if eq $page.Type "post" }} class="post-page-title"{{ end }}>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
