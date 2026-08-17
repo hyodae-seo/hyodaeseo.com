@@ -11,7 +11,11 @@ sections:
       image:
         filename: hyodae_group.jpg
       text: |
-        The **Seo Coupled Ocean–Atmosphere Research (SCOAR) Lab** at the University of Hawaiʻi at Mānoa investigates how the ocean, atmosphere, and surface waves interact across scales—from turbulent air–sea exchange to extreme weather and regional climate.
+        **Hyodae Seo** is a Professor in the Department of Oceanography and Associate Director of the [Uehiro Center for the Advancement of Oceanography](https://www.soest.hawaii.edu/oceanography/uc-ao/).
+
+        The **Seo Coupled Ocean–Atmosphere Research (SCOAR) Lab** investigates how the ocean, atmosphere, and surface waves interact across scales—from turbulent air–sea exchange to extreme weather and regional climate.
+
+        Our research combines observations, theory, [numerical modeling](/scoar/), and data-driven approaches to study coupled ocean–atmosphere–wave dynamics, extreme weather, air–sea exchanges, and short-term climate variability. We aim to improve forecasts, coastal and offshore hazard assessments, resilience to extreme events, and decision-making for communities, infrastructure, and maritime operations.
 
         Our lab also engages the public on critical issues such as extreme weather, climate, and renewable energy, aligning our research efforts with the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals) and [UC•AO activities](https://www.soest.hawaii.edu/oceanography/uc-ao/).
 
@@ -21,10 +25,10 @@ sections:
         </aside>
 
         <div class="home-preview-logos" aria-label="Affiliations and initiatives">
-          <a href="https://manoa.hawaii.edu/" aria-label="Visit the University of Hawaiʻi at Mānoa website" title="University of Hawaiʻi at Mānoa"><img src="/media/home-logos/uh-manoa.png" alt="University of Hawaiʻi at Mānoa logo"></a>
-          <a href="https://www.soest.hawaii.edu/oceanography/uc-ao/" aria-label="Visit the Uehiro Center for the Advancement of Oceanography website" title="Uehiro Center for the Advancement of Oceanography"><img src="/media/home-logos/ucao.png" alt="UC•AO logo"></a>
-          <a href="/scoar/" aria-label="Learn about the SCOAR coupled modeling system" title="SCOAR coupled modeling system"><img src="/media/home-logos/scoar.png" alt="SCOAR logo"></a>
-          <a href="/butterfly/" aria-label="Learn about the Butterfly project" title="Butterfly project"><img src="/media/home-logos/butterfly.png" alt="Butterfly project logo"></a>
+          <a href="https://manoa.hawaii.edu/" aria-label="Visit the University of Hawaiʻi at Mānoa website" title="University of Hawaiʻi at Mānoa"><img src="/media/home-logos/uh-manoa.png" alt="University of Hawaiʻi at Mānoa logo"><span>UH Mānoa</span></a>
+          <a href="https://www.soest.hawaii.edu/oceanography/uc-ao/" aria-label="Visit the Uehiro Center for the Advancement of Oceanography website" title="Uehiro Center for the Advancement of Oceanography"><img src="/media/home-logos/ucao.png" alt="UC•AO logo"><span>UC•AO</span></a>
+          <a href="/scoar/" aria-label="Learn about the SCOAR coupled modeling system" title="SCOAR coupled modeling system"><img src="/media/home-logos/scoar.png" alt="SCOAR logo"><span>SCOAR</span></a>
+          <a href="/butterfly/" aria-label="Learn about the Butterfly project" title="Butterfly project"><img src="/media/home-logos/butterfly.png" alt="Butterfly project logo"><span>Butterfly</span></a>
         </div>
     design:
       css_class: home-preview-hero
@@ -50,21 +54,26 @@ sections:
       text: |
         <style>
         .home-preview-hero { padding-top: 3rem !important; padding-bottom: 2rem !important; }
+        .home-preview-hero .container { max-width: 1440px; width: calc(100% - 2rem); }
         .home-preview-hero .hero-title { font-size: clamp(1rem, 1.8vw, 1.35rem); font-weight: 750; letter-spacing: -0.02em; line-height: 1.15; }
-        .home-preview-hero .hero-lead { font-size: 0.9rem; line-height: 1.55; max-width: 620px; }
-        .home-preview-hero .hero-media img { border-radius: 0.55rem; box-shadow: 0 12px 30px rgba(29, 49, 66, 0.14); }
+        .home-preview-hero .hero-lead { font-size: 0.82rem; line-height: 1.5; max-width: none; }
+        .home-preview-hero .hero-lead > p { margin-bottom: 0.68rem; }
+        .home-preview-hero .hero-media { align-self: start; display: flex; flex-direction: column; justify-self: end; }
+        .home-preview-hero .hero-media img { border-radius: 0.55rem; box-shadow: 0 12px 30px rgba(29, 49, 66, 0.14); height: auto; max-width: 680px; width: 100%; }
+        .home-preview-hero .hero-media::after { color: #59636c; content: "Liam’s, Falmouth, MA, Winter 2023."; display: block; flex: 0 0 auto; font-size: 0.66rem; line-height: 1.4; margin: 0.45rem auto 0; max-width: 680px; text-align: right; width: 100%; }
         .home-preview-hero .btn { font-size: 0.8rem; padding: 0.55rem 0.85rem; }
         .home-preview-hero .hero-cta-alt { font-size: 0.8rem; }
-        .home-code-callout { background: #e2f1fb; border: 2px solid #1769aa; border-left-width: 6px; border-radius: 0.38rem; box-shadow: 0 5px 14px rgba(23, 105, 170, 0.16); color: #17212a; font-size: 0.78rem; line-height: 1.48; margin: 0.9rem 0 0; max-width: 620px; padding: 0.75rem 0.85rem; }
+        .home-code-callout { background: #e2f1fb; border: 2px solid #1769aa; border-left-width: 6px; border-radius: 0.38rem; box-shadow: 0 5px 14px rgba(23, 105, 170, 0.16); box-sizing: border-box; color: #17212a; font-size: 0.78rem; line-height: 1.48; margin: 0.9rem 0 0; max-width: 620px; padding: 0.75rem 0.85rem; width: 100%; }
         .home-code-callout strong { background: #1769aa; border-radius: 0.22rem; color: #fff; display: inline-block; font-size: 0.8rem; letter-spacing: 0.01em; margin-bottom: 0.42rem; padding: 0.2rem 0.48rem; }
         .home-section:not(.home-preview-hero) { padding-bottom: 0.95rem !important; padding-top: 0.95rem !important; }
         .home-section .section-heading { margin-bottom: 0.8rem !important; }
         .home-section .section-heading h1 { font-size: 1.15rem; font-weight: 700; line-height: 1.3; }
-        .home-preview-logos { align-items: center; display: flex; flex-wrap: nowrap; gap: 0.45rem; margin: 0.8rem 0 0; max-width: 470px; padding-top: 0.65rem; }
-        .home-preview-logos a { align-items: center; border-radius: 0.35rem; cursor: pointer; display: flex; flex: 0 0 auto; justify-content: center; min-height: 96px; transition: background-color 150ms ease, transform 150ms ease; }
+        .home-preview-logos { align-items: start; display: grid; gap: 0.35rem; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0.8rem 0 0; max-width: 620px; padding-top: 0.65rem; width: 100%; }
+        .home-preview-logos a { align-items: center; border-radius: 0.35rem; cursor: pointer; display: flex; flex-direction: column; justify-content: flex-start; min-height: 118px; padding: 0.25rem; text-decoration: none !important; transition: background-color 150ms ease, transform 150ms ease; }
         .home-preview-logos a:hover { background: rgba(23, 105, 170, 0.08); transform: translateY(-2px); }
         .home-preview-logos a:focus-visible { outline: 3px solid #1769aa; outline-offset: 3px; }
-        .home-preview-logos img { display: block; height: 90px; max-width: 145px; object-fit: contain; width: auto; }
+        .home-preview-logos img { display: block; height: 84px; max-width: 135px; object-fit: contain; width: 100%; }
+        .home-preview-logos span { color: #27313a; font-size: 0.68rem; font-weight: 650; line-height: 1.2; margin-top: 0.3rem; text-align: center; }
         .home-preview-methods { display: grid; gap: 0.7rem; grid-template-columns: repeat(3, minmax(0, 1fr)); margin-top: 0.8rem; }
         .home-preview-method { background: #f3f7fa; border-top: 3px solid #1769aa; border-radius: 0.3rem; color: #27313a; padding: 0.75rem 0.85rem; }
         .home-preview-method h3 { color: #17212a; font-size: 0.88rem; margin: 0 0 0.3rem; }
@@ -83,11 +92,22 @@ sections:
         .home-preview-latest .stream-item .project-thumbnail { flex: 0 0 180px; margin-left: 1rem !important; }
         .home-preview-latest .stream-item .project-thumbnail img { border-radius: 0.3rem !important; display: block; height: 180px !important; max-height: 180px !important; max-width: 180px !important; min-width: 180px; object-fit: cover; object-position: center; width: 180px !important; }
         .home-preview-latest .stream-item:has(a[href="/post/25-07-01_safari/"]) .project-thumbnail img { background: #fff; object-fit: contain; }
+        @media (min-width: 1100px) {
+          .home-preview-hero .row { align-items: start; display: grid; gap: clamp(1.5rem, 2.5vw, 2.5rem); grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+          .home-preview-hero .row > [class*="col-"] { flex: none; max-width: none; padding-left: 0; padding-right: 0; width: auto; }
+        }
+        @media (max-width: 1099px) {
+          .home-preview-hero .row { display: block; }
+          .home-preview-hero .row > [class*="col-"] { flex: none; max-width: 100%; width: 100%; }
+          .home-preview-hero .hero-media { margin-top: 1.25rem; }
+          .home-preview-hero .hero-media img { margin: 0 auto; max-width: 680px; }
+        }
         @media (max-width: 700px) {
           .home-preview-methods, .home-preview-themes, .home-preview-links { grid-template-columns: 1fr; }
-          .home-preview-logos { gap: 0.3rem; }
-          .home-preview-logos a { min-height: 70px; }
-          .home-preview-logos img { height: 64px; max-width: 105px; }
+          .home-preview-logos { gap: 0.15rem; }
+          .home-preview-logos a { min-height: 86px; padding: 0.15rem; }
+          .home-preview-logos img { height: 60px; max-width: 90px; }
+          .home-preview-logos span { font-size: 0.6rem; margin-top: 0.2rem; }
           .home-preview-hero { padding-top: 1.5rem !important; padding-bottom: 1.2rem !important; }
           .home-section:not(.home-preview-hero) { padding-bottom: 0.7rem !important; padding-top: 0.7rem !important; }
           .home-preview-latest .stream-item .project-thumbnail { flex-basis: 105px; margin-left: 0.6rem !important; }
