@@ -17,6 +17,11 @@ description: Peer-reviewed publications, submitted manuscripts, and work in prep
 .pub-year-nav { align-items: center; border-bottom: 1px solid #dfe5e9; border-top: 1px solid #dfe5e9; display: flex; flex-wrap: wrap; gap: 0.35rem 0.65rem; margin: 0.8rem 0 1.15rem; padding: 0.55rem 0; }
 .pub-year-nav strong { color: #17212a; }
 .pub-year-nav a { font-weight: 600; }
+body.dark .article-style { color: #d7dee4; }
+body.dark .article-style h4,
+body.dark .pub-year-nav strong { color: #f3f6f8; }
+body.dark .article-style hr,
+body.dark .pub-year-nav { border-color: #46535d; }
 @media (max-width: 640px) {
   .article-style { line-height: 1.52; }
   .pub-year-nav { gap: 0.3rem 0.55rem; }

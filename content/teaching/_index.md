@@ -33,6 +33,20 @@ show_date: false
 .archive-item p { margin: 0.1rem 0; }
 .archive-term { color: #657580; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; }
 .resource-link { display: inline-block; font-weight: 600; margin-top: 0.2rem; }
+body.dark .article-style { color: #d7dee4; }
+body.dark .article-style h2,
+body.dark .article-style h3 { color: #f3f6f8; }
+body.dark .teaching-intro { border-left-color: #62afe0; }
+body.dark .teaching-area { background: #243744; color: #c7e5f7; }
+body.dark .course-card { border-color: #46535d; }
+body.dark .course-meta { color: #b7c1c9; }
+body.dark .term-label { background: #267ab5; color: #fff; }
+body.dark .term-label.recent { background: #536570; }
+body.dark .teaching-panel { background: #20282e; }
+body.dark .course-archive { border-top-color: #46535d; }
+body.dark .course-archive summary { color: #78bce8; }
+body.dark .archive-item { border-left-color: #46535d; }
+body.dark .archive-term { color: #aebac3; }
 @media (max-width: 700px) {
   .course-grid, .teaching-columns { grid-template-columns: 1fr; }
 }
