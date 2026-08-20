@@ -67,13 +67,14 @@ body.dark .pub-year-nav { border-color: #46535d; }
 - Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
 *EGU Ocean Science, Submitted*
 
-- Kirincich, A., and coauthors including **H. Seo**, and **C. Sauvage**,
-**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
-*Bull. Amer. Meteo. Soc., Revision Submitted*
-
 ---
 
 #### 2026
+
+73. Kirincich, A., and coauthors including **H. Seo**, and **C. Sauvage**, 2026:
+**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
+*Bull. Amer. Meteo. Soc., Accepted*
+---
 
 72. Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsum Y. Matsumura, **C. Sauvage**, and **C. Renkl**, 2026:
 [**The Role of Time- and Spatially Varying Wind in Coastal Circulation Based on High-Resolution Oceanic and Atmospheric Simulations**](papers/kim.etal.26.pdf),
