@@ -72,8 +72,9 @@ body.dark .pub-year-nav { border-color: #46535d; }
 #### 2026
 
 73. Kirincich, A., and coauthors including **H. Seo**, and **C. Sauvage**, 2026:
-**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.
-*Bull. Amer. Meteo. Soc., Accepted*
+[**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.](papers/kirincich.etal.bams.26.pdf)
+*Bull. Amer. Meteo. Soc.*, 
+https://doi.org/10.1175/BAMS-D-25-0201.1
 ---
 
 72. Kim, Y.-J., K. Tanaka, **H. Seo**, K. Komatsu, Y. Matsumura, **C. Sauvage**, and **C. Renkl**, 2026:
