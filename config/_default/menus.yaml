@@ -27,6 +27,9 @@ main:
   - name: SCOAR
     url: scoar
     weight: 80
+  - name: Windy
+    url: windy
+    weight: 80
   - name: CV
     url: media/CV_Seo_full.pdf
     weight: 90
