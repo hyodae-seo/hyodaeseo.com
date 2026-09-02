@@ -27,7 +27,7 @@ sections:
         .people-preview-section .portrait-title h3 { font-size: 0.72rem; line-height: 1.35; margin-top: 0.15rem; }
         .people-preview-alumni { background: #f6f8fa; }
         .people-preview-whoi-alumni { background: #eef3f7; }
-        .people-preview-alumni .people-person .avatar { height: 112px !important; width: 112px !important; }
+        .people-preview-alumni .people-person .avatar { height: 145px !important; width: 145px !important; }
         .people-preview-alumni .portrait-title h2 { font-size: 0.82rem; }
         .people-preview-alumni .portrait-title h3 { font-size: 0.67rem; }
         @media (max-width: 700px) {
@@ -72,7 +72,7 @@ sections:
       title: Current Team
       user_groups:
         - Seo Lab @ UH
-      sort_by: Params.last_name
+      sort_by: Params.current_team_order
       sort_ascending: true
     design:
       show_interests: false

@@ -6,6 +6,7 @@ url: /authors/kerhalkar
 # Full Name (for SEO)
 first_name: Sid
 last_name: Kerhalkar
+current_team_order: 1
 
 # Is this the primary user of the site?
 superuser: no

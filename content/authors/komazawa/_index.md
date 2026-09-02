@@ -1,37 +1,36 @@
 ---
 # Display name
-title: Takami Otsubo
+title: Yu Komazawa
 
 # Full Name (for SEO)
-first_name: Takami
-last_name: Ostubo
-current_team_order: 4
+first_name: Yu
+last_name: Komazawa
+current_team_order: 5
 
 # Is this the primary user of the site?
-superuser:   
+superuser: no
 
 # Role/position
-role: Graduate Student
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
-  - name: OCN/SOEST/UHM
+  - name: Hokkaido University
   #  url: 'https://www.christophrenkl.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Mr. Yu Komazawa is a visiting student supported through the Instructor-Led Research Experience (ILRE) program, part of the educational partnership between Uehiro Center for the Advancement of Oceanography (UCAO) at University of Hawaiʻi at Mānoa and the Uehiro Laboratory of Oceanography (ULO) at Hokkaido University. His research focuses on changes in ocean circulation and structure and the processes through which these changes affect human society. He is particularly interested in recent changes in the Kuroshio system, including the northward shift of the Kuroshio Extension and the Kuroshio Large Meander, and their potential impacts on extreme heat, fisheries, and other aspects of society. During his visit to Seo Lab, Komazawa will examine the upper ocean mixing processes and the impact of air-sea fluxes over the Kuroshio-Oyashop Extension region. He is co-supervised by Dr. Sid Kerhalkar and Dr. Cesar Sauvage.
 
 interests:
-  -  Air-sea intereaction
+  - Physical Oceanography
+  - Kuroshio Extension
+  - Regional climate
 
 education:
   courses:
-    - course: PhD in Oceanography
-      institution: University of Hawai'i at Mānoa
+    - course:
+      institution: Hokkaido University
       year: Ongoing
-    - course: BS in Earth and Planetary Sciences
-      institution: Hokkaido University, Japan
-      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,7 +38,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 # - icon: envelope
-#2024   icon_pack: fas
+#   icon_pack: fas
 #   link: 'mailto:christoph.renkl@whoi.edu'
 # - icon: twitter
 #   icon_pack: fab
@@ -73,4 +72,3 @@ highlight_name: false
 user_groups:
   - Seo Lab @ UH
 ---
-Takami is a Ph.D. student in physical oceanography. He earned his B.S. in Earth and Planetary Sciences from Hokkaido University in Japan, where he worked with Prof. Shoshiro Minobe to investigate future changes in ocean currents around Japan and their underlying mechanisms using multiple climate models. At UH Mānoa, Takami works with Prof. Bo Qiu and Dr. Hyodae Seo to explore the Northwest Pacific, with a particular focus on the Kuroshio. He is also interested in investigating the impacts of offshore wind farms on ocean environments.

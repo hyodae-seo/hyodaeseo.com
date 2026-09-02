@@ -5,6 +5,7 @@ title: Wyn Pauly
 # Full Name (for SEO)
 first_name: Wyn
 last_name: Pauly
+current_team_order: 3
 
 # Is this the primary user of the site?
 superuser:   
@@ -77,4 +78,3 @@ user_groups:
 Wyn is a PhD student in Physical Oceanography. She seeks to understand ocean-atmosphere interaction on a range of spatiotemporal scales from surface waves to large scale climate impacts. Wyn earned a BA in Atmospheric and Oceanic Sciences at CU Boulder where she worked with Kris Karnauskas to explore the impact of North Atlantic climate variability on US East Coast sea level. At UH, Wyn works with Dr. Hyodae Seo to use high-resolution modeling to examine the influence of ocean dynamics on extreme weather systems. [https://wynpauly.com](https://wynpauly.com). 
 
 Her research will directly address several <a href="https://sdgs.un.org/goals">United Nations Sustainable Development Goal (UNSDGs)</a>.Her research aligns most closely with the <a href="https://sdgs.un.org/goals/goal13">UNSDG 13: Climate Action</a>, by advancing understanding of how storms intensify and exchange energy with the ocean. Wyn’s work also connects to <a href="https://sdgs.un.org/goals/goal14">UNSDG 14: Life Below Water</a>, as tropical cyclone-driven wave dynamics influence marine ecosystems, coral reefs, and fisheries. Furthermore, by contributing to improved storm forecasting and risk reduction, her research supports <a href="https://sdgs.un.org/goals/goal11">UNSDG 11: Sustainable Cities and Communities</a>, helping protect lives, infrastructure, and economies in coastal and island communities exposed to severe tropical cyclones.
-

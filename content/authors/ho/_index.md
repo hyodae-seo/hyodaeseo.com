@@ -6,6 +6,7 @@ url: /authors/ho
 # Full Name (for SEO)
 first_name: Alli Ho 
 last_name: Ho
+current_team_order: 2
 
 # Is this the primary user of the site?
 superuser: no
