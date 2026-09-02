@@ -3,7 +3,7 @@ title: Dr. Ben Barr joins Seo Lab at UHM as a new postdoctoral researcher! (2025
 date: 2025-10-13
 ---
 
-<p style="font-size: 0.78em;">
+<p>
     <a href="https://www2.whoi.edu/staff/bbarr/">Dr. Ben Barr</a> is an expert in sea spray modeling and air–sea interaction under high-wind conditions.
     He has published influential studies on sea spray parameterizations
     (<a href="https://doi.org/10.1175/JAS-D-22-0126.1">Barr et al., 2023</a>)

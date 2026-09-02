@@ -6,7 +6,7 @@ image:
   focal_point: 'top'
 ---
 
-<p style="font-size: 0.78em;">
+<p>
 
 We are pleased to welcome <strong>Takami Otsubo</strong> as a new graduate student in the Department of Oceanography at the University of Hawaiʻi at Mānoa. Takami is originally from Hokkaido, Japan, a region known for its heavy snowfall and rich natural environment. Growing up in this setting inspired his early interest in climate science. <br><br>
 
