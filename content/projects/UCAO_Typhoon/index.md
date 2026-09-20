@@ -3,10 +3,6 @@ title: Typhoon-Ocean-Wave Interactions near Okinawa
 date: 2026-09-19
 short_title: UCAO-OIST Joint Research on Typhoon-Ocean-Wave Interactions
 funding_agency: Uehiro Foundation of Ethics and Education
-links_before_metadata: true
-links:
-  - name: More project description
-    url: /projects/typhoon/
 ---
 
 <style>
@@ -49,8 +45,8 @@ body.dark .result-figure figcaption { color: #b7c1c9; }
   <h2 id="project-personnel-heading"></h2>
   <div class="personnel-grid">
     <figure class="personnel-card agency-card">
-      <a href="https://www.soest.hawaii.edu/oceanography/uc-ao/"><img src="ucao4.png" alt="UC•AO and Uehiro Foundation project mark"></a>
-      <figcaption><a href="https://www.soest.hawaii.edu/oceanography/uc-ao/"><strong>UFEE &amp; UC•AO</strong></a></figcaption>
+      <a href="https://www.soest.hawaii.edu/oceanography/uc-ao/"><img src="/projects/ucao_typhoon/ucao4.png" alt="UC•AO and Uehiro Foundation project mark"></a>
+      <figcaption><a href="https://www.soest.hawaii.edu/oceanography/uc-ao/"><strong>UC•AO</strong></a></figcaption>
     </figure>
     <figure class="personnel-card">
       <a href="/authors/seo/"><img src="/authors/seo/avatar.jpg" alt="Hyodae Seo"></a>
@@ -67,12 +63,9 @@ body.dark .result-figure figcaption { color: #b7c1c9; }
   </div>
 </section>
 
+Typhoons, or tropical cyclones, generate rapidly evolving winds, waves, currents, and upper-ocean cooling across deep waters, within island wakes, and over shallow coastal zones. This joint UC•AO–OIST project combines field observations with high-resolution coupled modeling to understand these interactions and improve their representation in coastal typhoon forecast models. Around Okinawa and the Ryukyu Islands, typhoon-driven air–sea exchange is shaped by steep bathymetry, narrow passages between islands, energetic regional currents, and spatially variable wave fields. These processes regulate surface drag and momentum transfer, influence storm-induced mixing and sea-surface temperature cooling, and determine how drifting instruments and other floating objects move through the region.
 
-Typhoons, or Tropical Cyclones, generate rapidly evolving winds, waves, currents, and upper-ocean cooling across deep water, island wakes, and shallow coastal zones. This joint UC•AO-OIST project combines field observations and high-resolution coupled modeling to understand those interactions and improve their representation in coastal typhoon forecasts. Around Okinawa and Ryukyu Island, typhoon-driven air-sea exchange is shaped by steep bathymetry, narrow island passages, energetic regional currents, and spatially variable wave fields. These processes control surface drag and momentum transfer, influence storm-induced mixing and sea-surface-temperature cooling, and determine how drifting instruments and other floating material move through the region. 
-
-The project integrates drifting and moored wave observations of surface waves and currents, with a nested implementation of the SCOAR ocean-atmosphere-wave coupled model. The modeling system resolves the broader typhoon environment together with regional and coastal responses around Okinawa. Observations provide measurements of wave height, period, direction, directional wave spectra, sea-surface temperature, winds, and drift trajectories.
-
-
+The project integrates drifting and moored observations of surface waves and currents with a nested implementation of the SCOAR coupled ocean–atmosphere–wave model. The modeling system resolves both the broader typhoon environment and the regional and coastal responses around Okinawa. The observational system measures wave height, period, direction, and directional spectra, as well as sea-surface temperature, winds, currents, and drift trajectories.
 <!--more-->
 
 These data allow us to:
@@ -82,6 +75,14 @@ These data allow us to:
 - characterize strongly varying sea states across different storm-relative sectors;
 - use observed drift and wave spectra to evaluate and improve coupled-model physics and surface-drag parameterizations; and
 - build an observational and modeling framework for improved prediction of typhoon impacts near Okinawa.
+
+
+### Collaboration
+  <div class="project-acknowledgment">
+    <p>
+This field effort is a close collaboration between Prof. Hyodae Seo’s <a href="https://www.hyodaeseo.com">SCOAR Lab at the University of Hawaiʻi</a> and Prof. Satoshi Mitarai’s <a href="https://www.oist.jp/research/research-units/mbu">Marine Biophysics Unit at OIST</a>. We gratefully acknowledge our OIST colleagues and the Japan Coast Guard for providing the logistical support essential to the deployment and recovery of the Spotter buoys.
+    </p>
+  </div>
 
 ### Ongoing Work
 
@@ -96,7 +97,7 @@ These data allow us to:
       <source src="/projects/ucao_typhoon/khanun_sst.webm" type="video/webm">
       Your browser does not support WebM video. <a href="/projects/ucao_typhoon/khanun_sst.webm">Open the Khanun animation</a>.
     </video>
-    <figcaption>Modeled evolution of sea-surface temperature during Typhoon Khanun (2023), illustrating the storm-induced cold wake in the Okinawa region.</figcaption>
+	<figcaption>Modeled evolution of sea-surface temperature during Typhoon Khanun (2023), illustrating a storm-induced cold wake west of Naha with cooling exceeding 9°C compared to the prestorm condition.</figcaption>
   </figure>
 </section>
 
@@ -132,10 +133,4 @@ These data allow us to:
     <figcaption>One of the drifting Spotter buoys beached on Tonaki Island after the Typhoon Saudel deployment. Its transmitted trajectory and wave records preserve the storm observations primarily left-hand side of Typhoon Saudel collected before landfall.</figcaption>
   </figure>
 
-  <div class="project-acknowledgment">
-    <h4>Acknowledgments</h4>
-    <p>
-    This field effort is fundamentally a collaboration between Prof. Hyodae Seo's <a href=https://www.hyodaeseo.com>UH SCOAR Lab</a> and Prof. Satoshi Mitarai's <a href="https://www.oist.jp/research/research-units/mbu">Marine Biophysics Unit at OIST</a>. We gratefully acknowledge our OIST colleagues and the Japan Coast Guard for the logistical support that made the deployment and recovery of the Spotter buoys possible.
-    </p>
-  </div>
 </section>
