@@ -1,6 +1,7 @@
 ---
 title: Improving the model simulation of surface wave impacts on air-sea fluxes, turbulent boundary layers, and their impacts on Indian monsoons in the Arabian Sea
 date: 2024-12-19
+weight: 30
 short_title: ONR ASTraL Arabian Sea Air–Sea Fluxes
 funding_agency: Office of Naval Research
 links_before_metadata: true
@@ -58,8 +59,6 @@ links:
 
 Office of Naval Research [Arabian Sea Transition Layer (ASTraL) DRI](https://www.onr.navy.mil/organization/departments/code-32/division-322/physical-oceanography/astral), Exchange Across the Air–Sea Interface. PI: Hyodae Seo.
 
-ASTraL will improve in situ characterization of air-sea exchanges of heat, mass, and momentum, including amplitudes and space-time variability, and provide useful and practical observational constraints for prediction models across scales. Since air-sea fluxes and their interactions with turbulent boundary layers in the ocean and atmosphere are entirely parameterized in prediction models, accurate representation of these coupled interactions is critical for improved predictive capabilities in Earth System modeling. We propose a model-data synthesis project that will validate, refine, and re-engineer (if necessary) the parameterizations for air-sea fluxes mediated by surface waves and their interaction with turbulent boundary layer processes in the Arabian Sea. The focus is on the spring-to-summer transition season, where the Arabian Sea exhibits peculiar sea states dominated by swell and mixed seas, whose effects on air-sea fluxes remain poorly captured even in the most advanced bulk flux algorithms. Subsequent impacts on the formation and collapse of the mini-warm pool and the onset of the summer monsoons in simulation and forecast models must be quantified.
-
 
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
   <h2 id="project-personnel-heading"></h2>
@@ -82,6 +81,9 @@ ASTraL will improve in situ characterization of air-sea exchanges of heat, mass,
     </figure>
   </div>
 </section>
+
+
+ASTraL will improve in situ characterization of air-sea exchanges of heat, mass, and momentum, including amplitudes and space-time variability, and provide useful and practical observational constraints for prediction models across scales. Since air-sea fluxes and their interactions with turbulent boundary layers in the ocean and atmosphere are entirely parameterized in prediction models, accurate representation of these coupled interactions is critical for improved predictive capabilities in Earth System modeling. We propose a model-data synthesis project that will validate, refine, and re-engineer (if necessary) the parameterizations for air-sea fluxes mediated by surface waves and their interaction with turbulent boundary layer processes in the Arabian Sea. The focus is on the spring-to-summer transition season, where the Arabian Sea exhibits peculiar sea states dominated by swell and mixed seas, whose effects on air-sea fluxes remain poorly captured even in the most advanced bulk flux algorithms. Subsequent impacts on the formation and collapse of the mini-warm pool and the onset of the summer monsoons in simulation and forecast models must be quantified.
 
 <!--more-->
 ---

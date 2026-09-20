@@ -1,6 +1,7 @@
 ---
 title: Improving Air-Sea Flux Parameterizations to Better Understand and Represent the Diabatic Effects of Ocean and Surface Waves in Atmospheric Rivers
 date: 2025-06-01
+weight: 20
 short_title: ONR SAFARI Atmospheric Rivers
 funding_agency: Office of Naval Research
 links_before_metadata: true

@@ -1,6 +1,7 @@
 ---
 title: Exploiting coupled ocean-atmosphere-wave model simulations to identify observational requirements for air-sea interaction studies across the tropical Pacific
 date: 2024-12-19
+weight: 50
 short_title: NOAA TPOS Air–Sea Observing Design
 funding_agency: NOAA
 links_before_metadata: true
@@ -34,9 +35,7 @@ links:
 @media (max-width: 520px) { .personnel-grid { grid-template-columns: 1fr; } }
 </style>
 
-NOAA [Climate Variability & Predictability (CVP)](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/climate-variability-predictability/) [Tropical Pacific Observing System (TPOS)](https://globalocean.noaa.gov/research/tropical-pacific-observing-system/) Pre-field Modeling: Seo, Wijffels (WHOI)
-
-The goal of the TPOS2020 project is to design an efficient and effective backbone observing system to better understand the processes in the tropical Pacific that are instrumental to the El Niño-Southern Oscillation (ENSO) and provide useful observational constraints for predictions. The process studies being planned in the western and eastern equatorial Pacific are intended to shed light on physical processes and guide the design and development of the TPOS.
+NOAA [Climate Variability & Predictability (CVP)](https://cpo.noaa.gov/divisions-programs/earth-system-science-and-modeling-division/climate-variability-predictability/) [Tropical Pacific Observing System (TPOS)](https://globalocean.noaa.gov/research/tropical-pacific-observing-system/) PI: Seo, Wijffels (WHOI)
 
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
   <h2 id="project-personnel-heading"></h2>
@@ -55,6 +54,9 @@ The goal of the TPOS2020 project is to design an efficient and effective backbon
     </figure>
   </div>
 </section>
+
+The goal of the TPOS2020 project is to design an efficient and effective backbone observing system to better understand the processes in the tropical Pacific that are instrumental to the El Niño-Southern Oscillation (ENSO) and provide useful observational constraints for predictions. The process studies being planned in the western and eastern equatorial Pacific are intended to shed light on physical processes and guide the design and development of the TPOS.
+
 <!--more-->
 
 ## Research approach

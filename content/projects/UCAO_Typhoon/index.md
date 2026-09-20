@@ -1,6 +1,7 @@
 ---
 title: Typhoon-Ocean-Wave Interactions near Okinawa
 date: 2026-09-19
+weight: 10
 short_title: UCAO-OIST Joint Research on Typhoon-Ocean-Wave Interactions
 funding_agency: Uehiro Foundation of Ethics and Education
 show_more_link: true

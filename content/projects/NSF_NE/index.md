@@ -1,6 +1,7 @@
 ---
 title: Improving Understanding of Coupled Impacts of Oceans and Waves on Air-Sea Fluxes in the US Northeast
 date: 2024-12-19
+weight: 40
 short_title: NSF Northeast Air–Sea Fluxes
 funding_agency: National Science Foundation
 links_before_metadata: true
@@ -56,7 +57,7 @@ links:
 </style>
 
 
-NSF Physical Oceanography (PO): Seo
+NSF Physical Oceanography (PO): PI Seo
 
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
   <h2 id="project-personnel-heading"></h2>

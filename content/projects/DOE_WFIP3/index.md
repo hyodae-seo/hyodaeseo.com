@@ -1,8 +1,9 @@
 ---
 title: (Past) Improving High-Resolution Offshore Wind Resource Assessment and Forecasts Using Observations in the MA/RI Lease Areas 
 date: 2024-12-19
+weight: 60
 short_title: DOE WFIP-3 Offshore Wind Forecasting
-funding_agency: U.S. Department of Energy
+funding_agency: Department of Energy
 project_url: https://www2.whoi.edu/site/wfip3/
 links_before_metadata: true
 links:
@@ -60,12 +61,7 @@ links:
 }
 </style>
 
-
-U.S. Department of Energy [Wind Forecast Improvement Project III (WFIP-3)](https://www2.whoi.edu/site/wfip3/). Lead PI: [Anthony Kirincich](https://www2.whoi.edu/staff/akirincich/) (WHOI); co-PI: Hyodae Seo.
-
-This is a comprehensive observational and modeling study of the coupled atmospheric and oceanic boundary layers that will dramatically improve offshore windresource measurement and modeling science. Focusing on physical processes relevant to all U.S. offshore wind energy areas via observations of the Northeast U.S. outer continental shelf, this effort will increase our understanding of the coupled atmosphere-ocean system in wind energy areas as well as improve our ability to reliably predict boundary layer winds and properties critical for industry-specific resource assessment, load analyses, and design criteria. 
-
-The Northeast shelf is home to five major offshore wind energy lease areas, including areas likely to be active and in construction during the field campaign, in addition to numerous ongoing scientific monitoring efforts. This study will combine the observational efforts of a diverse, experienced group of research and industry partners with an expert modeling team to improve wind resource forecasting abilities in an area with challenging offshore meteorological and oceanic conditions.
+Department of Energy [Wind Forecast Improvement Project III (WFIP-3)](https://www2.whoi.edu/site/wfip3/). Lead PI: [Anthony Kirincich](https://www2.whoi.edu/staff/akirincich/) (WHOI); co-PI: Hyodae Seo.
 
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
   <h2 id="project-personnel-heading"></h2>
@@ -88,6 +84,10 @@ The Northeast shelf is home to five major offshore wind energy lease areas, incl
     </figure>
   </div>
 </section>
+
+This is a comprehensive observational and modeling study of the coupled atmospheric and oceanic boundary layers that will dramatically improve offshore windresource measurement and modeling science. Focusing on physical processes relevant to all U.S. offshore wind energy areas via observations of the Northeast U.S. outer continental shelf, this effort will increase our understanding of the coupled atmosphere-ocean system in wind energy areas as well as improve our ability to reliably predict boundary layer winds and properties critical for industry-specific resource assessment, load analyses, and design criteria. 
+
+The Northeast shelf is home to five major offshore wind energy lease areas, including areas likely to be active and in construction during the field campaign, in addition to numerous ongoing scientific monitoring efforts. This study will combine the observational efforts of a diverse, experienced group of research and industry partners with an expert modeling team to improve wind resource forecasting abilities in an area with challenging offshore meteorological and oceanic conditions.
 
 <!--more-->
 

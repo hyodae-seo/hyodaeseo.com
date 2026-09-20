@@ -1,6 +1,7 @@
 ---
 title: (Past) Coupled Ocean-Atmosphere Feedbacks Affecting California Coastal Climate; Current Conditions and Future Projections
 date: 2022-02-01
+weight: 70
 short_title: NSF California Coastal Climate Feedbacks
 funding_agency: National Science Foundation
 links_before_metadata: true
@@ -37,8 +38,6 @@ links:
 
 NSF Physical Oceanography (PO) & Climate and Large-scale Dynamics (CLD): Seo, Miller (Scripps)
 
-The coastal climate of California is profoundly affected by the ocean, which moderates its hot summers and provides moisture for much-needed winter rains. While the importance and impact of the mean state of the ocean are well appreciated, the impact of the anomalous state of the ocean on coastal climate is far less well understood. Sea surface temperature (SST) and ocean surface current anomalies, ranging from the meso-to-frontal scales of cool coastal upwelling to the regional-to-basin scales of the marine heat waves of the “Blobs”, are inherently coupled with the atmosphere. The fundamental coupled ocean-atmosphere feedback processes that affect the climate, weather, and upwelling along the coast are the focus of this study.
-
 <section class="project-personnel" aria-labelledby="project-personnel-heading">
   <h2 id="project-personnel-heading"></h2>
   <div class="personnel-grid">
@@ -57,6 +56,7 @@ The coastal climate of California is profoundly affected by the ocean, which mod
   </div>
 </section>
 
+The coastal climate of California is profoundly affected by the ocean, which moderates its hot summers and provides moisture for much-needed winter rains. While the importance and impact of the mean state of the ocean are well appreciated, the impact of the anomalous state of the ocean on coastal climate is far less well understood. Sea surface temperature (SST) and ocean surface current anomalies, ranging from the meso-to-frontal scales of cool coastal upwelling to the regional-to-basin scales of the marine heat waves of the “Blobs”, are inherently coupled with the atmosphere. The fundamental coupled ocean-atmosphere feedback processes that affect the climate, weather, and upwelling along the coast are the focus of this study.
 
 <!--more-->
 
