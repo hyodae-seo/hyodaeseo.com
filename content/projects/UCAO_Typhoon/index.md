@@ -133,7 +133,7 @@ This field effort is a close collaboration between Prof. Hyodae Seo’s <a href=
   </figure>
   <figure class="result-figure field-photo">
     <img src="saudel_spotter_beached.jpeg" width="748" height="628" alt="Yellow Spotter wave buoy beached on Tonaki Island after the Typhoon Saudel deployment">
-    <figcaption>One of the drifting Spotter buoys beached on Tonaki Island after the Typhoon Saudel deployment. Its transmitted trajectory and wave records preserve the storm observations primarily left-hand side of Typhoon Saudel collected before landfall.</figcaption>
-  </figure>
+	<figcaption>One of the drifting Spotter buoys beached on Tonaki Island approximately 20 m from the waterline following the Typhoon Saudel deployment. Its transmitted trajectory and wave records captured conditions primarily on the left side of the storm before the buoy reached shore.
+	</figcaption>
 
 </section>
