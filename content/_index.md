@@ -11,7 +11,7 @@ sections:
       image:
         filename: hyodae_group.jpg
       text: |
-        **Hyodae Seo** is a Professor in the Department of Oceanography and Associate Director of the [Uehiro Center for the Advancement of Oceanography](https://www.soest.hawaii.edu/oceanography/uc-ao/).
+        **Hyodae Seo**: Professor in the Department of Oceanography and Associate Director of the [Uehiro Center for the Advancement of Oceanography](https://www.soest.hawaii.edu/oceanography/uc-ao/).
 
         The **Seo Coupled Ocean–Atmosphere Research (SCOAR) Lab** investigates how the ocean, atmosphere, and surface waves interact across scales—from turbulent air–sea exchange to extreme weather and regional climate.
 
