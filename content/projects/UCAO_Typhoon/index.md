@@ -92,7 +92,7 @@ This field effort is a close collaboration between Prof. Hyodae Seo’s <a href=
 <section class="project-result">
   <h3>1. Coupled modeling of Typhoon Khanun (2023)</h3>
   <p>
-  High-resolution coupled simulations reproduce the evolving ocean response to Typhoon Khanun as it passed through the Okinawa region in August 2023. The animation shows the development and persistence of a pronounced cold wake, produced as strong winds and waves deepen the ocean mixed layer and bring cooler subsurface water toward the surface. The calculation provides a spatially continuous view of the storm response that can be compared with satellite and in situ observations and used to diagnose how currents, bathymetry, and wave-dependent air-sea exchange modulate cooling near the islands.
+  High-resolution SCOAR coupled ocean-atmosphere-wave simulations are used to examine the evolving ocean and surface wave response to Typhoon Khanun as it passed through the Okinawa region in August 2023. The animation shows the development and persistence of a pronounced cold wake, produced as strong winds and waves increase the turbulence kinetic energy and deepen the ocean mixed layer, bringing cooler subsurface water toward the surface. The calculation provides a spatially continuous view of coupled ocean-atmosphere-wave processes that can be compared with satellite and in situ observations and used to diagnose how currents, bathymetry, and wave-dependent air-sea exchange modulate cooling near the islands.
   </p>
 
   <figure class="result-figure">
@@ -100,7 +100,7 @@ This field effort is a close collaboration between Prof. Hyodae Seo’s <a href=
       <source src="/projects/ucao_typhoon/khanun_sst.webm" type="video/webm">
       Your browser does not support WebM video. <a href="/projects/ucao_typhoon/khanun_sst.webm">Open the Khanun animation</a>.
     </video>
-	<figcaption>Modeled evolution of sea-surface temperature during Typhoon Khanun (2023), illustrating a storm-induced cold wake west of Naha with cooling exceeding 9°C compared to the prestorm condition.</figcaption>
+	<figcaption>Evolution of sea surface temperature during Typhoon Khanun (2023), illustrating a storm-induced cold wake, most pronounced west of Naha, where the cooling exceeded 9°C compared to the prestorm condition.</figcaption>
   </figure>
 </section>
 
