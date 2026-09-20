@@ -84,6 +84,12 @@
     </a>
     {{ end }}
 
+    {{ if and $is_project $item.Params.show_more_link }}
+    <div class="btn-links project-list-more">
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ $link }}" {{ $target | safeHTMLAttr }}>More project description</a>
+    </div>
+    {{ end }}
+
     {{ if and $has_attachments $item.Params.links_before_metadata }}
     <div class="btn-links">
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}

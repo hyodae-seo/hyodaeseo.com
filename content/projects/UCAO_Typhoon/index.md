@@ -3,6 +3,7 @@ title: Typhoon-Ocean-Wave Interactions near Okinawa
 date: 2026-09-19
 short_title: UCAO-OIST Joint Research on Typhoon-Ocean-Wave Interactions
 funding_agency: Uehiro Foundation of Ethics and Education
+show_more_link: true
 ---
 
 <style>
@@ -19,7 +20,7 @@ funding_agency: Uehiro Foundation of Ethics and Education
 .result-figure img,
 .result-figure video { border-radius: 0.3rem; display: block; height: auto; margin: 0 auto; max-width: 100%; }
 .result-figure figcaption { color: #53616c; font-size: 0.72rem; line-height: 1.45; margin-top: 0.45rem; }
-.result-figure.field-photo img { max-width: 720px; }
+.result-figure.field-photo img { height: auto !important; max-width: 720px; object-fit: contain; width: 100% !important; }
 .result-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .result-grid .result-figure { margin-top: 0.75rem; }
 .project-personnel h2 { margin-top: 1.6rem; }
@@ -131,7 +132,7 @@ This field effort is a close collaboration between Prof. Hyodae Seo’s <a href=
     <figcaption>Time series from the four Spotter buoys during Typhoon Saudel. ERA5 wind speed is shown in the upper panel; Spotter-derived significant wave height and mean square slope are shown in the middle and lower panels. Dashed lines mark each buoy's closest approach to the storm center. Significant wave height reached approximately 9 m near the center of the storm.</figcaption>
   </figure>
   <figure class="result-figure field-photo">
-    <img src="saudel_spotter_beached.jpeg" alt="Yellow Spotter wave buoy beached on Tonaki Island after the Typhoon Saudel deployment">
+    <img src="saudel_spotter_beached.jpeg" width="748" height="628" alt="Yellow Spotter wave buoy beached on Tonaki Island after the Typhoon Saudel deployment">
     <figcaption>One of the drifting Spotter buoys beached on Tonaki Island after the Typhoon Saudel deployment. Its transmitted trajectory and wave records preserve the storm observations primarily left-hand side of Typhoon Saudel collected before landfall.</figcaption>
   </figure>
 
