@@ -105,7 +105,7 @@ This field effort is a close collaboration between Prof. Hyodae Seo’s <a href=
 </section>
 
 <section class="project-result">
-  <h3>2. Four-Spotter deployment during Typhoon Saudel (2026)</h3>
+  <h3>2. Deployment of Spotter drifting wave buoys during Typhoon Saudel (2026)</h3>
   <p>
   Four drifting Spotter buoys sampled Typhoon Saudel across distinct storm-relative environments, including the storm center and left-of-track sectors. Their trajectories show how the instruments were advected through rapidly changing wind and current fields while recording strongly variable sea states. The observations include full directional wave spectra, allowing the evolving combination of locally forced wind seas, remotely generated swell, and mixed-sea conditions to be separated rather than summarized by significant wave height alone.
   </p>
