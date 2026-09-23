@@ -13,10 +13,39 @@ description: Peer-reviewed publications, submitted manuscripts, and work in prep
 .article-style ul { margin-bottom: 0.9rem; padding-left: 1.15rem; }
 .article-style li { margin-bottom: 0.7rem; }
 .article-style hr { border: 0; border-top: 1px solid #dfe5e9; margin: 0.75rem 0; }
-.pub-intro { margin-bottom: 1rem; }
+.pub-intro { align-items: baseline; display: flex; gap: 0.75rem 1.5rem; justify-content: space-between; margin-bottom: 1rem; }
+.pub-author-note { margin-left: auto; text-align: right; }
+.pub-scholar-link .ai { font-size: 1.05em; margin-right: 0.3rem; }
 .pub-year-nav { align-items: center; border-bottom: 1px solid #dfe5e9; border-top: 1px solid #dfe5e9; display: flex; flex-wrap: wrap; gap: 0.35rem 0.65rem; margin: 0.8rem 0 1.15rem; padding: 0.55rem 0; }
 .pub-year-nav strong { color: #17212a; }
 .pub-year-nav a { font-weight: 600; }
+/* HIGHLIGHTED PAPERS CSS START — remove through the matching END marker to revert */
+.pub-highlights { margin: 1.15rem 0 1.35rem; }
+.pub-highlights-grid { align-items: stretch; display: grid; gap: 0.75rem; grid-auto-rows: 1fr; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.pub-highlight-card { background-color: #fff !important; border: 1px solid #dfe5e9; border-radius: 0.35rem; display: flex; flex-direction: column; height: 100%; min-width: 0; overflow: hidden; }
+.pub-highlight-image,
+.pub-highlight-image:hover,
+.pub-highlight-image:focus { aspect-ratio: 46 / 60; background-color: #fff !important; border-bottom: 1px solid #dfe5e9; contain: paint; display: block; flex: none; overflow: hidden; padding: 0; }
+.pub-highlight-image img { display: block; height: 100% !important; margin: 0 !important; max-height: 100% !important; max-width: 100% !important; object-fit: contain; width: 100% !important; }
+.pub-highlight-copy { display: flex; flex-direction: column; padding: 0.55rem 0.65rem 0.6rem; }
+.pub-highlight-meta { color: #66737d; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.035em; margin-bottom: 0.3rem; }
+.pub-highlight-title { color: #1261a0; font-size: 0.8rem; font-weight: 700; line-height: 1.3; overflow-wrap: anywhere; }
+.pub-highlight-title:hover { color: #0b4778; }
+body.dark .pub-highlight-card { background-color: #fff !important; border-color: #46535d; }
+body.dark .pub-highlight-image,
+body.dark .pub-highlight-image:hover,
+body.dark .pub-highlight-image:focus { background-color: #fff !important; border-color: #46535d; }
+body.dark .pub-highlight-meta { color: #b8c2ca; }
+body.dark .pub-highlight-title { color: #70b9f0; }
+@media (max-width: 900px) {
+  .pub-highlights-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .pub-highlights-grid { grid-template-columns: 1fr; }
+  .pub-highlight-copy { padding: 0.55rem 0.6rem 0.6rem; }
+  .pub-highlight-title { font-size: 0.82rem; }
+}
+/* HIGHLIGHTED PAPERS CSS END */
 body.dark .article-style { color: #d7dee4; }
 body.dark .article-style h4,
 body.dark .pub-year-nav strong { color: #f3f6f8; }
@@ -24,6 +53,8 @@ body.dark .article-style hr,
 body.dark .pub-year-nav { border-color: #46535d; }
 @media (max-width: 640px) {
   .article-style { line-height: 1.52; }
+  .pub-intro { align-items: flex-start; flex-direction: column; }
+  .pub-author-note { margin-left: 0; text-align: left; }
   .pub-year-nav { gap: 0.3rem 0.55rem; }
 }
 </style>
@@ -31,9 +62,61 @@ body.dark .pub-year-nav { border-color: #46535d; }
 
 #### Publications
 <div class="pub-intro">
-  <a href="https://scholar.google.com/citations?user=gjReCAkAAAAJ&amp;hl=en"><strong>Google Scholar Citations</strong></a><br>
-  Authors in <strong>bold</strong> indicate members of the Seo Lab.
+  <a class="pub-scholar-link" href="https://scholar.google.com/citations?user=gjReCAkAAAAJ&amp;hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar" aria-hidden="true"></i><strong>Google Scholar Citations</strong></a>
+  <span class="pub-author-note">Authors in <strong>bold</strong> indicate members of the Seo Lab.</span>
 </div>
+
+<!-- HIGHLIGHTED PAPERS HTML START — remove through the matching END marker to revert -->
+<!-- Thumbnail assets are isolated in /static/pubs/images/highlights/ -->
+<section class="pub-highlights" aria-label="Selected publications">
+  <div class="pub-highlights-grid">
+    <!-- PANEL 1 START — to replace: update both PDF URLs, thumbnail src, metadata, title, and alt text -->
+    <article class="pub-highlight-card">
+      <a class="pub-highlight-image" href="https://www.hyodaeseo.com/pubs/papers/renkl.etal.26.scirepo.pdf" target="_blank" rel="noopener" aria-label="Open the Scientific Reports paper PDF">
+        <img src="/pubs/images/highlights/scientific-reports.jpg" alt="First page of the Scientific Reports paper on marine heatwaves and atmospheric rivers" loading="lazy">
+      </a>
+      <div class="pub-highlight-copy">
+        <div class="pub-highlight-meta">Scientific Reports, 2026</div>
+        <a class="pub-highlight-title" href="https://www.hyodaeseo.com/pubs/papers/renkl.etal.26.scirepo.pdf" target="_blank" rel="noopener">Marine Heatwaves Intensify Landfalling Atmospheric Rivers</a>
+      </div>
+    </article>
+    <!-- PANEL 1 END -->
+    <!-- PANEL 2 START — to replace: update both PDF URLs, thumbnail src, metadata, title, and alt text -->
+    <article class="pub-highlight-card">
+      <a class="pub-highlight-image" href="https://www.hyodaeseo.com/pubs/papers/renault.etal.26.pdf" target="_blank" rel="noopener" aria-label="Open the Annual Review of Marine Science paper PDF">
+        <img src="/pubs/images/highlights/annual-review.jpg" alt="First page of the Annual Review of Marine Science paper on fine-scale air-sea interactions" loading="lazy">
+      </a>
+      <div class="pub-highlight-copy">
+        <div class="pub-highlight-meta">Annual Review of Marine Science, 2026</div>
+        <a class="pub-highlight-title" href="https://www.hyodaeseo.com/pubs/papers/renault.etal.26.pdf" target="_blank" rel="noopener">The Energetics of Fine-Scale Air-Sea Interactions</a>
+      </div>
+    </article>
+    <!-- PANEL 2 END -->
+    <!-- PANEL 3 START — to replace: update both PDF URLs, thumbnail src, metadata, title, and alt text -->
+    <article class="pub-highlight-card">
+      <a class="pub-highlight-image" href="https://www.hyodaeseo.com/pubs/papers/sauvage.etal.25.pdf" target="_blank" rel="noopener" aria-label="Open the Journal of Geophysical Research Oceans paper PDF">
+        <img src="/pubs/images/highlights/jgr-oceans.jpg" alt="First page of the JGR Oceans paper on offshore wind farm surface wave responses" loading="lazy">
+      </a>
+      <div class="pub-highlight-copy">
+        <div class="pub-highlight-meta">JGR: Oceans, 2025</div>
+        <a class="pub-highlight-title" href="https://www.hyodaeseo.com/pubs/papers/sauvage.etal.25.pdf" target="_blank" rel="noopener">Fetch-Dependent Surface Wave Responses to Offshore Wind Farms</a>
+      </div>
+    </article>
+    <!-- PANEL 3 END -->
+    <!-- PANEL 4 START — to replace: update both PDF URLs, thumbnail src, metadata, title, and alt text -->
+    <article class="pub-highlight-card">
+      <a class="pub-highlight-image" href="https://www.hyodaeseo.com/pubs/papers/seo_etal_2025_WindFarm.pdf" target="_blank" rel="noopener" aria-label="Open the Science Advances paper PDF">
+        <img src="/pubs/images/highlights/science-advances.jpg" alt="First page of the Science Advances paper on offshore wind farm ocean feedbacks" loading="lazy">
+      </a>
+      <div class="pub-highlight-copy">
+        <div class="pub-highlight-meta">Science Advances, 2025</div>
+        <a class="pub-highlight-title" href="https://www.hyodaeseo.com/pubs/papers/seo_etal_2025_WindFarm.pdf" target="_blank" rel="noopener">Sea Surface Warming and Ocean-to-Atmosphere Feedback Driven by Large-Scale Offshore Wind Farms</a>
+      </div>
+    </article>
+    <!-- PANEL 4 END -->
+  </div>
+</section>
+<!-- HIGHLIGHTED PAPERS HTML END -->
 
 <nav class="pub-year-nav" aria-label="Publication years">
   <strong>Jump to:</strong>
