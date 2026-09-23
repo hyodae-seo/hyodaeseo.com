@@ -68,6 +68,7 @@ body.dark .pub-year-nav { border-color: #46535d; }
 
 <!-- HIGHLIGHTED PAPERS HTML START — remove through the matching END marker to revert -->
 <!-- Thumbnail assets are isolated in /static/pubs/images/highlights/ -->
+#### New Papers!
 <section class="pub-highlights" aria-label="Selected publications">
   <div class="pub-highlights-grid">
     <!-- PANEL 1 START — to replace: update both PDF URLs, thumbnail src, metadata, title, and alt text -->
