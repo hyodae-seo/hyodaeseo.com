@@ -119,6 +119,8 @@ body.dark .pub-year-nav { border-color: #46535d; }
 </section>
 <!-- HIGHLIGHTED PAPERS HTML END -->
 
+
+<!-- 
 <nav class="pub-year-nav" aria-label="Publication years">
   <strong>Jump to:</strong>
   <a href="#2026">2026</a><a href="#2025">2025</a><a href="#2024">2024</a><a href="#2023">2023</a>
@@ -127,6 +129,8 @@ body.dark .pub-year-nav { border-color: #46535d; }
   <a href="#2013">2013</a><a href="#2012">2012</a><a href="#2011">2011</a><a href="#2009">2009</a>
   <a href="#2008">2008</a><a href="#2007">2007</a><a href="#2006">2006</a><a href="#phd-thesis">Ph.D. thesis</a>
 </nav>
+-->
+
 
 
 #### In Preparation
