@@ -20,8 +20,10 @@ description: "A regional modeling framework for coupled atmosphere–ocean–wav
 .scoar-note { background: #f3f7fa; border-left: 4px solid #1769aa; margin: 1rem 0; padding: .85rem 1rem; }
 .article-style table { display: table; font-size: inherit; width: 100%; }
 .article-style th { background: #edf4f8; }
-.scoar-gallery img { border: 1px solid #d8dfe5; border-radius: .3rem; height: 230px; object-fit: contain; width: 100%; }
-.scoar-gallery td { vertical-align: top; width: 33.333%; }
+.scoar-gallery img,
+.scoar-gallery video { background: #fff; border: 1px solid #d8dfe5; border-radius: .3rem; display: block; height: 230px; margin: 0; object-fit: contain; width: 100%; }
+.scoar-gallery td { vertical-align: top !important; width: 33.333%; }
+.scoar-gallery td > p:first-child { margin-top: 0; }
 @media (max-width: 760px) {
   .scoar-intro { grid-template-columns: 1fr; }
   .scoar-overview { height: auto; max-width: 240px; }
@@ -30,7 +32,8 @@ description: "A regional modeling framework for coupled atmosphere–ocean–wav
   .scoar-actions a { text-align: center; }
   .article-style table { display: block; overflow-x: auto; }
   .scoar-gallery, .scoar-gallery tbody, .scoar-gallery tr, .scoar-gallery td { display: block; width: 100%; }
-  .scoar-gallery img { height: auto; max-height: 320px; }
+  .scoar-gallery img,
+  .scoar-gallery video { height: auto; max-height: 70vh; }
 }
 </style>
 
@@ -73,21 +76,23 @@ SCOAR supports interactive exchanges among the components, allowing the simulate
 <tr>
 <td>
 
-![Marine heatwaves and atmospheric rivers](images/safari.png)
+<video src="/scoar/images/mhw-ar-renkl-trimmed.mp4" autoplay muted loop playsinline controls preload="auto" aria-label="Animation of marine heatwaves and atmospheric rivers">
+  Your browser does not support embedded video. <a href="/scoar/images/mhw-ar-renkl-trimmed.mp4">Download the animation</a>.
+</video>
 
 **Marine heatwaves and atmospheric rivers.** Coupled ocean–atmosphere processes can shape compound extremes when marine heatwaves interact with landfalling atmospheric rivers. See [Renkl et al. (2026)](/pubs/papers/renkl.etal.26.scirepo.pdf) and the [SAFARI project](/projects/onr_safari/).
 
 </td>
 <td>
 
-![Sea-surface temperature response beneath Typhoon Khanun](images/khanun_sst.gif)
+<img src="images/khanun_sst.gif" alt="Sea-surface temperature response beneath Typhoon Khanun" loading="lazy">
 
 **Sea state and surface drag under tropical cyclones.** SCOAR supports studies of evolving sea states, wave–wind misalignment, upper-ocean cooling, and drag-coefficient behavior under extreme winds. This example shows the sea-surface temperature response beneath Typhoon Khanun (2023).
 
 </td>
 <td>
 
-![Coupled ocean–atmosphere–wave response to offshore wind-farm wakes](images/wind_wakes.gif)
+<img src="images/wind_wakes.gif" alt="Coupled ocean–atmosphere–wave response to offshore wind-farm wakes" loading="lazy">
 
 **Offshore wind farms and air–sea interaction.** Coupled simulations show how large offshore wind farms can modify atmospheric wakes, surface waves, upper-ocean mixing, and ocean-to-atmosphere feedbacks. See [Seo et al. (2025)](/pubs/papers/seo_etal_2025_WindFarm.pdf) and [Sauvage et al. (2025)](/pubs/papers/sauvage.etal.25.pdf).
 
