@@ -70,7 +70,7 @@ SCOAR supports interactive exchanges among the components, allowing the simulate
 - Mesoscale and frontal air–sea interaction, with online spatial filtering options for separating scales.
 - Flexible atmosphere–ocean, atmosphere–wave, and ocean–wave coupling strategies.
 
-#### Example Applications
+#### Model Applications
 
 <table class="scoar-gallery">
 <tr>
