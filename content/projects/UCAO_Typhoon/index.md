@@ -20,6 +20,7 @@ show_more_link: true
 .result-figure { margin: 0.85rem 0 0; }
 .result-figure img,
 .result-figure video { border-radius: 0.3rem; display: block; height: auto; margin: 0 auto; max-width: 100%; }
+.result-figure.spotter-animation img { max-width: none; width: 100%; }
 .result-figure figcaption { color: #53616c; font-size: 0.72rem; line-height: 1.45; margin-top: 0.45rem; }
 .result-figure.field-photo img { height: auto !important; max-width: 720px; object-fit: contain; width: 100% !important; }
 .result-grid { display: grid; gap: 0.8rem; grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -106,28 +107,26 @@ This field effort is a close collaboration between Prof. Hyodae Seo’s <a href=
 </section>
 
 <section class="project-result">
-  <h3>2. Deployment of Spotter drifting wave buoys during Typhoon Saudel (2026)</h3>
+  <h3>2. Deployment of Spotter drifting wave buoys during Typhoon Saudel (2026): Wyn Pauly</h3>
   <p>
   Four drifting Spotter buoys sampled Typhoon Saudel across distinct storm-relative environments, including the storm center and left-of-track sectors. Their trajectories show how the instruments were advected through rapidly changing wind and current fields while recording strongly variable sea states. The observations include full directional wave spectra, allowing the evolving combination of locally forced wind seas, remotely generated swell, and mixed-sea conditions to be separated rather than summarized by significant wave height alone.
   </p>
+    <figure class="result-figure spotter-animation">
+      <img src="saudel_spotter.gif" alt="Map of four Spotter buoy trajectories near Okinawa during Typhoon Saudel">
+      <figcaption>Trajectories and observation periods of the four Spotter buoys deployed west of the Okinawa main island, shown with the evolving typhoon track and wind field.</figcaption>
+    </figure>
   <p>
   These preliminary records demonstrate that a compact multi-buoy array can resolve large spatial differences in the wave field within a single typhoon. The measurements will be used to examine storm-relative wave asymmetry, wave-current interaction, buoy drift, and the performance of coupled simulations and wave-dependent surface-drag formulations.
   </p>
+    <figure class="result-figure">
+      <img src="saudel_spotter_storm_relative.png" alt="Storm-relative trajectories of four Spotter buoys during Typhoon Saudel with mean wind vectors">
+      <figcaption>Storm-relative view of the four Spotter trajectories. The buoys sampled the center and left side of the translating storm under substantially different wind and sea-state conditions.</figcaption>
+    </figure>
 
   <p>
   The combined time series compare ERA5 wind speeds with significant wave height and mean square slope estimated independently from all four Spotter buoys. As the buoys approached the storm center, significant wave height increased sharply and reached approximately 9 m at one Spotter. Differences among the four records highlight strong storm-scale spatial variability in both wave energy and short-wave surface roughness.
   </p>
 
-  <div class="result-grid">
-    <figure class="result-figure">
-      <img src="saudel_spotter_tracks.png" alt="Map of four Spotter buoy trajectories near Okinawa during Typhoon Saudel">
-      <figcaption>Trajectories and observation periods of the four Spotter buoys deployed west of the Okinawa main island, shown with the evolving typhoon track and wind field.</figcaption>
-    </figure>
-    <figure class="result-figure">
-      <img src="saudel_spotter_storm_relative.png" alt="Storm-relative trajectories of four Spotter buoys during Typhoon Saudel with mean wind vectors">
-      <figcaption>Storm-relative view of the four Spotter trajectories. The buoys sampled the center and left side of the translating storm under substantially different wind and sea-state conditions.</figcaption>
-    </figure>
-  </div>
   <figure class="result-figure">
     <img src="saudel_wind_wave.png" alt="Time series of ERA5 wind speed, significant wave height, and Spotter-derived mean square slope from four buoys during Typhoon Saudel">
     <figcaption>Time series from the four Spotter buoys during Typhoon Saudel. ERA5 wind speed is shown in the upper panel; Spotter-derived significant wave height and mean square slope are shown in the middle and lower panels. Dashed lines mark each buoy's closest approach to the storm center. Significant wave height reached approximately 9 m near the center of the storm.</figcaption>
