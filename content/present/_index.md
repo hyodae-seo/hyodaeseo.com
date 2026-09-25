@@ -59,6 +59,17 @@ build:
 
 ### 2026
 
+<a class="presentation-preview-link" href="/present/pdfs/2026/safari_sept_mtg.pdf"><img class="presentation-preview" src="/present/thumbnails/2026/SAFARI_webinar.png" alt="First slide of the ocean and surface-wave effects in atmospheric rivers presentation" width="260" align="right"></a>
+
+### [Understanding and Representing Effects of Ocean and Surface Waves in Atmospheric Rivers](/present/pdfs/2026/safari_sept_mtg.pdf)
+
+**A. Ho**, **C. Sauvage**, **H. Seo**
+
+**Oral presentation** · SAFARI Science Team Meeting  
+Online · September 24, 2026
+
+---
+
 <a class="presentation-preview-link" href="/present/pdfs/2026/SNU_Workshop_Hyodae_Seo.pdf"><img class="presentation-preview" src="/present/thumbnails/2026/SNU_Workshop_Hyodae_Seo.png" alt="First slide of the directional wave–wind coupling presentation" width="260" align="right"></a>
 
 ### [Directional Wave–Wind Coupling, Drag Coefficient Rolloff, and Air–Sea Fluxes Under Tropical Cyclones](/present/pdfs/2026/SNU_Workshop_Hyodae_Seo.pdf)
