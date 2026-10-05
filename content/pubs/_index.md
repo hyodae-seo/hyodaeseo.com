@@ -152,12 +152,15 @@ body.dark .pub-year-nav { border-color: #46535d; }
 **A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
 *Weather and Climate Dynamics, Submitted*
 
-- Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, **Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
-*EGU Ocean Science, Submitted*
-
 ---
 
 #### 2026
+
+74. Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, 2026: 
+**Multi-Year Predictability of Ocean Conditions on the U.S. Northeast Shelf Using Dynamical Downscaling**.
+*EGU Ocean Science, Accepted*
+---
+
 
 73. Kirincich, A., and coauthors including **H. Seo**, and **C. Sauvage**, 2026:
 [**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.](papers/kirincich.etal.bams.26.pdf)
