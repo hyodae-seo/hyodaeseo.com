@@ -157,7 +157,7 @@ body.dark .pub-year-nav { border-color: #46535d; }
 #### 2026
 
 74. Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, 2026: 
-**Multi-Year Predictability of Hydrography and Circulation on the U.S. Northeast Shelf: A Dynamical Downscaling Perspective**
+[**Multi-Year Predictability of Hydrography and Circulation on the U.S. Northeast Shelf: A Dynamical Downscaling Perspective**](papers/guo_etal.26.pdf)
 *EGUsphere*,
 https://doi.org/10.5194/egusphere-2026-3254
 ---

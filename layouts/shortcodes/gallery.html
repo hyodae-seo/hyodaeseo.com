@@ -1,0 +1,42 @@
+{{- $page := .Page -}}
+{{- $images := sort ($page.Resources.ByType "image") "Name" "asc" -}}
+{{- $items := slice -}}
+
+{{- range $images -}}
+  {{- $taken := "" -}}
+  {{- with .Params.taken -}}
+    {{- $taken = time.Format "2006-01-02T15:04:05" . -}}
+  {{- else -}}
+    {{- with .Exif -}}
+      {{- with .Date -}}
+        {{- $taken = time.Format "2006-01-02T15:04:05" . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $items = $items | append (dict "image" . "taken" $taken) -}}
+{{- end -}}
+
+<div class="photo-gallery">
+  {{- range sort $items "taken" "desc" }}
+    {{- $image := .image -}}
+    {{- $stem := replaceRE `\.[^.]+$` "" $image.Name -}}
+    {{- $captionName := printf "%s.txt" $stem -}}
+    {{- $caption := strings.TrimSpace ($image.Params.caption | default "") -}}
+    {{- if not $caption -}}
+      {{- with $page.Resources.GetMatch $captionName -}}
+        {{- $caption = strings.TrimSpace .Content -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $alt := $image.Params.alt | default (humanize $stem) -}}
+  <figure class="gallery-card">
+    <a href="{{ $image.RelPermalink }}"><img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy"></a>
+    <figcaption>
+      {{- if $caption -}}
+        {{- $caption | markdownify -}}
+      {{- else -}}
+        <span class="caption-placeholder">Caption to be added</span>
+      {{- end -}}
+    </figcaption>
+  </figure>
+  {{- end }}
+</div>
