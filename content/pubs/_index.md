@@ -157,13 +157,13 @@ body.dark .pub-year-nav { border-color: #46535d; }
 #### 2026
 
 74. Guo, Y., Carolina Castillo-Trujillo, A., K. Chen, Y.-O. Kwon, S. Perkins, **H. Seo**, P. Fratantoni, M. Alexander, V. Saba, 2026: 
-[**Multi-Year Predictability of Hydrography and Circulation on the U.S. Northeast Shelf: A Dynamical Downscaling Perspective**](papers/guo_etal.26.pdf)
+[**Multi-Year Predictability of Hydrography and Circulation on the U.S. Northeast Shelf: A Dynamical Downscaling Perspective**](papers/guo_etal.26.pdf),
 *EGUsphere*,
 https://doi.org/10.5194/egusphere-2026-3254
 ---
 
 73. Kirincich, A., and coauthors including **H. Seo**, and **C. Sauvage**, 2026:
-[**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**.](papers/kirincich.etal.bams.26.pdf)
+[**Improving the Understanding and Forecasting of Winds over the Northeast U.S. Shelf: The Third Wind Forecast Improvement Project (WFIP3)**](papers/kirincich.etal.bams.26.pdf),
 *Bull. Amer. Meteo. Soc.*, 
 https://doi.org/10.1175/BAMS-D-25-0201.1
 ---
