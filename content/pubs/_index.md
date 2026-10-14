@@ -175,7 +175,7 @@ https://doi.org/10.1029/2026JC024033
 ---
 
 71. **Renkl, C.**, **H. Seo**, and A. J. Miller, 2026:
-[**Marine heatwave impacts on landfalling atmospheric river on the U.S. West Coast**](papers/renkl.etal.26.scirepo.pdf),
+[**Marine heatwaves in the Northeast Pacific intensify landfalling atmospheric rivers on the west coast of North America**](papers/renkl.etal.26.scirepo.pdf),
 *Sci. Rep.*, 16, 23097.
 https://doi.org/10.1038/s41598-026-62522-2
 ---
