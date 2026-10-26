@@ -59,6 +59,30 @@ build:
 
 ### 2026
 
+<a class="presentation-preview-link" href="/present/pdfs/2026/TCOI_Seo_new.pdf"><img class="presentation-preview" src="/present/thumbnails/2026/TCOI_Seo_new.png" alt="First slide of the directional wave–wind coupling, drag coefficient rolloff, and air-sea fluxes under tropical cyclones presentation" width="260" align="right"></a>
+
+### [Directional Wave–Wind Coupling, Drag Coeﬃcient Rolloﬀ, and Air-Sea Fluxes Under Tropical Cyclones](/present/pdfs/2026/TCOI_Seo_new.pdf);
+
+**H. Seo**, **C. Sauvage**, T. Bhirawa, S. Mitarai
+
+**Oral presentation** · International Workshop on Tropical Cyclone - Ocean Interaction (TCOI) in the Northwest Pacific, 2026
+Busan South Korea · October 23, 2026
+
+---
+
+
+<a class="presentation-preview-link" href="/present/pdfs/2026/tcoi_poster_final_pauly.png"><img class="presentation-preview" src="/present/thumbnails/2026/tcoi_poster_final_pauly.png" alt="Poster preview of frequency-dependent wave adjustment during Typhoon Saudel" width="260" align="right"></a>
+
+### [From Inherited Waves to Local Forcing: Frequency-Dependent Wave Adjustment during Typhoon Saudel](/present/pdfs/2026/tcoi_poster_final_pauly.png)
+
+**W. Pauly**, **C. Sauvage**, **H. Seo**, T. Bhirawa, S. Mitarai
+
+**Poster presentation** · International Workshop on Tropical Cyclone - Ocean Interaction (TCOI) in the Northwest Pacific, 2026
+Busan South Korea · October 23, 2026
+
+---
+
+
 <a class="presentation-preview-link" href="/present/pdfs/2026/safari_sept_mtg.pdf"><img class="presentation-preview" src="/present/thumbnails/2026/SAFARI_webinar.png" alt="First slide of the ocean and surface-wave effects in atmospheric rivers presentation" width="260" align="right"></a>
 
 ### [Understanding and Representing Effects of Ocean and Surface Waves in Atmospheric Rivers](/present/pdfs/2026/safari_sept_mtg.pdf)
