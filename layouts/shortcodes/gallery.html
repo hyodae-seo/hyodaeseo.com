@@ -21,10 +21,10 @@
     {{- $image := .image -}}
     {{- $stem := replaceRE `\.[^.]+$` "" $image.Name -}}
     {{- $captionName := printf "%s.txt" $stem -}}
-    {{- $caption := strings.TrimSpace ($image.Params.caption | default "") -}}
+    {{- $caption := strings.Trim ($image.Params.caption | default "") " \t\r\n" -}}
     {{- if not $caption -}}
       {{- with $page.Resources.GetMatch $captionName -}}
-        {{- $caption = strings.TrimSpace .Content -}}
+        {{- $caption = strings.Trim .Content " \t\r\n" -}}
       {{- end -}}
     {{- end -}}
     {{- $alt := $image.Params.alt | default (humanize $stem) -}}
