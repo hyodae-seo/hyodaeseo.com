@@ -1,6 +1,13 @@
 {{- $page := .Page -}}
 {{- $images := sort ($page.Resources.ByType "image") "Name" "asc" -}}
 {{- $items := slice -}}
+{{- $positions := dict -}}
+{{- $position := 0 -}}
+
+{{- range $page.Params.resources -}}
+  {{- $position = add $position 1 -}}
+  {{- $positions = merge $positions (dict .src $position) -}}
+{{- end -}}
 
 {{- range $images -}}
   {{- $taken := "" -}}
@@ -21,18 +28,28 @@
       {{- $year = printf "%v" . -}}
     {{- end -}}
   {{- end -}}
-  {{- $sortKey := $taken | default (printf "%s-00-00T00:00:00" $year) -}}
-  {{- $items = $items | append (dict "image" . "taken" $taken "year" $year "sortKey" $sortKey) -}}
+  {{- $resourcePosition := 999999 -}}
+  {{- if isset $positions .Name -}}
+    {{- $resourcePosition = index $positions .Name -}}
+  {{- end -}}
+  {{- $items = $items | append (dict "image" . "taken" $taken "year" $year "position" $resourcePosition) -}}
 {{- end -}}
 
-{{- $currentYear := "" -}}
-{{- range sort $items "sortKey" "desc" }}
-  {{- if ne .year $currentYear -}}
-    {{- if $currentYear }}</div>{{ end }}
-    <div class="gallery-year" role="heading" aria-level="2">{{ .year }}</div>
-    <div class="photo-gallery">
-    {{- $currentYear = .year -}}
+{{- $years := slice -}}
+{{- range $items -}}
+  {{- if not (in $years .year) -}}
+    {{- $years = $years | append .year -}}
   {{- end -}}
+{{- end -}}
+
+{{- range sort $years "value" "desc" -}}
+  {{- $year := . -}}
+  {{- $yearItems := where $items "year" $year -}}
+  {{- $yearItems = sort $yearItems "position" "asc" -}}
+  {{- $displayYear := $year | default "Date unknown" -}}
+  <div class="gallery-year" role="heading" aria-level="2">{{ $displayYear }}</div>
+  <div class="photo-gallery">
+  {{- range $yearItems -}}
     {{- $image := .image -}}
     {{- $stem := replaceRE `\.[^.]+$` "" $image.Name -}}
     {{- $captionName := printf "%s.txt" $stem -}}
@@ -44,7 +61,7 @@
     {{- end -}}
     {{- $alt := $image.Params.alt | default (humanize $stem) -}}
   <figure class="gallery-card">
-    <a href="{{ $image.RelPermalink }}"><img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy"></a>
+    <a class="gallery-open" href="{{ $image.RelPermalink }}"><img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy"></a>
     <figcaption>
       {{- if $caption -}}
         {{- $caption | markdownify -}}
@@ -53,5 +70,86 @@
       {{- end -}}
     </figcaption>
   </figure>
-{{- end }}
-{{- if $currentYear }}</div>{{ end }}
+  {{- end -}}
+  </div>
+{{- end -}}
+
+<div class="gallery-lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
+  <button class="gallery-lightbox-close" type="button" aria-label="Close photo viewer">&times;</button>
+  <button class="gallery-lightbox-nav gallery-lightbox-prev" type="button" aria-label="Previous photo">&#10094;</button>
+  <figure class="gallery-lightbox-figure">
+    <img class="gallery-lightbox-image" src="" alt="">
+    <figcaption class="gallery-lightbox-caption"></figcaption>
+    <div class="gallery-lightbox-count" aria-live="polite"></div>
+  </figure>
+  <button class="gallery-lightbox-nav gallery-lightbox-next" type="button" aria-label="Next photo">&#10095;</button>
+</div>
+
+<script>
+(() => {
+  const viewer = document.querySelector('.gallery-lightbox');
+  if (!viewer || viewer.dataset.ready === 'true') return;
+
+  const links = Array.from(document.querySelectorAll('.gallery-open'));
+  if (!links.length) return;
+
+  const image = viewer.querySelector('.gallery-lightbox-image');
+  const caption = viewer.querySelector('.gallery-lightbox-caption');
+  const count = viewer.querySelector('.gallery-lightbox-count');
+  const closeButton = viewer.querySelector('.gallery-lightbox-close');
+  const previousButton = viewer.querySelector('.gallery-lightbox-prev');
+  const nextButton = viewer.querySelector('.gallery-lightbox-next');
+  let current = 0;
+  let opener = null;
+
+  const show = (requestedIndex) => {
+    current = (requestedIndex + links.length) % links.length;
+    const link = links[current];
+    const thumbnail = link.querySelector('img');
+    const cardCaption = link.closest('.gallery-card').querySelector('figcaption');
+
+    image.src = link.href;
+    image.alt = thumbnail ? thumbnail.alt : '';
+    caption.innerHTML = cardCaption ? cardCaption.innerHTML : '';
+    count.textContent = `${current + 1} / ${links.length}`;
+  };
+
+  const open = (index, link) => {
+    opener = link;
+    show(index);
+    viewer.hidden = false;
+    document.body.classList.add('gallery-lightbox-open');
+    closeButton.focus();
+  };
+
+  const close = () => {
+    viewer.hidden = true;
+    image.src = '';
+    document.body.classList.remove('gallery-lightbox-open');
+    if (opener) opener.focus();
+  };
+
+  links.forEach((link, index) => {
+    link.addEventListener('click', (event) => {
+      event.preventDefault();
+      open(index, link);
+    });
+  });
+
+  previousButton.addEventListener('click', () => show(current - 1));
+  nextButton.addEventListener('click', () => show(current + 1));
+  closeButton.addEventListener('click', close);
+  viewer.addEventListener('click', (event) => {
+    if (event.target === viewer) close();
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (viewer.hidden) return;
+    if (event.key === 'Escape') close();
+    if (event.key === 'ArrowLeft') show(current - 1);
+    if (event.key === 'ArrowRight') show(current + 1);
+  });
+
+  viewer.dataset.ready = 'true';
+})();
+</script>
