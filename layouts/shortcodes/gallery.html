@@ -4,20 +4,35 @@
 
 {{- range $images -}}
   {{- $taken := "" -}}
+  {{- $year := "" -}}
   {{- with .Params.taken -}}
     {{- $taken = time.Format "2006-01-02T15:04:05" . -}}
+    {{- $year = time.Format "2006" . -}}
   {{- else -}}
     {{- with .Exif -}}
       {{- with .Date -}}
         {{- $taken = time.Format "2006-01-02T15:04:05" . -}}
+        {{- $year = time.Format "2006" . -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
-  {{- $items = $items | append (dict "image" . "taken" $taken) -}}
+  {{- if not $year -}}
+    {{- with .Params.year -}}
+      {{- $year = printf "%v" . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $sortKey := $taken | default (printf "%s-00-00T00:00:00" $year) -}}
+  {{- $items = $items | append (dict "image" . "taken" $taken "year" $year "sortKey" $sortKey) -}}
 {{- end -}}
 
-<div class="photo-gallery">
-  {{- range sort $items "taken" "desc" }}
+{{- $currentYear := "" -}}
+{{- range sort $items "sortKey" "desc" }}
+  {{- if ne .year $currentYear -}}
+    {{- if $currentYear }}</div>{{ end }}
+    <div class="gallery-year" role="heading" aria-level="2">{{ .year }}</div>
+    <div class="photo-gallery">
+    {{- $currentYear = .year -}}
+  {{- end -}}
     {{- $image := .image -}}
     {{- $stem := replaceRE `\.[^.]+$` "" $image.Name -}}
     {{- $captionName := printf "%s.txt" $stem -}}
@@ -38,5 +53,5 @@
       {{- end -}}
     </figcaption>
   </figure>
-  {{- end }}
-</div>
+{{- end }}
+{{- if $currentYear }}</div>{{ end }}

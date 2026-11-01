@@ -3,6 +3,51 @@ title: Gallery
 date: 2026-09-27
 description: Photographs from SCOAR Lab research, presentations, meetings, and community activities.
 resources:
+  - src: Cesar AMS Hurricanes 2026.jpeg
+    params:
+      caption: ""
+      alt: César Sauvage presenting research at the 2026 AMS Hurricanes conference
+      taken: "2026-03-31 12:01:29"
+  - src: Cesar WISE 2025.jpeg
+    params:
+      caption: ""
+      alt: César Sauvage presenting research at WISE 2025
+      taken: "2025-05-13 12:08:21"
+  - src: Cesar Wave 2024.jpeg
+    params:
+      caption: ""
+      alt: César Sauvage presenting surface-wave research in 2024
+      taken: "2024-04-12 09:19:39"
+  - src: wyn-tcoi-2026.jpeg
+    params:
+      caption: ""
+      alt: Wyn Pauly and Hyodae Seo standing beside a Typhoon Saudel wave-adjustment poster at TCOI 2026
+      taken: "2026-10-22 18:19:38"
+  - src: seo-tcoi-2026.jpeg
+    params:
+      caption: ""
+      alt: Hyodae Seo presenting directional wave-wind coupling at TCOI 2026
+      taken: "2026-10-22 14:24:29"
+  - src: seo-tcoi-2026_2.jpeg
+    params:
+      caption: ""
+      alt: Hyodae Seo presenting directional wave-wind coupling at TCOI 2026
+      taken: "2026-10-22 14:24:29"
+  - src: cesar-windtech-2023.jpeg
+    params:
+      caption: ""
+      alt: César Sauvage standing beside a poster on misaligned wind waves at WindTech 2023
+      taken: "2023-11-01 10:12:15"
+  - src: sid-ams-hurricane-2026.jpeg
+    params:
+      caption: ""
+      alt: Hyodae Seo and Siddharth Kerhalkar standing beside a Cyclone Biparjoy poster at an AMS conference
+      taken: "2026-03-31 10:46:03"
+  - src: sid-buoy-2026.jpg
+    params:
+      caption: ""
+      alt: Siddharth Kerhalkar standing beside a Northern Indian Ocean wave-state poster
+      year: 2026
   - src: lab-group-2026.jpeg
     params:
       caption: "SCOAR Lab group photo"
@@ -21,43 +66,46 @@ resources:
   - src: wyn-buoys-2026.jpg
     params:
       caption: "Wyn!"
-      alt: Wym standing beside her tropical-cyclone wave-wind poster at the AMS Hurricanes and Tropical Cyclones Conference
+      alt: Wyn standing beside her tropical-cyclone wave-wind poster at the AMS Hurricanes and Tropical Cyclones Conference
       taken: "2026-05-01 12:32:43"
   - src: lab-meeting-2026.jpeg
     params:
       caption: "Lab meeting with Komazawa"
       alt: SCOAR Lab members meeting around a table
       taken: "2026-09-18 10:47:12"
+  - src: Koamazawa_Seo.png
+    params:
+      caption: "Lab meeting with Komazawa"
+      alt: With Komazawa
+      taken: "2026-09-18 10:47:12"
   - src: liam-gathering.jpeg
     params:
       caption: "At Liam, Falmouth, Winter 2023"
       alt: At Liam, 
+      year: 2023
   - src: quarterdeck-gathering.jpeg
     params:
       caption: "At Quarterdeck, Falmouth, Winter 2023"
       alt: Group photograph outside the Quarterdeck restaurant
-  - src: quarterdeck-gathering.jpeg
-    params:
-      caption: "At Quarterdeck, Falmouth, Winter 2023"
-      alt: Group photograph outside the Quarterdeck restaurant
-
+      year: 2023
 ---
 
 <!--
 ADDING A PHOTO
 1. Copy a JPEG, PNG, or WebP file into this content/gallery folder.
 2. Rebuild the Hugo site. If the photo contains an EXIF capture time, it is
-   automatically placed newest-first. Photos without a capture time follow.
+   automatically grouped by year and placed newest-first within that year.
 3. Add `caption`, `alt`, and (when needed) `taken` under the image's `params`
    entry above. A same-named .txt file remains supported as a caption fallback.
-4. If metadata was removed, add `taken: "YYYY-MM-DD HH:MM:SS"` to that image's
-   resource entry above to retain chronological sorting.
+4. If only the year is known, add `year: YYYY`. If the date is known, use
+   `taken: "YYYY-MM-DD HH:MM:SS"` for chronological sorting within the year.
 -->
 
 <style>
 .article-container { max-width: 1180px; }
 .article-style { font-size: 0.84rem; line-height: 1.5; }
 .gallery-intro { color: #53616c; margin: 0 0 1.4rem; max-width: 760px; }
+.gallery-year { clear: both; font-size: 1.05rem; font-weight: 700; margin: 1.7rem 0 0.75rem; }
 .photo-gallery { column-count: 3; column-gap: 1rem; }
 .gallery-card {
   background: #fff;
