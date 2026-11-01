@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: 
 date: 2026-09-27
 description: Photographs from SCOAR Lab research, presentations, meetings, and community activities.
 resources:
