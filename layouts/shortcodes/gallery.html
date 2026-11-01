@@ -10,46 +10,15 @@
 {{- end -}}
 
 {{- range $images -}}
-  {{- $taken := "" -}}
-  {{- $year := "" -}}
-  {{- with .Params.taken -}}
-    {{- $taken = time.Format "2006-01-02T15:04:05" . -}}
-    {{- $year = time.Format "2006" . -}}
-  {{- else -}}
-    {{- with .Exif -}}
-      {{- with .Date -}}
-        {{- $taken = time.Format "2006-01-02T15:04:05" . -}}
-        {{- $year = time.Format "2006" . -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-  {{- if not $year -}}
-    {{- with .Params.year -}}
-      {{- $year = printf "%v" . -}}
-    {{- end -}}
-  {{- end -}}
   {{- $resourcePosition := 999999 -}}
   {{- if isset $positions .Name -}}
     {{- $resourcePosition = index $positions .Name -}}
   {{- end -}}
-  {{- $items = $items | append (dict "image" . "taken" $taken "year" $year "position" $resourcePosition) -}}
+  {{- $items = $items | append (dict "image" . "position" $resourcePosition) -}}
 {{- end -}}
 
-{{- $years := slice -}}
-{{- range $items -}}
-  {{- if not (in $years .year) -}}
-    {{- $years = $years | append .year -}}
-  {{- end -}}
-{{- end -}}
-
-{{- range sort $years "value" "desc" -}}
-  {{- $year := . -}}
-  {{- $yearItems := where $items "year" $year -}}
-  {{- $yearItems = sort $yearItems "position" "asc" -}}
-  {{- $displayYear := $year | default "Date unknown" -}}
-  <div class="gallery-year" role="heading" aria-level="2">{{ $displayYear }}</div>
-  <div class="photo-gallery">
-  {{- range $yearItems -}}
+<div class="photo-gallery">
+  {{- range sort $items "position" "asc" -}}
     {{- $image := .image -}}
     {{- $stem := replaceRE `\.[^.]+$` "" $image.Name -}}
     {{- $captionName := printf "%s.txt" $stem -}}
@@ -71,8 +40,7 @@
     </figcaption>
   </figure>
   {{- end -}}
-  </div>
-{{- end -}}
+</div>
 
 <div class="gallery-lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
   <button class="gallery-lightbox-close" type="button" aria-label="Close photo viewer">&times;</button>

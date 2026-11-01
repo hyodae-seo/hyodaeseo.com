@@ -93,21 +93,19 @@ resources:
 <!--
 ADDING A PHOTO
 1. Copy a JPEG, PNG, or WebP file into this content/gallery folder.
-2. Rebuild the Hugo site. If the photo contains an EXIF capture time, it is
-   automatically assigned to the appropriate year.
+2. Add a resource block above in the position where the photo should appear.
 3. Add `caption`, `alt`, and (when needed) `taken` under the image's `params`
    entry above. A same-named .txt file remains supported as a caption fallback.
 4. The resource blocks above are the display order within each year. To move a
    photo, move its complete `- src:` block up or down; no renumbering is needed.
-5. If only the year is known, add `year: YYYY`. If the date is known, use
-   `taken: "YYYY-MM-DD HH:MM:SS"` so the photo is assigned to the right year.
+5. Keep `taken: "YYYY-MM-DD HH:MM:SS"` or `year: YYYY` as useful metadata;
+   these fields do not change the display order.
 -->
 
 <style>
 .article-container { max-width: 1180px; }
 .article-style { font-size: 0.84rem; line-height: 1.5; }
-.gallery-intro { color: #53616c; margin: 0 0 1.4rem; max-width: 760px; }
-.gallery-year { clear: both; font-size: 1.05rem; font-weight: 700; margin: 1.7rem 0 0.75rem; }
+.gallery-intro { color: #53616c; margin: 0 0 1.4rem; max-width: none; }
 .photo-gallery {
   align-items: start;
   display: grid;
@@ -236,6 +234,6 @@ body.dark .caption-placeholder { color: #9ea9b2; }
 }
 </style>
 
-<p class="gallery-intro">A growing collection of photographs from SCOAR Lab research, presentations, meetings, and community activities. Select a photograph to view the full-size image.</p>
+<p class="gallery-intro">A collection of photos from SCOAR Lab research, presentations, meetings, and community activities.</p>
 
 {{< gallery >}}
