@@ -30,6 +30,9 @@ main:
   - name: CV
     url: media/CV_Seo_full.pdf
     weight: 90
+  - name: Gallery
+    url: gallery
+    weight: 100
 # - name: Butterfly
 #   url: butterfly
 #   weight: 100
