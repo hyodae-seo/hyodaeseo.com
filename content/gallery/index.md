@@ -234,6 +234,6 @@ body.dark .caption-placeholder { color: #9ea9b2; }
 }
 </style>
 
-<p class="gallery-intro">A collection of photos from SCOAR Lab research, presentations, meetings, and community activities.</p>
+<p class="gallery-intro"></p>
 
 {{< gallery >}}
