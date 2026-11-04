@@ -1,0 +1,26 @@
+{{- $currentYear := 0 -}}
+<div class="presentation-archive">
+  {{- range site.Data.presentations -}}
+    {{- if ne .year $currentYear -}}
+      {{- $currentYear = .year -}}
+      <h2 id="{{ .year }}">{{ .year }}</h2>
+    {{- end -}}
+    <article class="presentation-entry">
+      <p class="presentation-citation">
+        <span class="presentation-authors">{{ .authors_html | safeHTML }}</span>.
+        <span class="presentation-type">[{{ .type }}].</span>
+        {{- if .href }}
+          <a class="presentation-title" href="{{ .href }}" target="_blank" rel="noopener">{{ .title }}</a>.
+        {{- else }}
+          <span class="presentation-title presentation-title-unlinked">{{ .title }}</span>.
+        {{- end }}
+        <span class="presentation-venue">{{ .event }}{{ with .location }}, {{ . }}{{ end }}, {{ .date }}.</span>
+      </p>
+      {{- if .thumbnail }}
+        {{- if .href }}<a class="presentation-preview-link" href="{{ .href }}" target="_blank" rel="noopener" aria-label="Open {{ .title }}">{{ end -}}
+          <img class="presentation-preview" src="{{ .thumbnail }}" alt="{{ .thumbnail_alt }}" loading="lazy">
+        {{- if .href }}</a>{{ end -}}
+      {{- end }}
+    </article>
+  {{- end -}}
+</div>
