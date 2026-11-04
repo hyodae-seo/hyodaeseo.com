@@ -63,8 +63,8 @@
 
 .presentation-entry {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 155px;
-  gap: 1.25rem;
+  grid-template-columns: minmax(0, 1fr) 230px;
+  gap: 1.4rem;
   align-items: start;
   padding: 1rem 0;
   border-top: 1px solid rgba(127, 127, 127, 0.28);
@@ -92,9 +92,9 @@
 }
 
 .presentation-archive .presentation-preview {
-  width: 155px;
+  width: 230px;
   max-width: 100%;
-  max-height: 108px;
+  max-height: 160px;
   height: auto;
   object-fit: contain;
   object-position: top center;
@@ -125,12 +125,12 @@
   }
 
   .presentation-entry {
-    grid-template-columns: minmax(0, 1fr) 92px;
+    grid-template-columns: minmax(0, 1fr) 120px;
     gap: 0.75rem;
   }
 
   .presentation-archive .presentation-preview {
-    width: 92px;
-    max-height: 80px;
+    width: 120px;
+    max-height: 105px;
   }
 }
