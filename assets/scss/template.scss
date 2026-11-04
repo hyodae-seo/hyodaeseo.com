@@ -87,6 +87,15 @@
   font-weight: 700;
 }
 
+.presentation-title-line,
+.presentation-venue {
+  display: block;
+}
+
+.presentation-title-line {
+  margin-top: 0.08rem;
+}
+
 .presentation-title-unlinked {
   color: inherit;
 }

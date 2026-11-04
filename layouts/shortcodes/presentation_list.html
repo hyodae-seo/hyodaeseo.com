@@ -9,11 +9,13 @@
       <p class="presentation-citation">
         <span class="presentation-authors">{{ .authors_html | safeHTML }}</span>.
         <span class="presentation-type">[{{ .type }}].</span>
-        {{- if .href }}
-          <a class="presentation-title" href="{{ .href }}" target="_blank" rel="noopener">{{ .title }}</a>.
-        {{- else }}
-          <span class="presentation-title presentation-title-unlinked">{{ .title }}</span>.
-        {{- end }}
+        <span class="presentation-title-line">
+          {{- if .href }}
+            <a class="presentation-title" href="{{ .href }}" target="_blank" rel="noopener">{{ .title }}</a>.
+          {{- else }}
+            <span class="presentation-title presentation-title-unlinked">{{ .title }}</span>.
+          {{- end }}
+        </span>
         <span class="presentation-venue">{{ .event }}{{ with .location }}, {{ . }}{{ end }}, {{ .date }}.</span>
       </p>
       {{- if .thumbnail }}
