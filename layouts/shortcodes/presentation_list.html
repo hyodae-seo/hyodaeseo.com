@@ -1,6 +1,6 @@
 {{- $currentYear := 0 -}}
 <div class="presentation-archive">
-  {{- range site.Data.presentations -}}
+  {{- range .Page.Params.presentations -}}
     {{- if ne .year $currentYear -}}
       {{- $currentYear = .year -}}
       <h2 id="{{ .year }}">{{ .year }}</h2>
