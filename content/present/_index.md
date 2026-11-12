@@ -200,6 +200,16 @@ presentations:
     thumbnail: "/present/thumbnails/2025/sauvage_cesar_talk_agu2025.png"
     thumbnail_alt: "First page of the marine boundary-layer presentation"
   - year: 2025
+    authors_html: "<strong>B. W. Barr</strong>, <strong>H. Seo</strong>, J. B. Edson, and C. A. Clayson"
+    type: "Oral presentation"
+    title: "Using High-Wind Direct Covariance Air-Sea Heat Flux Observations to Understand Sea Spray Physics and Inform Tropical Cyclone Model"
+    href: "/present/pdfs/2025/2025_12_BarrEtAl_AGU.pdf"
+    event: "AGU 2025 Fall Meeting"
+    location: "New Orleans, Louisiana, USA"
+    date: "Dec 2025"
+    thumbnail: "/present/thumbnails/2025/2025_12_BarrEtAl_AGU.png"
+    thumbnail_alt: "First slide of the AGU 2025 presentation on sea spray and air-sea heat flux"
+  - year: 2025
     authors_html: "<strong>Kerhalkar, S.</strong>, A. Tandon, J. MacKinnon, and <strong>H. Seo</strong>"
     type: "Oral presentation"
     title: "Impacts of Salinity Stratification and Wave-Based Formulations on SST in the Indian Ocean Mini-Warm Pool"

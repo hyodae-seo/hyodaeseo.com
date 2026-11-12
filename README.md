@@ -46,3 +46,18 @@ Please replace the demo images with your own.
 - Avatars
   - https://unsplash.com/photos/5yENNRbbat4
   - https://unsplash.com/photos/WNoLnJo7tS8
+
+## Add a presentation PDF
+
+Install Poppler once on macOS with `brew install poppler`. From the repository root, run:
+
+```bash
+./scripts/add-presentation-pdf.sh /path/to/MyTalk.pdf 2026
+```
+
+The script puts the PDF in `content/present/pdfs/2026/` and renders page 1
+to `content/present/thumbnails/2026/`. Use a filename without spaces. Paste the
+printed `href`, `thumbnail`, and `thumbnail_alt` into the new entry in
+`content/present/_index.md` alongside the title, authors, and event details.
+Both the title and thumbnail link to the PDF. Commit the entry, PDF, and
+thumbnail when publishing.
