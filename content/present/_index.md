@@ -10,6 +10,16 @@ build:
 # authors_html uses <strong>...</strong> for SCOAR Lab members.
 presentations:
   - year: 2026
+    authors_html: "<strong>Seo, H.</strong>, <strong>A. Ho</strong>, and <strong>C. Sauvage</strong>"
+    type: "Oral presentation"
+    title: "Understanding and Representing Effects of Ocean Surface Waves in Atmospheric Rivers"
+    href: "/present/pdfs/2026/202611_SAFARI_TIKIBAR.pdf"
+    event: "ONR SAFARI DRI KICKOFF MODELING AND PROCESSES REVIEW"
+    location: "AOML, Miami, FL"
+    date: "November 18-19, 2026"
+    thumbnail: "/present/thumbnails/2026/202611_SAFARI_TIKIBAR.png"
+    thumbnail_alt: ""
+  - year: 2026
     authors_html: "<strong>Seo, H.</strong>, <strong>C. Sauvage</strong>, T. Bhirawa, S. Mitarai"
     type: "Oral presentation"
     title: "Directional Wave–Wind Coupling, Drag Coefficient Rolloff, and Air–Sea Fluxes Under Tropical Cyclones"
