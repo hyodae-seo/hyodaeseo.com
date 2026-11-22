@@ -3,6 +3,11 @@ title:
 date: 2026-09-27
 description: Photographs from SCOAR Lab research, presentations, meetings, and community activities.
 resources:
+  - src: 202611_Miami.jpeg
+    params:
+      caption: "Alli, Cesar, and Hyoddae in Miami, November 17 2026"
+      alt:
+      taken: "2026-11-17 00:00:00"
   - src: 202611_Alli_Ho_SAFARI.jpeg
     params:
       caption: "Alli Ho presenting at ONR SAFARI Review (AMOL, Miami)"
