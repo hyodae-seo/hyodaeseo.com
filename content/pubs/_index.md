@@ -146,11 +146,11 @@ body.dark .pub-year-nav { border-color: #46535d; }
 #### Under Review or Revision
 - **Rai, S.**, S. Wijffels, **H. Seo**, J. T. Farrar, T. Lee, and R. A. Weller,
 **When Sampling Mismatches Take Over: Machine-Learning Approach to Find Weather Regimes that Drive Large Scatterometer and Buoy Wind Differences**
-*J. Geophys. Res. Oceans, Submitted*
+*J. Geophys. Res. Oceans, Under Revision*
 
 - Kim, H.-R., C Yoo, **H. Seo**, and B.-M. Kim,
 **A low-dimensional framework for interpreting Northern Hemisphere winter extratropical precipitation trends**,
-*Weather and Climate Dynamics, Submitted*
+*Weather and Climate Dynamics, Under Revision*
 
 ---
 
