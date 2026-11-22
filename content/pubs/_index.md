@@ -135,9 +135,9 @@ body.dark .pub-year-nav { border-color: #46535d; }
 
 #### In Preparation
 
-- Song, H., H. Seunu, **H. Seo**, D. J. McGillicuddy, Jr., K. Kwak, J. Yun, H.-J. Kim, J. Lee, K. Park, and J. Park,
-**Physical and Biogeochemical Characteristics of Four Types of Eddies in the Southern Ocean**,
-*In Prep*
+- **Sauvage, C.**, **H. Seo**, T. Bhirawa, and S. Mitarai, 
+**Impacts of High-Wind Drag Rolloff on Directional Wind–Wave Interactions and Air–Sea Fluxes in Tropical Cyclones**
+*In Prep for J. Geophys. Res. Oceans*
 
 - **Barr, B. W.**, **H. Seo**, J. B. Edson, C. A. Clayson, **C. Sauvage**, S. S. Chen, S. F. Zippel, B.-M. Kim, E. J. Thompson, and C. W. Fairall,
 **Understanding interfacial and sea spray heat fluxes in high winds using direct covariance air-sea flux observations**. 

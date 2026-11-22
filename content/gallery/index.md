@@ -3,6 +3,16 @@ title:
 date: 2026-09-27
 description: Photographs from SCOAR Lab research, presentations, meetings, and community activities.
 resources:
+  - src: 202611_Alli_Ho_SAFARI.jpeg
+    params:
+      caption: "Alli Ho presenting at ONR SAFARI Review (AMOL, Miami)"
+      alt: 
+      taken: "2026-11-18 00:00:00"
+  - src: 202611_Cesar_Sauvage_SAFARI.jpeg
+    params:
+      caption: "Cesar Sauvage presenting at ONR SAFARI Review (AMOL, Miami)"
+      alt:
+      taken: "2026-11-18 00:00:00"
   - src: wyn-tcoi-2026.jpeg
     params:
       caption: "Wyn Pauly and Hyodae Seo standing beside Wyn's poster at TCOI 2026 (Busan, South Korea)"
