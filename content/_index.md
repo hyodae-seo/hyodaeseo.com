@@ -58,9 +58,9 @@ sections:
         .home-preview-hero .hero-title { font-size: clamp(1rem, 1.8vw, 1.35rem); font-weight: 750; letter-spacing: -0.02em; line-height: 1.15; }
         .home-preview-hero .hero-lead { font-size: 0.82rem; line-height: 1.5; max-width: none; }
         .home-preview-hero .hero-lead > p { margin-bottom: 0.68rem; }
-        .home-preview-hero .hero-media { align-self: start; display: flex; flex-direction: column; justify-self: end; }
-        .home-preview-hero .hero-media img { border-radius: 0.55rem; box-shadow: 0 12px 30px rgba(29, 49, 66, 0.14); height: auto; max-width: 680px; width: 100%; }
-        .home-preview-hero .hero-media::after { color: #59636c; content: "Liam’s, Falmouth, MA, Winter 2023."; display: block; flex: 0 0 auto; font-size: 0.66rem; line-height: 1.4; margin: 0.45rem auto 0; max-width: 680px; text-align: right; width: 100%; }
+        .home-preview-hero .hero-media { align-items: flex-end; align-self: start; display: flex; flex-direction: column; justify-self: end; width: 100%; }
+        .home-preview-hero .hero-media img { border-radius: 0.55rem; box-shadow: 0 12px 30px rgba(29, 49, 66, 0.14); height: auto; max-width: 380px; width: 100%; }
+        .home-preview-hero .hero-media::after { color: #59636c; content: "Liam’s, Falmouth, MA, Winter 2023."; display: block; flex: 0 0 auto; font-size: 0.66rem; line-height: 1.4; margin: 0.45rem 0 0; max-width: 380px; text-align: right; width: 100%; }
         .home-preview-hero .btn { font-size: 0.8rem; padding: 0.55rem 0.85rem; }
         .home-preview-hero .hero-cta-alt { font-size: 0.8rem; }
         .home-code-callout { background: #e2f1fb; border: 2px solid #1769aa; border-left-width: 6px; border-radius: 0.38rem; box-shadow: 0 5px 14px rgba(23, 105, 170, 0.16); box-sizing: border-box; color: #17212a; font-size: 0.78rem; line-height: 1.48; margin: 0.9rem 0 0; max-width: 620px; padding: 0.75rem 0.85rem; width: 100%; }
@@ -99,8 +99,8 @@ sections:
         @media (max-width: 1099px) {
           .home-preview-hero .row { display: block; }
           .home-preview-hero .row > [class*="col-"] { flex: none; max-width: 100%; width: 100%; }
-          .home-preview-hero .hero-media { margin-top: 1.25rem; }
-          .home-preview-hero .hero-media img { margin: 0 auto; max-width: 680px; }
+          .home-preview-hero .hero-media { align-items: center; margin-top: 1.25rem; }
+          .home-preview-hero .hero-media img { margin: 0 auto; max-width: 380px; }
         }
         @media (max-width: 700px) {
           .home-preview-methods, .home-preview-themes, .home-preview-links { grid-template-columns: 1fr; }
